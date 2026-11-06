@@ -1,0 +1,275 @@
+[
+  {
+    "id": "nvidia-mistral-equity-2026",
+    "source": "nvidia",
+    "target": "mistral",
+    "type": "investment",
+    "title_he": "NVIDIA משקיעה ב-Mistral ומשתתפת גם בסבב D",
+    "summary_he": "Mistral זיהתה את NVIDIA כמשקיעה קיימת שהשתתפה בסבב D בספטמבר 2026. NVIDIA השתתפה גם בסבב C מ-2025; חלקה הכספי בסבבים לא פורסם.",
+    "announced_at": "2026-09-08",
+    "status": "completed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "הסכום הפרטני לא פורסם"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה אל החברה המגייסת",
+    "caveat_he": "שלושה מיליארד האירו הם סכום סבב D כולו, ו-1.7 מיליארד הם סבב C כולו. אין לייחס סכומים אלה ל-NVIDIA או להציגם כהשקעה דו-צדדית.",
+    "sources": [
+      {
+        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+        "title": "גיוס סבב D של Mistral",
+        "publisher": "Mistral",
+        "published_at": "2026-09-08",
+        "kind": "primary"
+      },
+      {
+        "url": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/",
+        "title": "גיוס סבב C של Mistral",
+        "publisher": "Mistral",
+        "published_at": "2025-09-09",
+        "kind": "primary"
+      },
+      {
+        "url": "https://mistral.ai/news/",
+        "title": "יומן הודעות Mistral, אימות תאריך סבב D",
+        "publisher": "Mistral",
+        "published_at": "2026-09-08",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nvidia-mistral-engineering-2026",
+    "source": "nvidia",
+    "target": "mistral",
+    "type": "partnership",
+    "title_he": "Mistral ו-NVIDIA מרחיבות שיתוף פעולה להנדסה תעשייתית",
+    "summary_he": "באוקטובר 2026 הודיעו החברות על שילוב מודלי Mistral עם תשתיות החישוב וכלי הסימולציה של NVIDIA. התוכנית כוללת תהליכי תכנון והנדסה בעזרת AI, נתונים פתוחים ומבחני השוואה משותפים.",
+    "announced_at": "2026-10-21",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "הסכום הפרטני לא פורסם"
+    },
+    "capacity_he": "",
+    "direction_he": "שיתוף פעולה בין הצדדים",
+    "caveat_he": "ההודעה מתארת שותפות טכנולוגית. לא פורסמו תמורה כספית או השקעה חדשה של NVIDIA.",
+    "sources": [
+      {
+        "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+        "title": "שיתוף הפעולה להנדסה תעשייתית",
+        "publisher": "Mistral",
+        "published_at": "2026-10-21",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nvidia-mistral-nemotron-2026",
+    "source": "nvidia",
+    "target": "mistral",
+    "type": "partnership",
+    "title_he": "פיתוח משותף של מודלים פתוחים במסגרת Nemotron",
+    "summary_he": "Mistral הצטרפה כמייסדת לקואליציית Nemotron של NVIDIA. השותפות נועדה לשלב את שיטות האימון והארכיטקטורה של Mistral עם מחשוב, כלים ונתונים סינתטיים של NVIDIA לצורך פיתוח מודלי בסיס פתוחים.",
+    "announced_at": "2026-03-16",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "הסכום הפרטני לא פורסם"
+    },
+    "capacity_he": "",
+    "direction_he": "שיתוף פעולה בין הצדדים",
+    "caveat_he": "זו שותפות מחקר ופיתוח נפרדת מהאחזקה ההונית. לא נחשפו מחיר או סכום מימון.",
+    "sources": [
+      {
+        "url": "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/",
+        "title": "שותפות לפיתוח מודלים פתוחים",
+        "publisher": "Mistral",
+        "published_at": "2026-03-16",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "amazon-nvidia-expanded-supply-2026",
+    "source": "amazon",
+    "target": "nvidia",
+    "type": "supply",
+    "title_he": "AWS ו-NVIDIA מרחיבות פריסה בשני מיליון GPU נוספים",
+    "summary_he": "באוגוסט 2026 הודיעו AWS ו-NVIDIA על הרחבת שיתוף הפעולה לפריסת שני מיליון GPU נוספים בשנים 2027 ו-2028. ההרחבה כוללת גם מעבדי Vera, רשתות, שילוב עם AWS Nitro ו-EFA וכלים למודלים פתוחים ולרובוטיקה.",
+    "announced_at": "2026-08-26",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "הסכום הפרטני לא פורסם"
+    },
+    "capacity_he": "שני מיליון GPU נוספים ב-2027 וב-2028",
+    "direction_he": "הלקוחה אל ספקית המערכות",
+    "caveat_he": "החברות מתארות תוכנית פריסה עתידית. סכום הרכש לא פורסם; אין להמיר את מספר המעבדים לאומדן כספי לא מאומת.",
+    "sources": [
+      {
+        "url": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai",
+        "title": "הרחבת שיתוף הפעולה AWS ו-NVIDIA",
+        "publisher": "NVIDIA",
+        "published_at": "2026-08-26",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "google-nvidia-a5x-2026",
+    "source": "google",
+    "target": "nvidia",
+    "type": "supply",
+    "title_he": "Google Cloud ו-NVIDIA מרחיבות תשתיות ושירותי AI",
+    "summary_he": "באפריל 2026 הכריזו החברות על מערכות A5X המבוססות על NVIDIA Vera Rubin ועל שילובים נוספים בין חומרה, רשתות ותוכנה. שיתוף הפעולה כולל גם סביבת AI לסוכנים, מודלי Nemotron ותמיכה ב-Gemini על Google Distributed Cloud עם Blackwell.",
+    "announced_at": "2026-04-22",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "הסכום הפרטני לא פורסם"
+    },
+    "capacity_he": "A5X עם Vera Rubin NVL72; יכולת הרחבה רב-אתרית",
+    "direction_he": "הלקוחה אל ספקית המערכות",
+    "caveat_he": "הרחבת היכולת התכנונית של אשכול אינה הזמנה או התקנה של מלוא מספר המעבדים הנתמך. שווי ההתקשרות לא נחשף.",
+    "sources": [
+      {
+        "url": "https://blogs.nvidia.com/blog/google-cloud-agentic-physical-ai-factories/",
+        "title": "הרחבת תשתיות Google Cloud ו-NVIDIA",
+        "publisher": "NVIDIA",
+        "published_at": "2026-04-22",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "microsoft-nvidia-fairwater-supply-2026",
+    "source": "microsoft",
+    "target": "nvidia",
+    "type": "supply",
+    "title_he": "Microsoft ו-NVIDIA מפעילות ומרחיבות תשתיות Fairwater",
+    "summary_he": "לפי הודעת NVIDIA מיוני 2026, מפעל ה-AI של Microsoft בוויסקונסין כבר פועל על מערכות Grace Blackwell ומקושר למתקן בג׳ורג׳יה. הצדדים אימתו גם את פלטפורמת Vera Rubin לפריסות Azure עתידיות במסגרת הנדסה משותפת.",
+    "announced_at": "2026-06-02",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "הסכום הפרטני לא פורסם"
+    },
+    "capacity_he": "Fairwater בוויסקונסין ובג׳ורג׳יה; אימות Vera Rubin",
+    "direction_he": "הלקוחה אל ספקית המערכות",
+    "caveat_he": "התפעול הקיים של Blackwell והפריסות העתידיות של Rubin הם שלבים שונים. לא נמסר שווי חוזה רכש דו-צדדי.",
+    "sources": [
+      {
+        "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
+        "title": "הרחבת שותפות Microsoft ו-NVIDIA ב-Build",
+        "publisher": "NVIDIA",
+        "published_at": "2026-06-02",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "microsoft-nvidia-agent-platform-2026",
+    "source": "microsoft",
+    "target": "nvidia",
+    "type": "partnership",
+    "title_he": "שותפות Microsoft ו-NVIDIA לסוכני AI במחשב ובענן",
+    "summary_he": "Microsoft ו-NVIDIA הרחיבו שיתוף פעולה על פלטפורמה משולבת לסוכני AI, מ-Windows ועד Azure. ההרחבה כוללת מחשבי RTX Spark, שילוב מודלים ב-Foundry, האצת Microsoft Fabric ושילוב סביבת האבטחה OpenShell ב-GitHub Copilot.",
+    "announced_at": "2026-06-02",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "הסכום הפרטני לא פורסם"
+    },
+    "capacity_he": "",
+    "direction_he": "שיתוף פעולה בין הצדדים",
+    "caveat_he": "רשומה זו מתארת שילובי תוכנה ומוצר. תשתיות Fairwater מופיעות בנפרד; לא פורסם סכום השקעה הונית.",
+    "sources": [
+      {
+        "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
+        "title": "הרחבת שותפות Microsoft ו-NVIDIA ב-Build",
+        "publisher": "NVIDIA",
+        "published_at": "2026-06-02",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nvidia-coreweave-seriesb-2023",
+    "source": "nvidia",
+    "target": "coreweave",
+    "type": "investment",
+    "title_he": "NVIDIA השקיעה ב-CoreWeave כבר בסבב B של 2023",
+    "summary_he": "NVIDIA השתתפה בסבב B של CoreWeave באפריל 2023. הסבב הכולל הסתכם ב-221 מיליון דולר והובל בידי Magnetar, אך סכום ההשקעה הפרטני של NVIDIA לא פורסם במקורות הראשוניים שנבדקו.",
+    "announced_at": "2023-04-20",
+    "status": "completed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "הסכום הפרטני לא פורסם"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה אל החברה המגייסת",
+    "caveat_he": "221 מיליון דולר הם סכום הסבב, ולא השקעת NVIDIA. השקעת שני מיליארד הדולר מינואר 2026 היא עסקה נפרדת.",
+    "sources": [
+      {
+        "url": "https://www.lw.com/en/news/2023/04/latham-watkins-represents-nvidia-on-investment-in-coreweave",
+        "title": "ייצוג NVIDIA בהשקעת CoreWeave",
+        "publisher": "Latham & Watkins, יועצת העסקה של NVIDIA",
+        "published_at": "2023-04-20",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.coreweave.com/news/coreweave-secures-2-3-billion-debt-financing-facility-led-by-magnetar-capital-and-blackstone-to-meet-surging-demand-and-ongoing-expansion-of-specialized-cloud-infrastructure-to-power-ai",
+        "title": "CoreWeave מאשרת את משקיעות סבב B",
+        "publisher": "CoreWeave",
+        "published_at": "2023-08-03",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nvidia-anthropic-engineering-2026",
+    "source": "nvidia",
+    "target": "anthropic",
+    "type": "partnership",
+    "title_he": "Anthropic מאשרת שותפות הנדסית ישירה עם NVIDIA",
+    "summary_he": "בתשקיף המתוקן מנובמבר 2026 מאשרת Anthropic שותפות אסטרטגית עם NVIDIA להתאמת חומרה לצורכי המודלים שלה. השותפות כוללת גישה למערכות Grace Blackwell ו-Vera Rubin, בין היתר באמצעות ספקיות מחשוב.",
+    "announced_at": "2026-11-02",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "הסכום הפרטני לא פורסם"
+    },
+    "capacity_he": "",
+    "direction_he": "שיתוף פעולה בין הצדדים",
+    "caveat_he": "מועד הרשומה הוא מועד האימות בתשקיף, ולא תאריך החוזה המקורי. המחשוב דרך Microsoft, SpaceXAI, Nscale ו-Lambda אינו רכש כספי ישיר נוסף מ-NVIDIA.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
+        "title": "תשקיף Anthropic המתוקן, סעיף התשתיות",
+        "publisher": "Anthropic / SEC",
+        "published_at": "2026-11-02",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  }
+]

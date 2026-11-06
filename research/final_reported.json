@@ -1,0 +1,63 @@
+[
+  {
+    "id": "meta-google-cloud-reported-2025",
+    "source": "meta",
+    "target": "google",
+    "type": "compute",
+    "title_he": "דיווח: הסכם ענן לשש שנים בהיקף העולה על 10 מיליארד דולר",
+    "summary_he": "Reuters דיווחה כי Meta חתמה על הסכם לשש שנים עם Google Cloud, בהיקף העולה על 10 מיליארד דולר. לפי מקור המעורה בפרטים, ההסכם מעניק ל־Meta שימוש בשרתים, אחסון, תקשורת ושירותי ענן נוספים של Google.",
+    "announced_at": "2025-08-21",
+    "status": "reported",
+    "value": {
+      "amount": 10000000000,
+      "currency": "USD",
+      "qualifier_he": "יותר מ־10 מיליארד דולר לשש שנים, לפי דיווח Reuters; זהו סף תחתון מדווח ולא סכום מדויק"
+    },
+    "direction_he": "לפי הדיווח, Meta רוכשת שירותי ענן מ־Google.",
+    "caveat_he": "הסכום והתנאים נסמכים על דיווח עיתונאי מפי מקור אנונימי. Meta ו־Google לא אישרו את הפרטים בדיווח המקורי; לא אותרו בבדיקה עד 6 בנובמבר 2026 אישור פומבי מפורט או דיווח אמין על ביטול. היעדר דיווח ביטול אינו אימות עצמאי לביצוע ההסכם או למצבו הנוכחי.",
+    "sources": [
+      {
+        "url": "https://www.investing.com/news/stock-market-news/meta-signs-10-billionplus-cloud-deal-with-google-the-information-reports-4205829",
+        "title": "Meta signs over $10 billion cloud deal with Google, source says",
+        "publisher": "Reuters via Investing.com",
+        "published_at": "2025-08-21",
+        "kind": "secondary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "meta-midjourney-licensing-reported-2025",
+    "source": "meta",
+    "target": "midjourney",
+    "type": "partnership",
+    "title_he": "רישוי טכנולוגיית Midjourney למוצרי Meta",
+    "summary_he": "Reuters דיווחה על הסכם רישוי ושיתוף פעולה מחקרי בין Meta ל־Midjourney, בהסתמך על הודעת מנהל ה־AI של Meta. ביולי 2026 דיווח Financial Times כי Meta מתחילה להחליף חלק מיכולות התמונה במודל שלה, בעוד Midjourney ממשיכה לתמוך בחלק מיכולות הווידאו.",
+    "announced_at": "2025-08-22",
+    "status": "reported",
+    "value": {
+      "amount": null,
+      "currency": "USD",
+      "qualifier_he": "לא פורסם סכום מדויק; דיווח FT מ־2026 מתאר הסכם רב־שנתי בהיקף של מיליארדי דולרים"
+    },
+    "direction_he": "Meta מקבלת רישיון לטכנולוגיית Midjourney; אין כאן רכישת החברה או השקעה במניותיה.",
+    "caveat_he": "המקורות המצורפים הם דיווחים עיתונאיים, ולא נוסח ההסכם. דיווח יולי 2026 מתאר החלפה חלקית והמשך שימוש בווידאו, ולכן אין להציג את כל שיתוף הפעולה כאילו בוטל או את כל היקפו כאילו נותר ללא שינוי.",
+    "sources": [
+      {
+        "url": "https://www.reuters.com/business/meta-partners-with-midjourney-license-ai-tech-future-products-2025-08-22/",
+        "title": "Meta partners with Midjourney to license AI tech for future products",
+        "publisher": "Reuters",
+        "published_at": "2025-08-22",
+        "kind": "secondary"
+      },
+      {
+        "url": "https://www.ft.com/content/389f9102-fb5d-471a-bc50-9c591b7f7994",
+        "title": "Meta releases first image model since Mark Zuckerberg's AI overhaul",
+        "publisher": "Financial Times",
+        "published_at": "2026-07-07",
+        "kind": "secondary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  }
+]

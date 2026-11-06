@@ -1,0 +1,261 @@
+[
+  {
+    "id": "google-anthropic-notes-historical-2023-2025",
+    "source": "google",
+    "target": "anthropic",
+    "type": "investment",
+    "title_he": "השקעות Google באג״ח Anthropic לפני סבבי 2026",
+    "summary_he": "מסגרת 2023 כללה 2 מיליארד דולר שניתנו בשלושה שלבים עד ספטמבר 2025. מסגרת נפרדת מאוגוסט 2024 הוסיפה כ-1.3 מיליארד דולר; כל האג״ח הומרו למניות עד ינואר 2026.",
+    "announced_at": "2023-09",
+    "status": "completed",
+    "value": {
+      "amount": 3300000000,
+      "currency": "USD",
+      "qualifier_he": "סכום קרן מצטבר בשתי מסגרות אג״ח היסטוריות"
+    },
+    "caveat_he": "סכום מצטבר בשתי עסקאות, ולא המחאה אחת או השקעה חדשה ב-2025. נפרד מההשקעות ומהמסגרת של 2026; אינו ממצה השקעות הון מוקדמות אחרות.",
+    "capacity_he": "",
+    "direction_he": "המשקיעה מממנת את החברה המקבלת.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
+        "title": "Anthropic S-1/A",
+        "publisher": "Anthropic / SEC",
+        "published_at": "2026-11-02",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "openai-google-cloud-infrastructure-confirmed",
+    "source": "openai",
+    "target": "google",
+    "type": "compute",
+    "title_he": "Google Cloud מספקת תשתיות ענן ל-OpenAI",
+    "summary_he": "ברשימת ספקיות המשנה הרשמית של OpenAI, שעודכנה באוקטובר 2026, Google Cloud מופיעה כספקית תשתיות עבור שירותי API ומוצרי ChatGPT לארגונים. זהו קשר תשתיות נפרד מהפצת מודלי OpenAI ב-Google Cloud.",
+    "announced_at": "2026-10-14",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "סכום ההתקשרות ותנאי הרכש לא פורסמו"
+    },
+    "caveat_he": "התאריך מתייחס לעדכון הגילוי הרשמי, ולא ליום החתימה המקורי. הרשימה מאמתת אספקת תשתיות ואינה חושפת הסכם השקעה או היקף GPU.",
+    "capacity_he": "",
+    "direction_he": "הלקוחה משלמת לספקית המחשוב.",
+    "sources": [
+      {
+        "url": "https://openai.com/policies/sub-processor-list/",
+        "title": "OpenAI Sub-processor list",
+        "publisher": "OpenAI",
+        "published_at": "2026-10-14",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "anthropic-spacex-compute-current-2026",
+    "source": "anthropic",
+    "target": "spacex",
+    "type": "compute",
+    "title_he": "Anthropic רוכשת מחשוב מ-SpaceX בהיקף של עד 120.5 מיליארד דולר",
+    "summary_he": "הסכמי המחשוב עודכנו בין מאי לאוקטובר 2026. התקרה החוזית היא 120.5 מיליארד דולר עד 2029, והתשלום בהגעה למלוא הקיבולת הוא כ-3.1 מיליארד דולר לחודש.",
+    "announced_at": "2026-05-06",
+    "status": "signed",
+    "value": {
+      "amount": 120500000000,
+      "currency": "USD",
+      "qualifier_he": "עד סכום זה; בכפוף לזכויות ביטול"
+    },
+    "caveat_he": "לאחר תקופות ראשוניות המסתיימות בינואר ובמרץ 2027 ניתן לבטל בהודעה של 90 יום. התקרה אינה הכנסה מובטחת או סכום שכבר שולם.",
+    "capacity_he": "קיבולת מבוססת NVIDIA GPU; ההסכם המקורי כלל גישה ל-Colossus 1.",
+    "direction_he": "הלקוחה משלמת לספקית המחשוב.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
+        "title": "Anthropic S-1/A",
+        "publisher": "Anthropic / SEC",
+        "published_at": "2026-11-02",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.anthropic.com/news/higher-limits-spacex",
+        "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+        "publisher": "Anthropic",
+        "published_at": "2026-05-06",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "google-spacex-compute-2026",
+    "source": "google",
+    "target": "spacex",
+    "type": "compute",
+    "title_he": "Google שוכרת קיבולת GPU מ-SpaceX",
+    "summary_he": "SpaceX דיווחה על הסכם מ-5 ביוני 2026 למתן גישה לכ-110 אלף מעבדים גרפיים של NVIDIA ולרכיבי מחשוב נלווים. התשלום המלא שנקבע הוא 920 מיליון דולר לחודש מאוקטובר 2026 עד יוני 2029, לאחר תקופת פריסה בתעריף מופחת.",
+    "announced_at": "2026-06-05",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "תשלום מלא של 920 מיליון דולר לחודש; לא פורסם כאן שווי עסקה כולל"
+    },
+    "caveat_he": "לאחר 31 בדצמבר 2026 ניתן לבטל בהודעה של 90 יום. ההסכם כלל גם זכות ביטול או הפחתת תשלום במקרה של אי-מסירת מלוא הקיבולת; אין להכפיל את המחיר החודשי ולהציגו כהכנסה מובטחת.",
+    "capacity_he": "כ-110 אלף מעבדים גרפיים של NVIDIA.",
+    "direction_he": "הלקוחה משלמת לספקית המחשוב.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026041150/spacexagreementfwp.htm",
+        "title": "SpaceX Free Writing Prospectus: Google Cloud Service Agreement",
+        "publisher": "SpaceX / SEC",
+        "published_at": "2026-06",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "broadcom-anthropic-financing-npa-2026",
+    "source": "broadcom",
+    "target": "anthropic",
+    "type": "financing",
+    "title_he": "Broadcom מעמידה מסגרת מימון של עד 42 מיליארד דולר ל-Anthropic",
+    "summary_he": "Anthropic רשאית להנפיק אג״ח להמרה לצורך מימון תשלומי שכירות של ציוד מחשוב במסגרת הסכם ממרץ 2026. בסוף ספטמבר מלוא מסגרת 42 מיליארד הדולר נותרה בלתי מנוצלת.",
+    "announced_at": "2026-03",
+    "status": "signed",
+    "value": {
+      "amount": 42000000000,
+      "currency": "USD",
+      "qualifier_he": "מסגרת אג״ח להמרה מותנית ובלתי מנוצלת"
+    },
+    "caveat_he": "Broadcom רשאית להמחות את המסגרת לשותף פיננסי בהסכמת Anthropic. המסגרת נפרדת מחבות השכירות עצמה ומתמיכה בשווי הציוד; אין לראות בה השקעת מניות שבוצעה או לסכום אותה כשכבת הוצאה נוספת.",
+    "capacity_he": "",
+    "direction_he": "Broadcom, או שותף פיננסי מורשה, מממנת את התחייבויות השכירות של Anthropic.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
+        "title": "Anthropic S-1/A",
+        "publisher": "Anthropic / SEC",
+        "published_at": "2026-11-02",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "softbank-stargate-equity-announcement-2025",
+    "source": "softbank",
+    "target": "stargate",
+    "type": "investment",
+    "title_he": "SoftBank נמנית עם מממנות ההון הראשוניות של Stargate",
+    "summary_he": "בהודעת הקמת Stargate נכללה SoftBank בין מממנות ההון הראשוניות, לצד יתר השותפות. SoftBank הוגדרה שותפה מובילה בעלת אחריות פיננסית לפרויקט.",
+    "announced_at": "2025-01-21",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "חלקה הכספי של כל שותפה לא פורסם בהודעה"
+    },
+    "caveat_he": "ההשקעה היא ב-Stargate, ולא ישירות ב-OpenAI. יעד ההשקעה הכולל של הפרויקט אינו המחאה של שותפה מסוימת, וההודעה אינה מאשרת העברת סכום פרטני.",
+    "capacity_he": "",
+    "direction_he": "החץ מציין מימון הון מתוכנן לחברת Stargate, ללא סכום פרטני מאומת.",
+    "sources": [
+      {
+        "url": "https://openai.com/index/announcing-the-stargate-project/",
+        "title": "Announcing The Stargate Project",
+        "publisher": "OpenAI",
+        "published_at": "2025-01-21",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "oracle-stargate-equity-announcement-2025",
+    "source": "oracle",
+    "target": "stargate",
+    "type": "investment",
+    "title_he": "Oracle נמנית עם מממנות ההון הראשוניות של Stargate",
+    "summary_he": "בהודעת הקמת Stargate נכללה Oracle בין מממנות ההון הראשוניות, לצד יתר השותפות. Oracle נכללה גם בין השותפות הטכנולוגיות הראשוניות.",
+    "announced_at": "2025-01-21",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "חלקה הכספי של כל שותפה לא פורסם בהודעה"
+    },
+    "caveat_he": "ההשקעה היא ב-Stargate, ולא ישירות ב-OpenAI. יעד ההשקעה הכולל של הפרויקט אינו המחאה של שותפה מסוימת, וההודעה אינה מאשרת העברת סכום פרטני.",
+    "capacity_he": "",
+    "direction_he": "החץ מציין מימון הון מתוכנן לחברת Stargate, ללא סכום פרטני מאומת.",
+    "sources": [
+      {
+        "url": "https://openai.com/index/announcing-the-stargate-project/",
+        "title": "Announcing The Stargate Project",
+        "publisher": "OpenAI",
+        "published_at": "2025-01-21",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "openai-stargate-equity-announcement-2025",
+    "source": "openai",
+    "target": "stargate",
+    "type": "investment",
+    "title_he": "OpenAI נמנית עם מממנות ההון הראשוניות של Stargate",
+    "summary_he": "בהודעת הקמת Stargate נכללה OpenAI בין מממנות ההון הראשוניות, לצד יתר השותפות. OpenAI הוגדרה שותפה מובילה בעלת אחריות תפעולית לפרויקט.",
+    "announced_at": "2025-01-21",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "חלקה הכספי של כל שותפה לא פורסם בהודעה"
+    },
+    "caveat_he": "ההשקעה היא ב-Stargate, ולא ישירות ב-OpenAI. יעד ההשקעה הכולל של הפרויקט אינו המחאה של שותפה מסוימת, וההודעה אינה מאשרת העברת סכום פרטני.",
+    "capacity_he": "",
+    "direction_he": "החץ מציין מימון הון מתוכנן לחברת Stargate, ללא סכום פרטני מאומת.",
+    "sources": [
+      {
+        "url": "https://openai.com/index/announcing-the-stargate-project/",
+        "title": "Announcing The Stargate Project",
+        "publisher": "OpenAI",
+        "published_at": "2025-01-21",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "mgx-stargate-equity-announcement-2025",
+    "source": "mgx",
+    "target": "stargate",
+    "type": "investment",
+    "title_he": "MGX נמנית עם מממנות ההון הראשוניות של Stargate",
+    "summary_he": "בהודעת הקמת Stargate נכללה MGX בין מממנות ההון הראשוניות, לצד יתר השותפות. MGX נכללה ברשימת מממנות ההון הראשוניות של החברה.",
+    "announced_at": "2025-01-21",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "חלקה הכספי של כל שותפה לא פורסם בהודעה"
+    },
+    "caveat_he": "ההשקעה היא ב-Stargate, ולא ישירות ב-OpenAI. יעד ההשקעה הכולל של הפרויקט אינו המחאה של שותפה מסוימת, וההודעה אינה מאשרת העברת סכום פרטני.",
+    "capacity_he": "",
+    "direction_he": "החץ מציין מימון הון מתוכנן לחברת Stargate, ללא סכום פרטני מאומת.",
+    "sources": [
+      {
+        "url": "https://openai.com/index/announcing-the-stargate-project/",
+        "title": "Announcing The Stargate Project",
+        "publisher": "OpenAI",
+        "published_at": "2025-01-21",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  }
+]

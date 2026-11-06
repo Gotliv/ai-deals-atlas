@@ -1,0 +1,1242 @@
+[
+  {
+    "id": "apple-google-foundation-models-2026",
+    "source": "apple",
+    "target": "google",
+    "type": "partnership",
+    "title_he": "Gemini כבסיס לדור הבא של מודלי Apple",
+    "summary_he": "Apple ו־Google חתמו על שיתוף פעולה רב־שנתי: הדור הבא של Apple Foundation Models יתבסס על מודלי Gemini ועל טכנולוגיית הענן של Google. המודלים נועדו לתמוך ביכולות Apple Intelligence, לרבות Siri אישית יותר.",
+    "announced_at": "2026-01-12",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "ההודעה אינה מפרסמת תמורה כספית או השקעת הון. יש להבחין בין רישוי טכנולוגיית מודלים לבין אספקת תשתית ענן.",
+    "sources": [
+      {
+        "url": "https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/",
+        "title": "Joint statement from Google and Apple",
+        "publisher": "Google",
+        "published_at": "2026-01-12",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "apple-google-pcc-2026",
+    "source": "apple",
+    "target": "google",
+    "type": "compute",
+    "title_he": "הרחבת Private Cloud Compute אל Google Cloud",
+    "summary_he": "Apple הודיעה על הרחבת תשתית Private Cloud Compute אל מרכזי הנתונים של Google Cloud. השיתוף עם Google ו־NVIDIA נועד להריץ עומסי Apple Intelligence מורכבים על מעבדי NVIDIA תוך שמירה על מנגנוני הפרטיות של Apple.",
+    "announced_at": "2026-06-08",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "Apple משתמשת בתשתית Google Cloud; התמורה והיקף הרכישה לא פורסמו.",
+    "caveat_he": "זהו רכיב תשתית נפרד מהסכם מודלי Gemini מינואר 2026. לא פורסמו שווי חוזה או קיבולת.",
+    "sources": [
+      {
+        "url": "https://security.apple.com/blog/expanding-pcc/",
+        "title": "Expanding Private Cloud Compute",
+        "publisher": "Apple",
+        "published_at": "2026-06-08",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "apple-openai-integration-2024",
+    "source": "apple",
+    "target": "openai",
+    "type": "partnership",
+    "title_he": "שילוב ChatGPT במערכות ההפעלה של Apple",
+    "summary_he": "Apple שילבה את ChatGPT ב־Siri ובכלי הכתיבה של iPhone, iPad ו־Mac. השילוב מאפשר פנייה ליכולות OpenAI מתוך מוצרי Apple, ותמיכת Apple מספטמבר 2026 מאשרת שהרחבת ChatGPT נכללת גם בדור הבא של Apple Intelligence.",
+    "announced_at": "2024-06-10",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "המקורות אינם מפרסמים השקעת Apple ב־OpenAI או בלעדיות. שיתוף הפעולה עם Google מ־2026 הוא קשר נפרד ואינו מעיד כשלעצמו על ביטול שילוב ChatGPT.",
+    "sources": [
+      {
+        "url": "https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/",
+        "title": "Introducing Apple Intelligence for iPhone, iPad, and Mac",
+        "publisher": "Apple",
+        "published_at": "2024-06-10",
+        "kind": "primary"
+      },
+      {
+        "url": "https://support.apple.com/en-am/121115",
+        "title": "How to get the next generation of Apple Intelligence",
+        "publisher": "Apple",
+        "published_at": "2026-09-14",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "meta-scale-investment-2025",
+    "source": "meta",
+    "target": "scale-ai",
+    "type": "investment",
+    "title_he": "השקעת מיעוט ללא זכויות הצבעה ב־Scale AI",
+    "summary_he": "Meta השלימה ביוני 2025 רכישת מניות מיעוט ללא זכויות הצבעה ב־Scale AI. בדוח הרבעוני נרשמו 13.79 מיליארד דולר מרכיב התמורה כהשקעה הונית לא סחירה; Scale הודיעה שהעסקה משקפת שווי חברה של יותר מ־29 מיליארד דולר.",
+    "announced_at": "2025-06-12",
+    "status": "completed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "13.79 מיליארד דולר נרשמו כרכיב השקעה הונית; אין זה בהכרח מלוא התמורה"
+    },
+    "direction_he": "Meta השקיעה ב־Scale AI.",
+    "caveat_he": "הסכום 13.79 מיליארד דולר הוא סיווג חשבונאי מתוך התמורה. היעדר זכויות הצבעה והיעדר השפעה מהותית אינם רכישת שליטה ב־Scale AI.",
+    "sources": [
+      {
+        "url": "https://scale.com/blog/scale-ai-announces-next-phase-of-company-evolution",
+        "title": "Scale AI Announces Next Phase of Company’s Evolution",
+        "publisher": "Scale AI",
+        "published_at": "2025-06-12",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630.htm",
+        "title": "Meta Form 10-Q, quarter ended June 30 2025, Note 5",
+        "publisher": "Meta / SEC",
+        "published_at": "2025-07-31",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "meta-scale-commercial-2025",
+    "source": "meta",
+    "target": "scale-ai",
+    "type": "partnership",
+    "title_he": "הרחבת שיתוף הפעולה המסחרי עם Scale AI",
+    "summary_he": "לצד השקעת ההון הודיעה Scale על הרחבה משמעותית של הקשר המסחרי עם Meta, במטרה להאיץ שימוש בפתרונות הנתונים שלה. מייסד Scale, Alexandr Wang, עבר לעבודה על מאמצי ה־AI של Meta ונשאר דירקטור ב־Scale.",
+    "announced_at": "2025-06-12",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "הקשר המסחרי מוצג בנפרד מהשקעת המניות. המקור אינו מפרסם מחיר של חוזה שירותים או התחייבות רכישה נפרדת.",
+    "sources": [
+      {
+        "url": "https://scale.com/blog/scale-ai-announces-next-phase-of-company-evolution",
+        "title": "Scale AI Announces Next Phase of Company’s Evolution",
+        "publisher": "Scale AI",
+        "published_at": "2025-06-12",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "meta-reliance-jv-2025",
+    "source": "meta",
+    "target": "reliance",
+    "type": "partnership",
+    "title_he": "מיזם משותף לפתרונות AI ארגוניים בהודו",
+    "summary_he": "Meta ו־Reliance הודיעו על מיזם משותף לפיתוח פתרונות ארגוניים מבוססי Llama. הצדדים התחייבו יחד להון התחלתי של כ־100 מיליון דולר, ביחס של 70% ל־Reliance ו־30% ל־Meta.",
+    "announced_at": "2025-08-29",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "כ־100 מיליון דולר למיזם כולו, לא השקעה של צד אחד בצד השני"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "הסכום מתייחס להון המיזם המשותף ולא להעברה מ־Meta ל־Reliance. הודעת יוני 2026 מתארת את המיזם כחלק מהשותפות שכבר הורחבה.",
+    "sources": [
+      {
+        "url": "https://www.ril.com/sites/default/files/2025-08/Reliance_and_Meta_Partner_for_Enterprise_AI%20Solutions_for_India.pdf",
+        "title": "Reliance and Meta Partner for Enterprise AI Solutions for India",
+        "publisher": "Reliance Industries",
+        "published_at": "2025-08-29",
+        "kind": "primary"
+      },
+      {
+        "url": "https://about.fb.com/news/2026/06/meta-partners-with-reliance-on-ai-enabled-data-center-in-india/",
+        "title": "Meta Partners With Reliance on AI-Enabled Data Center in India",
+        "publisher": "Meta",
+        "published_at": "2026-06-09",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "meta-reliance-dc-2026",
+    "source": "meta",
+    "target": "reliance",
+    "type": "compute",
+    "title_he": "חכירת מרכז נתונים ל־AI ב־Jamnagar",
+    "summary_he": "Meta התקשרה עם Reliance בחכירת מרכז נתונים ייעודי ל־AI בעיר Jamnagar שבהודו. Reliance תקים מתקן בהספק התחלתי של 168 מגה־ואט, עם אפשרות להרחבה, ו־Meta תישא במלוא עלויות החשמל והמים של פעילותה.",
+    "announced_at": "2026-06-09",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "Meta תחכור קיבולת מ־Reliance.",
+    "caveat_he": "מדובר בהסכם לפיתוח וחכירת קיבולת עתידית, ולא באישור שהמרכז כבר פעיל. התמורה הכספית הכוללת לא פורסמה.",
+    "sources": [
+      {
+        "url": "https://about.fb.com/news/2026/06/meta-partners-with-reliance-on-ai-enabled-data-center-in-india/",
+        "title": "Meta Partners With Reliance on AI-Enabled Data Center in India",
+        "publisher": "Meta",
+        "published_at": "2026-06-09",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06",
+    "capacity_he": "168 מגה־ואט בשלב הראשון, עם אפשרות להרחבה"
+  },
+  {
+    "id": "meta-manus-acquisition-unwound",
+    "source": "meta",
+    "target": "manus",
+    "type": "acquisition",
+    "title_he": "רכישת Manus והפרדתה מחדש מ־Meta",
+    "summary_he": "Manus הודיעה כי נרכשה בידי Meta ב־29 בדצמבר 2025. בהודעה מאוחרת יותר הודיעה החברה על פרידה מ־Meta וחזרה לפעילות עצמאית, עם התאמות נתונים שנקבעו לאוגוסט 2026 לצורך עמידה בדרישות רגולטוריות.",
+    "announced_at": "2025-12-29",
+    "status": "terminated",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "יש להציג כקשר היסטורי שהסתיים, ולא כבעלות פעילה של Meta בנובמבר 2026. המקור הראשוני אינו מפרסם מחיר רכישה.",
+    "sources": [
+      {
+        "url": "https://manus.im/cs/blog/manus-joins-meta-for-next-era-of-innovation",
+        "title": "Manus Joins Meta for Next Era of Innovation",
+        "publisher": "Manus",
+        "published_at": "2025-12-29",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.manus.im/cs/blog/a-note-to-our-users",
+        "title": "A Note to Our Users",
+        "publisher": "Manus",
+        "published_at": null,
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "meta-essilor-ai-glasses-2026",
+    "source": "meta",
+    "target": "essilorluxottica",
+    "type": "partnership",
+    "title_he": "הרחבת שותפות משקפי ה־AI",
+    "summary_he": "Meta ו־EssilorLuxottica הציגו הרחבה של פורטפוליו המשקפיים המשותף, ובה דור שלישי של Ray-Ban Meta וקו משקפי שמע. החברות הכריזו גם על שילוב הסוכן האישי Muse ועל הרחבת סגנונות, תכונות ושווקים.",
+    "announced_at": "2026-09-24",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "זהו עדכון מוצר לשותפות רב־שנתית קיימת. הוא אינו מהווה כשלעצמו מקור להשקעה הונית חדשה או לשווי חוזה.",
+    "sources": [
+      {
+        "url": "https://www.essilorluxottica.com/en/newsroom/press-releases/essilorluxottica-and-metaai-glasses-new-products-at-meta-connect/",
+        "title": "EssilorLuxottica and Meta further advance AI glasses category with new products revealed at Meta Connect",
+        "publisher": "EssilorLuxottica",
+        "published_at": "2026-09-24",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "snowflake-openai-2026",
+    "source": "snowflake",
+    "target": "openai",
+    "type": "partnership",
+    "title_he": "שותפות רב־שנתית בהיקף 200 מיליון דולר",
+    "summary_he": "Snowflake ו־OpenAI חתמו על שותפות רב־שנתית בהיקף 200 מיליון דולר, המשלבת מודלי OpenAI בפלטפורמת הנתונים ובסוכנים של Snowflake. ההסכם כולל פיתוח משותף ופעילות מסחרית משותפת; ביוני 2026 הודיעה Snowflake על זמינות כללית של מודלי OpenAI באופן ישיר ב־Cortex AI.",
+    "announced_at": "2026-02-02",
+    "status": "signed",
+    "value": {
+      "amount": 200000000,
+      "currency": "USD",
+      "qualifier_he": "היקף השותפות הרב־שנתית שפורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "הסכום הוא היקף ההסכם ולא השקעת הון ב־OpenAI. אין להסיק מכאן שכל הסכום שולם במועד ההכרזה.",
+    "sources": [
+      {
+        "url": "https://www.snowflake.com/en/news/press-releases/snowflake-and-openAI-forge-200-million-partnership-to-bring-enterprise-ready-ai-to-the-worlds-most-trusted-data-platform/",
+        "title": "Snowflake and OpenAI Forge $200 Million Partnership",
+        "publisher": "Snowflake",
+        "published_at": "2026-02-02",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.snowflake.com/en/blog/openai-snowflake-business-native-ai/",
+        "title": "OpenAI and Snowflake: The Future of Business-Native AI",
+        "publisher": "Snowflake",
+        "published_at": "2026-06-04",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "snowflake-anthropic-2025",
+    "source": "snowflake",
+    "target": "anthropic",
+    "type": "partnership",
+    "title_he": "הרחבת שותפות בהיקף 200 מיליון דולר",
+    "summary_he": "Snowflake ו־Anthropic הרחיבו את שותפותן בהסכם רב־שנתי של 200 מיליון דולר, המשלב את Claude ב־Cortex AI ומבסס פעילות מכירות משותפת. בעדכון מיוני 2026 תוארה הרחבת שיתוף הפיתוח והשימוש ב־Claude במוצרי Snowflake.",
+    "announced_at": "2025-12-03",
+    "status": "signed",
+    "value": {
+      "amount": 200000000,
+      "currency": "USD",
+      "qualifier_he": "היקף ההסכם הרב־שנתי, לא השקעה במניות"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "עדכון יוני 2026 מתייחס לאותה שותפות ואינו תוספת כספית של 200 מיליון דולר.",
+    "sources": [
+      {
+        "url": "https://www.snowflake.com/en/news/press-releases/snowflake-and-anthropic-announce-200-million-partnership-to-bring-agentic-ai-to-global-enterprises/",
+        "title": "Snowflake and Anthropic Announce $200 Million Partnership",
+        "publisher": "Snowflake",
+        "published_at": "2025-12-03",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.snowflake.com/en/news/press-releases/snowflake-and-anthropic-accelerate-enterprise-ai-adoption-driven-by-rising-demand-for-governed-ai/",
+        "title": "Snowflake and Anthropic Accelerate Enterprise AI Adoption",
+        "publisher": "Snowflake",
+        "published_at": "2026-06-01",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "databricks-openai-2025",
+    "source": "databricks",
+    "target": "openai",
+    "type": "partnership",
+    "title_he": "שותפות בהיקף 100 מיליון דולר לשילוב מודלים",
+    "summary_he": "Databricks ו־OpenAI הכריזו על שותפות רב־שנתית בהיקף 100 מיליון דולר. מודלי OpenAI משתלבים באופן ישיר בפלטפורמת Data Intelligence וב־Agent Bricks, כדי לאפשר בניית יישומי AI וסוכנים על הנתונים הארגוניים.",
+    "announced_at": "2025-09-25",
+    "status": "announced",
+    "value": {
+      "amount": 100000000,
+      "currency": "USD",
+      "qualifier_he": "היקף שותפות רב־שנתית שפורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "זהו הסכם מוצר ומסחור, לא השקעת הון של Databricks ב־OpenAI.",
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/databricks-and-openai-launch-groundbreaking-partnership-to-bring-frontier-intelligence-to-enterprises-with-databricks-agent-bricks-302566719.html",
+        "title": "Databricks and OpenAI Launch Groundbreaking Partnership",
+        "publisher": "Databricks / PR Newswire",
+        "published_at": "2025-09-25",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "databricks-anthropic-2025",
+    "source": "databricks",
+    "target": "anthropic",
+    "type": "partnership",
+    "title_he": "הסכם לחמש שנים לשילוב Claude ב־Databricks",
+    "summary_he": "Databricks ו־Anthropic חתמו על שותפות לחמש שנים לשילוב מודלי Claude ושירותיהם באופן ישיר בפלטפורמת Databricks. ההסכם מאפשר פיתוח סוכנים על נתונים ארגוניים עם בקרות אבטחה וממשל; עדכון מיוני 2026 מאשר הוספת מודלי Claude חדשים.",
+    "announced_at": "2025-03-26",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "בהודעה הראשונית לא פורסם שווי העסקה. אין לייחס סכום על בסיס דיווחים שאינם חלק מהמקורות המצורפים.",
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/databricks-and-anthropic-sign-landmark-deal-to-bring-claude-models-to-the-data-intelligence-platform-302411673.html",
+        "title": "Databricks and Anthropic Sign Landmark Deal",
+        "publisher": "Databricks / PR Newswire",
+        "published_at": "2025-03-26",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.databricks.com/blog/claude-fable-5-now-available-databricks-fully-governed-through-unity-ai-gateway",
+        "title": "Claude Fable 5 is now available on Databricks",
+        "publisher": "Databricks",
+        "published_at": "2026-06-09",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "salesforce-anthropic-claudeforce-2026",
+    "source": "salesforce",
+    "target": "anthropic",
+    "type": "partnership",
+    "title_he": "Claudeforce ושילוב הדדי של Claude ו־Salesforce",
+    "summary_he": "Salesforce ו־Anthropic הרחיבו את השותפות תחת השם Claudeforce. ההרחבה מחברת נתונים ותהליכים מ־Salesforce ישירות ל־Claude, מרחיבה את תפקיד Claude ב־Agentforce וב־Slack, וכוללת שימוש פנימי של כל חברה בטכנולוגיות השנייה.",
+    "announced_at": "2026-08-26",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "ההכרזה כוללת רכיבים זמינים לצד ניסויים ותוכניות השקה. לא פורסם בה סכום השקעה או היקף כספי של העסקה.",
+    "sources": [
+      {
+        "url": "https://www.salesforce.com/news/press-releases/2026/08/26/salesforce-and-anthropic-announce-claudeforce/",
+        "title": "Salesforce and Anthropic Announce Claudeforce",
+        "publisher": "Salesforce",
+        "published_at": "2026-08-26",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "salesforce-openai-2025",
+    "source": "salesforce",
+    "target": "openai",
+    "type": "partnership",
+    "title_he": "שילוב Salesforce ו־ChatGPT בעבודה ובמסחר",
+    "summary_he": "Salesforce ו־OpenAI הרחיבו את שותפותן לחיבור Agentforce, Salesforce ו־Slack ליכולות OpenAI ול־ChatGPT. בספטמבר 2026 הכריזה Salesforce גם על הרחבת Missionforce המיועדת לשלב מודלי OpenAI בסביבות ממשלתיות מאובטחות.",
+    "announced_at": "2025-10-14",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "המקורות כוללים יכולות שהושקו לצד תוכניות פיתוח והרחבה. הכרזת Missionforce מספטמבר 2026 מתארת שילוב מתוכנן, ולא זמינות מלאה של כל היכולות.",
+    "sources": [
+      {
+        "url": "https://www.salesforce.com/news/press-releases/2025/10/14/openai-partnership-expansion-announcement/",
+        "title": "Salesforce and OpenAI Partner Across Enterprise Work and Commerce",
+        "publisher": "Salesforce",
+        "published_at": "2025-10-14",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.salesforce.com/news/stories/missionsforce-expansion-agents-nvidia-openai-partnerships/",
+        "title": "Salesforce Expands Missionforce with Purpose-Built AI and New Partnership with OpenAI to Advance Mission Intelligence",
+        "publisher": "Salesforce",
+        "published_at": "2026-09-16",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "salesforce-google-stack-2026",
+    "source": "salesforce",
+    "target": "google",
+    "type": "partnership",
+    "title_he": "תשתית Google Cloud וסוכנים משותפים",
+    "summary_he": "Salesforce ו־Google Cloud הרחיבו את שותפותן לחיבור Gemini Enterprise לנתונים, לפעולות ולסוכנים של Salesforce. ההסכם כולל הפעלת Hyperforce על Google Cloud, כשבעת ההכרזה כבר התקיימה תעבורת לקוחות בייצור ומעבר של לקוחות נבחרים בארה״ב תוכנן לרבעון הרביעי.",
+    "announced_at": "2026-09-15",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "אין להסיק מהתוכנית שכל לקוחות Salesforce כבר עברו ל־Google Cloud. תנאים כספיים לא פורסמו.",
+    "sources": [
+      {
+        "url": "https://www.googlecloudpresscorner.com/2026-09-15-Salesforce-and-Google-Cloud-Unify-Infrastructure-and-Agents-for-One-Connected-AI-Stack",
+        "title": "Salesforce and Google Cloud Unify Infrastructure and Agents for One-Connected AI Stack",
+        "publisher": "Google Cloud / Salesforce",
+        "published_at": "2026-09-15",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "servicenow-openai-expansion-2026",
+    "source": "servicenow",
+    "target": "openai",
+    "type": "partnership",
+    "title_he": "הרחבת OpenAI לתהליכי ServiceNow ולכלל העובדים",
+    "summary_he": "OpenAI ו־ServiceNow הרחיבו את ההסכם מינואר 2026 לחיבור תהליכי ServiceNow ל־ChatGPT ול־Codex. ההרחבה כוללת פיתוח תוכנה, סייבר וקול, וכן תוכנית להעניק לכל עובדי ServiceNow גישה ל־ChatGPT Work ול־Codex.",
+    "announced_at": "2026-10-28",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "התוסף זמין בעת ההכרזה, אך חלק מיכולות הקול, הסייבר ופיתוח היישומים מתוכננות ל־2027. אין להציג את כולן כפעילות בנובמבר 2026.",
+    "sources": [
+      {
+        "url": "https://openai.com/index/openai-servicenow-partnership-expansion/",
+        "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "publisher": "OpenAI",
+        "published_at": "2026-10-28",
+        "kind": "primary"
+      },
+      {
+        "url": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-and-OpenAI-collaborate-to-deepen-and-accelerate-enterprise-AI-outcomes/",
+        "title": "ServiceNow and OpenAI collaborate to deepen and accelerate enterprise AI outcomes",
+        "publisher": "ServiceNow",
+        "published_at": "2026-01-20",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "servicenow-anthropic-2026",
+    "source": "servicenow",
+    "target": "anthropic",
+    "type": "partnership",
+    "title_he": "Claude ב־Build Agent ובתהליכים ארגוניים",
+    "summary_he": "ServiceNow ו־Anthropic הכריזו על שותפות להעמקת שילוב Claude בפלטפורמת ServiceNow ובתהליכים קריטיים, לרבות בריאות ומדעי החיים. Claude משמש כברירת המחדל של Build Agent, והחברה פרסה את Claude ו־Claude Code לעובדיה.",
+    "announced_at": "2026-01-28",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "ברירת מחדל במוצר מסוים אינה בלעדיות לכל פלטפורמת ServiceNow. במקביל קיים הסכם נפרד עם OpenAI.",
+    "sources": [
+      {
+        "url": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-and-Anthropic-partner-to-help-customers-build-AI-powered-applications-accelerate-time-to-value-and-apply-trusted-AI-to-critical-industries/default.aspx",
+        "title": "ServiceNow and Anthropic partner to help customers build AI-powered applications",
+        "publisher": "ServiceNow",
+        "published_at": "2026-01-28",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "sap-anthropic-2026",
+    "source": "sap",
+    "target": "anthropic",
+    "type": "partnership",
+    "title_he": "Claude כמנוע מרכזי ב־SAP Business AI",
+    "summary_he": "SAP ו־Anthropic הכריזו על הרחבת שיתוף הפעולה לשילוב יכולות ההסקה והסוכנים של Claude בפלטפורמת SAP Business AI וב־Joule. החברות מתכננות לפתח יחד סוכנים ותהליכים מותאמים לתעשיות ולמערכות הארגוניות של SAP.",
+    "announced_at": "2026-05-12",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "ההכרזה מתארת תוכניות שילוב ופיתוח. Claude הוא אחד המודלים המרכזיים בגישת ריבוי ספקים, ולא הסכם בלעדיות.",
+    "sources": [
+      {
+        "url": "https://news.sap.com/2026/05/sap-anthropic-to-bring-claude-sap-business-ai-platform/",
+        "title": "SAP and Anthropic: Claude on SAP Business AI Platform",
+        "publisher": "SAP",
+        "published_at": "2026-05-12",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "sap-google-agents-2026",
+    "source": "sap",
+    "target": "google",
+    "type": "partnership",
+    "title_he": "סוכני SAP ו־Gemini פועלים על נתונים משותפים",
+    "summary_he": "SAP ו־Google Cloud הכריזו על שותפות המשלבת את Joule ופתרונות חוויית הלקוח של SAP עם Gemini Enterprise. החיבור כולל גישה דו־כיוונית לנתונים ללא העתקה ותיאום סוכנים לביצוע תהליכי שיווק ופעולות בין הפלטפורמות.",
+    "announced_at": "2026-04-22",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "הקשר הוא אינטגרציה ומסחור משותף; הוא אינו מלמד על השקעת הון או על הוצאה כספית שהיקפה פורסם.",
+    "sources": [
+      {
+        "url": "https://news.sap.com/2026/04/sap-google-cloud-expand-partnership-deploy-multi-agent-ai/",
+        "title": "SAP and Google Cloud Partnership to Deploy Multi-Agent AI",
+        "publisher": "SAP",
+        "published_at": "2026-04-22",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "sap-cohere-sovereign-2026",
+    "source": "sap",
+    "target": "cohere",
+    "type": "partnership",
+    "title_he": "פתרונות AI ריבוניים, החל מקנדה",
+    "summary_he": "SAP ו־Cohere הרחיבו את שותפותן לפתרונות AI ריבוניים, החל בקנדה. התוכנית משלבת את North ואת מודלי Cohere בענן הריבוני של SAP, כדי לאפשר עבודה עם מידע רגיש בתחומי השיפוט הנדרשים.",
+    "announced_at": "2026-02-10",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "ההודעה כוללת תוכנית שילוב בקנדה והתרחבות עולמית, ולא אישור שכל הפריסות כבר הושלמו.",
+    "sources": [
+      {
+        "url": "https://news.sap.com/canada/2026/02/sap-and-cohere-expand-partnership-to-launch-sovereign-ai-solutions-globally-beginning-in-canada/",
+        "title": "SAP and Cohere Expand Partnership to Launch Sovereign AI Solutions Globally, Beginning in Canada",
+        "publisher": "SAP",
+        "published_at": "2026-02-10",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "sap-microsoft-agents-2026",
+    "source": "sap",
+    "target": "microsoft",
+    "type": "partnership",
+    "title_he": "קישוריות בין Joule לסוכני Microsoft",
+    "summary_he": "SAP הודיעה על העמקת השותפות עם Microsoft במסגרת פלטפורמת Business AI. המהלך כולל קישוריות דו־כיוונית בין סוכני Joule למסגרות סוכנים חיצוניות של Microsoft.",
+    "announced_at": "2026-05-12",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "לא פורסמו תמורה כספית, הסכם בלעדיות או השקעת הון במסגרת הכרזה זו.",
+    "sources": [
+      {
+        "url": "https://news.sap.com/2026/05/sap-sapphire-sap-unveils-autonomous-enterprise/",
+        "title": "SAP Unveils the Autonomous Enterprise",
+        "publisher": "SAP",
+        "published_at": "2026-05-12",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "sap-amazon-data-ai-2026",
+    "source": "sap",
+    "target": "amazon",
+    "type": "partnership",
+    "title_he": "חיבור נתוני SAP ל־Amazon Athena",
+    "summary_he": "SAP הודיעה על העמקת השותפות עם AWS לצורך שילוב נתונים ללא העתקה בין SAP Business Data Cloud ל־Amazon Athena. החיבור נכלל בתשתית הנתונים והשותפויות התומכת בפלטפורמת ה־AI הארגונית החדשה של SAP.",
+    "announced_at": "2026-05-12",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "זהו שיתוף פעולה בנתונים ובתשתיות AI. אין כאן נתון על רכישת מניות או שווי חוזה.",
+    "sources": [
+      {
+        "url": "https://news.sap.com/2026/05/sap-sapphire-sap-unveils-autonomous-enterprise/",
+        "title": "SAP Unveils the Autonomous Enterprise",
+        "publisher": "SAP",
+        "published_at": "2026-05-12",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "sap-mistral-sovereign-2026",
+    "source": "sap",
+    "target": "mistral",
+    "type": "partnership",
+    "title_he": "מודלי Mistral לאפשרויות AI ריבוניות ב־SAP",
+    "summary_he": "SAP ציינה את Mistral AI כשותפה לאספקת אפשרויות מודל ריבוניות על תשתית הענן שלה. המהלך הוא חלק מגישת SAP המשלבת כמה ספקי מודלים לצד פתרונות Joule.",
+    "announced_at": "2026-05-12",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "הקשר מתייחס לשותפות מוצר ותשתית, ולא להשקעת SAP במניות Mistral.",
+    "sources": [
+      {
+        "url": "https://news.sap.com/2026/05/sap-sapphire-sap-unveils-autonomous-enterprise/",
+        "title": "SAP Unveils the Autonomous Enterprise",
+        "publisher": "SAP",
+        "published_at": "2026-05-12",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "adobe-google-connector-2026",
+    "source": "adobe",
+    "target": "google",
+    "type": "partnership",
+    "title_he": "כלי היצירה של Adobe בתוך Gemini",
+    "summary_he": "Adobe הכריזה על הרחבת השותפות עם Google כדי להביא את מחבר כלי היצירה שלה ל־Gemini. המחבר נועד לאפשר שימוש בכלי עיצוב, תמונה ווידאו מקצועיים ישירות מתוך השיחה עם Gemini.",
+    "announced_at": "2026-05-19",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "ההודעה מ־19 במאי מתארת השקה מתוכננת בשבועות הבאים; אין להסיק ממנה תאריך זמינות כללית. התנאים הכספיים לא פורסמו.",
+    "sources": [
+      {
+        "url": "https://blog.adobe.com/en/publish/2026/05/19/adobe-creativity-connector-coming-google-gemini",
+        "title": "Adobe for creativity connector is coming soon to Google Gemini",
+        "publisher": "Adobe",
+        "published_at": "2026-05-19",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "adobe-anthropic-creative-2026",
+    "source": "adobe",
+    "target": "anthropic",
+    "type": "partnership",
+    "title_he": "כלי Adobe ב־Claude",
+    "summary_he": "Adobe הודיעה שכלי היצירה שלה זמינים גם דרך Claude, במסגרת הרחבת סוכן היצירה שלה מעבר ליישומי Creative Cloud. החיבור מאפשר לגשת ליכולות מקצועיות מסביבת העוזר.",
+    "announced_at": "2026-06-18",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "מקור זה מאשר שילוב מוצר. הוא אינו מציג עסקת הון או שווי כספי של שיתוף הפעולה.",
+    "sources": [
+      {
+        "url": "https://news.adobe.com/news/2026/06/adobe-unveils-major-expansion",
+        "title": "Adobe Unveils Major Expansion of Creative Agent Across Firefly and Creative Cloud Apps",
+        "publisher": "Adobe",
+        "published_at": "2026-06-18",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "adobe-openai-ads-2026",
+    "source": "adobe",
+    "target": "openai",
+    "type": "partnership",
+    "title_he": "Adobe משתתפת בפיילוט הפרסום ב־ChatGPT",
+    "summary_he": "Adobe הרחיבה את שותפותה עם OpenAI והצטרפה כשותפת ניסוי לתוכנית הפרסום ב־ChatGPT. ההכרזה מתייחסת גם לשילוב יישומי Photoshop, Express ו־Acrobat בתוך ChatGPT.",
+    "announced_at": "2026-02-09",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "הודעת פברואר מתארת פיילוט פרסום בארה״ב ולא פריסה כלל עולמית. לא פורסם תקציב פרסום או סכום השקעה.",
+    "sources": [
+      {
+        "url": "https://blog.adobe.com/en/publish/2026/02/09/adobe-partners-openai-test-ads-chatgpt",
+        "title": "Adobe partners with OpenAI to test ads in ChatGPT",
+        "publisher": "Adobe",
+        "published_at": "2026-02-09",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "adobe-microsoft-creative-2026",
+    "source": "adobe",
+    "target": "microsoft",
+    "type": "partnership",
+    "title_he": "כלי Adobe ב־Microsoft 365 Copilot",
+    "summary_he": "Adobe הודיעה על זמינות כלי היצירה שלה בפלטפורמות AI חיצוניות, ובהן Microsoft 365 Copilot. המהלך מרחיב את הגישה לכלי Adobe מתוך סביבת העבודה של Microsoft.",
+    "announced_at": "2026-06-18",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "מדובר בקשר מוצר מאושר, לא בהשקעת מניות או בעסקת מחשוב שהיקפה פורסם.",
+    "sources": [
+      {
+        "url": "https://news.adobe.com/news/2026/06/adobe-unveils-major-expansion",
+        "title": "Adobe Unveils Major Expansion of Creative Agent Across Firefly and Creative Cloud Apps",
+        "publisher": "Adobe",
+        "published_at": "2026-06-18",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "ibm-anthropic-software-2025",
+    "source": "ibm",
+    "target": "anthropic",
+    "type": "partnership",
+    "title_he": "Claude בכלי פיתוח התוכנה של IBM",
+    "summary_he": "IBM ו־Anthropic הכריזו על שותפות אסטרטגית לשילוב Claude במוצרי תוכנה ובכלי פיתוח פנימיים וחיצוניים של IBM. נקודת הפתיחה היא סביבת פיתוח מבוססת AI, עם דגש על אבטחה, ממשל ובקרת עלויות.",
+    "announced_at": "2025-10-07",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "ההכרזה מבדילה בין שילובים ראשוניים לבין הרחבות שנבחנות בהמשך. סכום העסקה לא פורסם.",
+    "sources": [
+      {
+        "url": "https://newsroom.ibm.com/2025-10-07-2025-ibm-and-anthropic-partner-to-advance-enterprise-software-development-with-proven-security-and-governance",
+        "title": "IBM and Anthropic Partner to Advance Enterprise Software Development with Proven Security and Governance",
+        "publisher": "IBM",
+        "published_at": "2025-10-07",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "amazon-huggingface-sagemaker-2026",
+    "source": "amazon",
+    "target": "hugging-face",
+    "type": "partnership",
+    "title_he": "העמקת האינטגרציה של Hugging Face ב־SageMaker",
+    "summary_he": "AWS ו־Hugging Face שיתפו פעולה לפישוט ולהרחבת ההתאמה של מודלי שפה ב־Amazon SageMaker AI. השילוב מחבר ספריות Hugging Face לתשתית מנוהלת לצורך אימון מבוזר, התאמה והרצת מודלים ארגוניים.",
+    "announced_at": "2026-02-09",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "המקור הוא עדכון טכנולוגי רשמי לשותפות קיימת, ולא הכרזה על השקעת הון חדשה או התחייבות כספית.",
+    "sources": [
+      {
+        "url": "https://aws.amazon.com/blogs/machine-learning/scale-llm-fine-tuning-with-hugging-face-and-amazon-sagemaker-ai/",
+        "title": "Scale LLM fine-tuning with Hugging Face and Amazon SageMaker AI",
+        "publisher": "AWS",
+        "published_at": "2026-02-09",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "google-huggingface-expanded-2025",
+    "source": "google",
+    "target": "hugging-face",
+    "type": "partnership",
+    "title_he": "הרחבת שותפות בענן, מודלים ואבטחה",
+    "summary_he": "Hugging Face ו־Google Cloud הכריזו על העמקת שותפותן להקמה ולהפעלה של AI המבוסס על מודלים פתוחים. התוכנית כוללת שיפור שירותי פריסת מודלים, תמיכה במאיצי TPU, שער הפצת תכנים ואבטחת מאגרי מודלים.",
+    "announced_at": "2025-11-13",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "ההרחבה כוללת תוצרים מתוכננים לצד אינטגרציות קיימות. לא פורסמו השקעת הון או שווי עסקה.",
+    "sources": [
+      {
+        "url": "https://huggingface.co/blog/google-cloud",
+        "title": "Building for an Open Future - our new partnership with Google Cloud",
+        "publisher": "Hugging Face",
+        "published_at": "2025-11-13",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "samsung-perplexity-galaxy-2026",
+    "source": "samsung",
+    "target": "perplexity",
+    "type": "partnership",
+    "title_he": "Perplexity במכשירי Galaxy S26 וב־Bixby",
+    "summary_he": "Perplexity הודיעה על שילוב עמוק במכשירי Galaxy S26 של Samsung. ההסכם כולל עוזר Perplexity וגישה ברמת המערכת, וכן אספקת חיפוש והסקה ל־Bixby באמצעות ממשקי Perplexity.",
+    "announced_at": "2026-02-27",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "לא פורסמו השקעת הון של Samsung ב־Perplexity או שווי ההסכם. אין להסיק בלעדיות בין העוזרים במכשיר.",
+    "sources": [
+      {
+        "url": "https://www.perplexity.ai/changelog/what-we-shipped---february-27-2026",
+        "title": "Perplexity Computer, Perplexity on Samsung Galaxy S26",
+        "publisher": "Perplexity",
+        "published_at": "2026-02-27",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "samsung-perplexity-browser-2026",
+    "source": "samsung",
+    "target": "perplexity",
+    "type": "partnership",
+    "title_he": "עוזר דפדפן מבוסס Perplexity ב־Samsung",
+    "summary_he": "Samsung השיקה דפדפן ל־Windows הכולל יכולות AI סוכניות בשותפות עם Perplexity. העוזר מאפשר חיפוש בשפה טבעית, ניהול לשוניות והיסטוריה וסיכום מידע בין דפים, עם רציפות בין מכשירים.",
+    "announced_at": "2026-03-26",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "בהכרזה הזמינות הראשונית הוגבלה לארה״ב ולקוריאה הדרומית. זהו מוצר נוסף במסגרת הקשר בין הצדדים, ללא סכום נוסף שפורסם.",
+    "sources": [
+      {
+        "url": "https://www.samsungmobilepress.com/articles/samsung-browser-windows-agentic-ai",
+        "title": "Samsung Takes Its Browser Beyond Mobile, Extending Agentic AI Across Devices",
+        "publisher": "Samsung",
+        "published_at": "2026-03-26",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "meta-blueowl-hyperion-2025",
+    "source": "meta",
+    "target": "blue-owl",
+    "type": "financing",
+    "title_he": "מיזם Hyperion עם קרנות Blue Owl",
+    "summary_he": "Meta וקרנות המנוהלות בידי Blue Owl חתמו על מיזם למימון ולהחזקת מרכז הנתונים Hyperion בלואיזיאנה. הקרנות מחזיקות 80% ו־Meta מחזיקה 20%, והצדדים התחייבו לממן את חלקם מתוך עלות פיתוח כוללת של כ־27 מיליארד דולר.",
+    "announced_at": "2025-10-21",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "כ־27 מיליארד דולר עלות פרויקט כוללת, לא העברה ישירה בין החברות"
+    },
+    "direction_he": "מימון משותף באמצעות מיזם ייעודי, ולא השקעה הונית ב־Meta.",
+    "caveat_he": "כ־27 מיליארד דולר הם עלויות פיתוח מצטברות צפויות. בעת הקמת המיזם תרמו הקרנות כ־7 מיליארד דולר במזומן, ו־Meta קיבלה חלוקה חד־פעמית של כ־3 מיליארד דולר.",
+    "sources": [
+      {
+        "url": "https://about.fb.com/news/2025/10/meta-blue-owl-capital-develop-hyperion-data-center/",
+        "title": "Meta Announces Joint Venture With Funds Managed by Blue Owl Capital to Develop Hyperion Data Center",
+        "publisher": "Meta",
+        "published_at": "2025-10-21",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "ibm-huggingface-investment-2023",
+    "source": "ibm",
+    "target": "hugging-face",
+    "type": "investment",
+    "title_he": "IBM משתתפת בסבב D של Hugging Face",
+    "summary_he": "IBM הודיעה על השתתפות בסבב D של Hugging Face, שגייס בסך הכול 235 מיליון דולר. ההשקעה נועדה לקדם פעילות משותפת ב־AI פתוח ומרחיבה את שיתוף הפעולה בין החברות.",
+    "announced_at": "2023-08-24",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "235 מיליון דולר לסבב כולו; סכום השתתפות IBM לא פורסם"
+    },
+    "direction_he": "IBM היא משקיעה ב־Hugging Face.",
+    "caveat_he": "אין לייחס ל־IBM את מלוא סבב הגיוס. ההודעה אינה מפרסמת שיעור החזקה או מחיר יציאה עתידי.",
+    "sources": [
+      {
+        "url": "https://newsroom.ibm.com/2023-08-24-IBM-to-Participate-in-235M-Series-D-Funding-Round-of-Hugging-Face",
+        "title": "IBM to Participate in $235M Series D Funding Round of Hugging Face",
+        "publisher": "IBM",
+        "published_at": "2023-08-24",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "ibm-huggingface-watsonx-2023",
+    "source": "ibm",
+    "target": "hugging-face",
+    "type": "partnership",
+    "title_he": "מודלים פתוחים ו־watsonx.ai",
+    "summary_he": "IBM ו־Hugging Face שיתפו פעולה בשילוב ספריות ומודלים פתוחים ב־watsonx.ai. השיתוף מאפשר לארגונים לבנות, להתאים ולפרוס מודלים בענן ובסביבות מקומיות, ומופיע גם בדף השותפים של IBM.",
+    "announced_at": "2023-05-23",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "הקשר הטכנולוגי נפרד מהשתתפות IBM בסבב הגיוס באוגוסט 2023; לא פורסם לו סכום חוזי.",
+    "sources": [
+      {
+        "url": "https://huggingface.co/blog/huggingface-and-ibm",
+        "title": "Hugging Face and IBM partner on watsonx.ai",
+        "publisher": "Hugging Face",
+        "published_at": "2023-05-23",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.ibm.com/products/watsonx/partners",
+        "title": "IBM Watsonx Technology Partners",
+        "publisher": "IBM",
+        "published_at": null,
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "oracle-cohere-generative-ai-2023",
+    "source": "oracle",
+    "target": "cohere",
+    "type": "partnership",
+    "title_he": "שירות AI ארגוני משותף על OCI",
+    "summary_he": "Oracle פיתחה בשיתוף Cohere שירות AI גנרטיבי מנוהל על OCI. השותפות מחברת מודלי Cohere לנתוני לקוחות ולמוצרי Oracle; בינואר 2026 הודיעה Oracle על זמינות מודלי Cohere נוספים בשירות.",
+    "announced_at": "2023-09-19",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "המקורות מאשרים שיתוף פעולה ושירות המתעדכן גם ב־2026. הם אינם מפרסמים סכום עסקה, בלעדיות או השקעת מניות חדשה.",
+    "sources": [
+      {
+        "url": "https://www.oracle.com/news/announcement/ocw-oci-delivers-enterprise-generative-ai-service-2023-09-19/",
+        "title": "Oracle Cloud Infrastructure Delivers Enterprise Generative AI Service",
+        "publisher": "Oracle",
+        "published_at": "2023-09-19",
+        "kind": "primary"
+      },
+      {
+        "url": "https://blogs.oracle.com/ai-and-datascience/oci-generative-ai-adds-cohere-command-a-models",
+        "title": "OCI Generative AI adds Cohere Command A Vision and Command A Reasoning models",
+        "publisher": "Oracle",
+        "published_at": "2026-01-21",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "microsoft-meta-llama-2023",
+    "source": "microsoft",
+    "target": "meta",
+    "type": "partnership",
+    "title_he": "שותפות להפצת Llama ב־Azure וב־Windows",
+    "summary_he": "Microsoft ו־Meta הרחיבו את שותפות ה־AI שלהן עם השקת Llama 2 ב־Azure וב־Windows. Microsoft הוגדרה כשותפה מועדפת להשקת המודל, עם כלים להתאמה ולהרצה בסביבתה.",
+    "announced_at": "2023-07-18",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין את הקשר בין הצדדים, ולא הזרמת הון.",
+    "caveat_he": "הגדרת השותפות המועדפת מתייחסת להשקת Llama 2 ב־2023, ואינה מעידה על בלעדיות או על תשלום עבור משקלי המודל. אין להסיק שהיא חלה אוטומטית על כל מודלי Meta העתידיים.",
+    "sources": [
+      {
+        "url": "https://blogs.microsoft.com/blog/2023/07/18/microsoft-and-meta-expand-their-ai-partnership-with-llama-2-on-azure-and-windows/",
+        "title": "Microsoft and Meta expand their AI partnership with Llama 2 on Azure and Windows",
+        "publisher": "Microsoft",
+        "published_at": "2023-07-18",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "microsoft-inflection-team-ip-2024",
+    "source": "microsoft",
+    "target": "inflection",
+    "type": "acquisition",
+    "title_he": "קליטת צוות Inflection ורישוי קניין רוחני",
+    "summary_he": "Microsoft קלטה את רוב צוות Inflection, לרבות שניים ממייסדיה, והתקשרה בשורת הסדרים הכוללים רישיון לא בלעדי לקניין הרוחני של החברה. רשות התחרות הבריטית בחנה את רכישת הנכסים וההסדרים ואישרה את העסקה בספטמבר 2024.",
+    "announced_at": "2024-03-19",
+    "status": "completed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם במקורות המצורפים"
+    },
+    "direction_he": "Microsoft קלטה צוות וקיבלה רישיון מ־Inflection; אין להסיק רכישת שליטה בחברה כולה.",
+    "caveat_he": "זו עסקת נכסים, רישוי וקליטת צוות, ולא רכישת מלוא מניות Inflection. התמורה הכספית אינה מפורטת במקורות הרגולטוריים המצורפים.",
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/66d82eaf7a73423428aa2efe/Summary_of_phase_1_decision.pdf",
+        "title": "Microsoft / Inflection: Summary of phase 1 decision",
+        "publisher": "UK CMA",
+        "published_at": "2024-09-04",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.gov.uk/cma-cases/microsoft-slash-inflection-ai-inquiry",
+        "title": "Microsoft / Inflection inquiry",
+        "publisher": "UK CMA",
+        "published_at": "2024-10-24",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "amazon-mistral-bedrock-2024",
+    "source": "amazon",
+    "target": "mistral",
+    "type": "partnership",
+    "title_he": "שיתוף פעולה בהפצת Mistral ובמאיצי AWS",
+    "summary_he": "AWS ו־Mistral הרחיבו את שיתוף הפעולה להפצת מודלים דרך Amazon Bedrock. ההודעה כללה התחייבות להנגשת מודלים עתידיים ושימוש מתוכנן ב־Trainium וב־Inferentia; בפברואר 2026 פורסמה זמינות מודל Mistral נוסף בשירות.",
+    "announced_at": "2024-04-02",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם במקורות המצורפים"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין קשר בין הצדדים, ולא השקעת הון.",
+    "caveat_he": "הכרזה על שימוש במאיצים אינה נתון על קיבולת שנפרסה בפועל. לא פורסמו מחיר חוזה או השקעת AWS במניות Mistral.",
+    "sources": [
+      {
+        "url": "https://aws.amazon.com/blogs/machine-learning/aws-and-mistral-ai-commit-to-democratizing-generative-ai-with-a-strengthened-collaboration/",
+        "title": "AWS and Mistral AI commit to democratizing generative AI with a strengthened collaboration",
+        "publisher": "AWS",
+        "published_at": "2024-04-02",
+        "kind": "primary"
+      },
+      {
+        "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/mistral-ai-devstral-bedrock/",
+        "title": "Mistral AI Devstral 2 now available on Amazon Bedrock",
+        "publisher": "AWS",
+        "published_at": "2026-02-18",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "google-mistral-enterprise-2025",
+    "source": "google",
+    "target": "mistral",
+    "type": "partnership",
+    "title_he": "הרחבת Le Chat Enterprise ומודלי Mistral בענן Google",
+    "summary_he": "Google Cloud הרחיבה את היצע Mistral עם Le Chat Enterprise ב־Marketplace ועם מודל OCR ב־Vertex AI. ההרחבה ממשיכה שותפות להפצת מודלים מנוהלת, ו־Mistral מונה את Google Cloud כשותפה אסטרטגית.",
+    "announced_at": "2025-05-23",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם במקורות המצורפים"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין קשר בין הצדדים, ולא השקעת הון.",
+    "caveat_he": "הסכם הפצה ושילוב מוצר אינו השקעה במניות. לא פורסמו תנאים כספיים או בלעדיות.",
+    "sources": [
+      {
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/mistral-ais-le-chat-enterprise-and-mistral-ocr-25-05-on-google-cloud",
+        "title": "Mistral AI’s Le Chat Enterprise and Mistral OCR 25.05 model are available on Google Cloud",
+        "publisher": "Google Cloud",
+        "published_at": "2025-05-23",
+        "kind": "primary"
+      },
+      {
+        "url": "https://mistral.ai/partners/",
+        "title": "Mistral partners",
+        "publisher": "Mistral",
+        "published_at": null,
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "ibm-mistral-enterprise-2024",
+    "source": "ibm",
+    "target": "mistral",
+    "type": "partnership",
+    "title_he": "שותפות לשילוב מודלי Mistral ב־watsonx",
+    "summary_he": "IBM ו־Mistral הכריזו על שותפות אסטרטגית להבאת המודלים המסחריים של Mistral ללקוחות watsonx. השותפות מאפשרת פריסת מודלים בענן ובתשתיות מקומיות; IBM ממשיכה למנות את Mistral בין שותפות הטכנולוגיה שלה.",
+    "announced_at": "2024-05-21",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם במקורות המצורפים"
+    },
+    "direction_he": "שותפות טכנולוגית ומסחרית; החץ מציין קשר בין הצדדים, ולא השקעת הון.",
+    "caveat_he": "זהו שיתוף פעולה לפתרונות ארגוניים ולפריסת מודלים, ולא השקעת הון שדווחה. היקף כספי לא פורסם.",
+    "sources": [
+      {
+        "url": "https://community.ibm.com/community/user/blogs/armand-ruiz-gabernet/2024/05/21/new-strategic-partnership-with-mistral-ai",
+        "title": "New Strategic Partnership with Mistral AI",
+        "publisher": "IBM",
+        "published_at": "2024-05-21",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.ibm.com/products/watsonx/partners",
+        "title": "IBM Watsonx Technology Partners",
+        "publisher": "IBM",
+        "published_at": null,
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  }
+]

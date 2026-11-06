@@ -1,0 +1,173 @@
+[
+  {
+    "id": "meta-amazon-graviton-2026",
+    "source": "meta",
+    "target": "amazon",
+    "type": "compute",
+    "title_he": "עשרות מיליוני ליבות Graviton לתשתית ה־AI של Meta",
+    "summary_he": "Meta התקשרה עם AWS בהסכם להוספת עשרות מיליוני ליבות Graviton לתשתיות המחשוב שלה. החברה הסבירה כי סוכני AI דורשים יותר כוח עיבוד מסוג CPU וכי Graviton5 מרחיב את תמהיל השבבים שלה לצד מאיצים ופתרונות נוספים.",
+    "announced_at": "2026-04-24",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "capacity_he": "עשרות מיליוני ליבות AWS Graviton; אין בהכרזה נתון של גיגה־ואט",
+    "direction_he": "Meta רוכשת מ־AWS יכולות מחשוב המבוססות על Graviton.",
+    "caveat_he": "ההכרזה היא על הסכם ותמהיל מחשוב עתידי. אין להסיק שכל הליבות כבר נפרסו באותו מועד או שמדובר ברכישה ישירה של שבבים לבעלות Meta.",
+    "sources": [
+      {
+        "url": "https://about.fb.com/news/2026/04/meta-partners-with-aws-on-graviton-chips-to-power-agentic-ai/",
+        "title": "Meta Partners With AWS on Graviton Chips to Power Agentic AI",
+        "publisher": "Meta",
+        "published_at": "2026-04-24",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "amazon-intel-custom-ai-2024",
+    "source": "amazon",
+    "target": "intel",
+    "type": "supply",
+    "title_he": "מסגרת רב־שנתית לשבבים מותאמים מ־Intel עבור AWS",
+    "summary_he": "AWS ו־Intel הכריזו על הרחבת שיתוף הפעולה במסגרת רב־שנתית של מיליארדי דולרים למוצרי שבבים ולייצור פרוסות. Intel אמורה לייצר עבור AWS שבב קישוריות ל־AI בתהליך Intel 18A ושבב Xeon 6 מותאם בתהליך Intel 3.",
+    "announced_at": "2024-09-16",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": "USD",
+      "qualifier_he": "מסגרת של מיליארדי דולרים; לא פורסם סכום מדויק"
+    },
+    "capacity_he": "שבב AI fabric בתהליך Intel 18A ושבב Xeon 6 מותאם בתהליך Intel 3",
+    "direction_he": "Intel היא ספקית פיתוח וייצור השבבים ל־AWS.",
+    "caveat_he": "המסגרת כוללת השקעה משותפת בעיצובי שבבים, אך אין במקור פירוט של הון מניות. ההודעה אינה מאשרת שכל הייצור או התשלומים כבר הושלמו.",
+    "sources": [
+      {
+        "url": "https://www.intel.com/content/www/us/en/newsroom/news/intel-strategic-collaboration.html",
+        "title": "Intel and AWS Expand Strategic Collaboration, Helping Advance U.S.-Based Chip Manufacturing",
+        "publisher": "Intel",
+        "published_at": "2024-09-16",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "google-intel-xeon-ipu-2026",
+    "source": "google",
+    "target": "intel",
+    "type": "partnership",
+    "title_he": "שותפות רב־שנתית ב־Xeon ובשבבי IPU מותאמים",
+    "summary_he": "Google ו־Intel הכריזו על שותפות רב־שנתית לתשתיות ענן ו־AI. ההסכם כולל תיאום בכמה דורות של מעבדי Xeon והרחבת פיתוח משותף של שבבי IPU מותאמים, המסירים עומסי רשת, אחסון ואבטחה מהמעבד המרכזי.",
+    "announced_at": "2026-04-09",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "direction_he": "פיתוח משותף ותמיכה בתשתית Google באמצעות מעבדי Intel; החץ אינו מעיד על השקעה במניות.",
+    "caveat_he": "ההכרזה אינה מגדירה השקעת הון של Google ב־Intel, סכום רכישה או מספר מעבדים. שבבי IPU הם מאיצי תשתית ואינם תחליף ישיר למאיצי GPU לאימון מודלים.",
+    "sources": [
+      {
+        "url": "https://www.intel.com/content/www/us/en/newsroom/news/artificial-intelligence/intel-google-deepen-collaboration-to-advance-ai-infrastructure.html",
+        "title": "Intel, Google Deepen Collaboration to Advance AI Infrastructure",
+        "publisher": "Intel",
+        "published_at": "2026-04-09",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "amazon-anthropic-alexa-plus-2025",
+    "source": "amazon",
+    "target": "anthropic",
+    "type": "partnership",
+    "title_he": "Claude מסייע להפעיל את Alexa+",
+    "summary_he": "Amazon ו־Anthropic שיתפו פעולה בשילוב מודלי Claude ב־Alexa+. צוותי החברות עבדו יחד על התאמת היכולות, כאשר Alexa+ ניגשת ל־Claude דרך Amazon Bedrock כחלק מארכיטקטורה המשלבת כמה מודלים.",
+    "announced_at": "2025-02-26",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "תמורה נפרדת לשילוב Alexa+ לא פורסמה"
+    },
+    "direction_he": "Amazon משלבת את Claude במוצר צרכני שלה; זהו קשר מוצר נפרד מקשרי ההון והמחשוב.",
+    "caveat_he": "Claude אינו המודל היחיד ב־Alexa+. הודעת ההשקה תיארה פריסה הדרגתית בארה״ב, ואינה מאשרת בלעדיות או סכום עסקה נוסף.",
+    "sources": [
+      {
+        "url": "https://www.anthropic.com/news/claude-and-alexa-plus",
+        "title": "Claude and Alexa+",
+        "publisher": "Anthropic",
+        "published_at": "2025-02-26",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.aboutamazon.com/news/devices/new-alexa-tech-generative-artificial-intelligence",
+        "title": "The tech upgrades powering Alexa’s new gen AI capabilities",
+        "publisher": "Amazon",
+        "published_at": null,
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "amazon-meta-llama-startups-2025",
+    "source": "amazon",
+    "target": "meta",
+    "type": "partnership",
+    "title_he": "תוכנית AWS ו־Meta לפיתוח יישומי Llama",
+    "summary_he": "AWS ו־Meta פתחו תוכנית משותפת בת שישה חודשים ל־30 חברות הזנק בארה״ב המפתחות יישומים על בסיס Llama. התוכנית מציעה לכל משתתפת זיכויי AWS של עד 200 אלף דולר, ליווי הנדסי משתי החברות ותמיכה טכנית ייעודית.",
+    "announced_at": "2025-07-16",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": "USD",
+      "qualifier_he": "עד 200 אלף דולר בזיכויי AWS לכל חברת הזנק; אין תשלום ישיר ל־Meta"
+    },
+    "direction_he": "AWS ו־Meta מפעילות תוכנית משותפת; ההטבות ניתנות לחברות הזנק משתתפות.",
+    "caveat_he": "זו תוכנית אקוסיסטם מוגדרת בזמן, ולא השקעה של Amazon ב־Meta, סכום מזומן שהועבר או חוזה בלעדי להפצת Llama. ההכרזה המקורית היא מיולי 2025.",
+    "sources": [
+      {
+        "url": "https://press.aboutamazon.com/aws/2025/7/aws-and-meta-team-up-to-accelerate-ai-innovation",
+        "title": "AWS and Meta Team Up to Accelerate AI Innovation",
+        "publisher": "AWS",
+        "published_at": "2025-07-21",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "meta-amazon-llama-government-2025",
+    "source": "meta",
+    "target": "amazon",
+    "type": "partnership",
+    "title_he": "AWS מרחיבה גישה ל־Llama בסביבות ממשל רגישות",
+    "summary_he": "Meta מונה את AWS כשותפה המרחיבה גישה למודלי Llama עבור זרועות הצבא האמריקאי בסביבות וברשתות רגישות. שיתוף הפעולה מאפשר התאמה ופריסה של המודלים לצרכים ממשלתיים וביטחוניים תוך שמירת השליטה בתשתית ובנתונים.",
+    "announced_at": "2025-09-23",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "לא פורסם סכום נפרד להסכם ההפצה"
+    },
+    "direction_he": "AWS משמשת שותפת הפצה ופריסה של מודלי Meta; אין מדובר בהשקעה במניות.",
+    "caveat_he": "זהו אישור רשמי לקשר הפצה ולשימושים ממשלתיים, ללא שווי חוזה או הוכחה לבלעדיות. אין להסיק שהמודלים מותרים לכל שימוש ובכל מדינה.",
+    "sources": [
+      {
+        "url": "https://about.fb.com/news/2025/09/meta-supporting-us-national-security-with-ai/",
+        "title": "How Meta Is Supporting US National Security With AI",
+        "publisher": "Meta",
+        "published_at": "2025-09-23",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "id": "anthropic-terawulf-justified-lease-updated-2026",
+    "source": "anthropic",
+    "target": "terawulf",
+    "type": "compute",
+    "title_he": "עודכן חוזה השכירות של Anthropic ב-TeraWulf בקנטקי",
+    "summary_he": "Anthropic שכרה קיבולת תשתיות ל-20 שנה בחוזה הצפוי להניב כ-19 מיליארד דולר. ב-4 בנובמבר עודכנו החוזים לצד תמיכת האשראי של Google; המשכירה המשפטית היא Raylan Data LLC, חברה בת של TeraWulf.",
+    "announced_at": "2026-11-04",
+    "status": "signed",
+    "value": {
+      "amount": 19000000000,
+      "currency": "USD",
+      "qualifier_he": "כ-19 מיליארד דולר לאורך תקופת השכירות המקורית"
+    },
+    "capacity_he": "כ-401 מגה-ואט עומס IT קריטי; מסירה מדורגת מסוף 2027 עד הרבעון השני של 2028.",
+    "direction_he": "Anthropic משלמת שכירות ל-Raylan Data LLC, חברה בת של TeraWulf.",
+    "caveat_he": "העסקה המקורית הוכרזה ב-6 ביולי 2026; נובמבר הוא מועד עדכון ההסכמים. אין מדובר ברכישת GPU או בהשקעת הון. דמי השכירות מתחילים בעת מסירת כל אולם.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1083301/000162828026069810/wulf-20261104.htm",
+        "title": "TeraWulf Form 8-K: Justified credit support agreements",
+        "publisher": "TeraWulf / SEC",
+        "published_at": "2026-11-04",
+        "kind": "primary"
+      },
+      {
+        "url": "https://investors.terawulf.com/news-events/press-releases/detail/148/terawulf-secures-google-credit-backstop-for-project-financing-in-support-of-19-billion-anthropic-lease-executes-definitive-fluor-epc-agreement",
+        "title": "TeraWulf secures Google credit backstop for Anthropic lease",
+        "publisher": "TeraWulf",
+        "published_at": "2026-11-04",
+        "kind": "primary"
+      },
+      {
+        "url": "https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack",
+        "title": "TeraWulf announces Anthropic lease at Justified Data Campus",
+        "publisher": "TeraWulf",
+        "published_at": "2026-07-06",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "google-terawulf-justified-backstop-nov2026",
+    "source": "google",
+    "target": "terawulf",
+    "type": "financing",
+    "title_he": "Google חתמה על תמיכת אשראי לחוזי Anthropic בקנטקי",
+    "summary_he": "ב-4 בנובמבר נחתמו שלושה הסכמי תמיכת אשראי, המגבים התחייבויות מסוימות של Anthropic כלפי חברות TeraWulf. במקרה של כשל תשלום או חדלות פירעון, Google יכולה להיכנס כשוכרת או, בתנאים מסוימים, לשלם דמי סיום.",
+    "announced_at": "2026-11-04",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "הסכום המרבי של תמיכת Google לא פורסם בהודעה כסכום נקוב"
+    },
+    "capacity_he": "",
+    "direction_he": "Google מספקת תמיכת אשראי לטובת המשכירות בקבוצת TeraWulf בגין התחייבויות Anthropic; לא תועד כאן תשלום מזומן.",
+    "caveat_he": "19 מיליארד דולר הוא היקף חוזי השכירות, ולא השקעה של Google או סכום ערבות מאומת. תוקף הגיבוי לכל חוזה מתחיל עם תחילת השכירות באולם האחרון הרלוונטי, וכולל תנאי פקיעה.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1083301/000162828026069810/wulf-20261104.htm",
+        "title": "TeraWulf Form 8-K: Justified credit support agreements",
+        "publisher": "TeraWulf / SEC",
+        "published_at": "2026-11-04",
+        "kind": "primary"
+      },
+      {
+        "url": "https://investors.terawulf.com/news-events/press-releases/detail/148/terawulf-secures-google-credit-backstop-for-project-financing-in-support-of-19-billion-anthropic-lease-executes-definitive-fluor-epc-agreement",
+        "title": "TeraWulf secures Google credit backstop for Anthropic lease",
+        "publisher": "TeraWulf",
+        "published_at": "2026-11-04",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "google-terawulf-fluidstack-backstop-2025",
+    "source": "google",
+    "target": "terawulf",
+    "type": "financing",
+    "title_he": "Google גיבתה את חוזי Fluidstack ב-Lake Mariner",
+    "summary_he": "הרחבת CB-5 הוסיפה תמיכת אשראי של 1.4 מיליארד דולר והעלתה את הגיבוי המצטבר בפרויקט לכ-3.2 מיליארד. Google תומכת במימון המתקנים המשמשים את Fluidstack.",
+    "announced_at": "2025-08-18",
+    "status": "signed",
+    "value": {
+      "amount": 3200000000,
+      "currency": "USD",
+      "qualifier_he": "סכום גיבוי מצטבר לאחר ההרחבה"
+    },
+    "capacity_he": "",
+    "direction_he": "Google מגבה התחייבויות שכירות של Fluidstack לטובת TeraWulf.",
+    "caveat_he": "סכום מצטבר, לא תוספת של 3.2 מיליארד. נפרד מההסכמים עם Anthropic בקנטקי שנחתמו בנובמבר 2026.",
+    "sources": [
+      {
+        "url": "https://investors.terawulf.com/news-events/press-releases/detail/114/terawulf-announces-fluidstack-expansion-with-160-mw-cb-5-lease-at-lake-mariner",
+        "title": "TeraWulf announces Fluidstack expansion at Lake Mariner",
+        "publisher": "TeraWulf",
+        "published_at": "2025-08-18",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "google-terawulf-warrants-ownership",
+    "source": "google",
+    "target": "terawulf",
+    "type": "investment",
+    "title_he": "Google קיבלה כתבי אופציה ב-TeraWulf בתמורה לתמיכת אשראי",
+    "summary_he": "TeraWulf הנפיקה ל-Google כתבי אופציה לרכישת 73.58 מיליון מניות במחיר מימוש של סנט למניה. בדוח בעלות מספטמבר 2026, רק הזכויות הניתנות למימוש בתוך 60 יום יצרו בעלות מוטבת מדווחת של 7.6%.",
+    "announced_at": "2025-08-18",
+    "status": "completed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "כתבי אופציה בתמורה לתמיכת אשראי; לא השקעת מזומן נקובה"
+    },
+    "capacity_he": "",
+    "direction_he": "Google מקבלת זכויות לרכישת מניות TeraWulf כנגד תמיכת האשראי שלה.",
+    "caveat_he": "כ-14% היה אומדן בעלות פרו פורמה בהודעת אוגוסט 2025, ואינו שיעור בעלות מדווח עדכני. 7.6% מתייחס למבחן הדיווח ולמצב ב-11 בספטמבר 2026, ואינו שיעור מימוש מלא של כלל האופציות.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1083301/000108330126000031/wulf-20251231.htm",
+        "title": "TeraWulf 2025 Form 10-K: Google warrants",
+        "publisher": "TeraWulf / SEC",
+        "published_at": "2026-03",
+        "kind": "primary"
+      },
+      {
+        "url": "https://investors.terawulf.com/sec-filings/all-sec-filings/content/0001193125-26-402852/primary_doc.html",
+        "title": "Google Schedule 13G: TeraWulf beneficial ownership",
+        "publisher": "Google / SEC",
+        "published_at": "2026-09-25",
+        "kind": "primary"
+      },
+      {
+        "url": "https://investors.terawulf.com/news-events/press-releases/detail/114/terawulf-announces-fluidstack-expansion-with-160-mw-cb-5-lease-at-lake-mariner",
+        "title": "TeraWulf announces Fluidstack expansion at Lake Mariner",
+        "publisher": "TeraWulf",
+        "published_at": "2025-08-18",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "fluidstack-terawulf-lake-mariner-lease",
+    "source": "fluidstack",
+    "target": "terawulf",
+    "type": "compute",
+    "title_he": "Fluidstack הרחיבה את שכירת התשתיות ב-Lake Mariner",
+    "summary_he": "Fluidstack הרחיבה את שכירת הקיבולת לכ-360 מגה-ואט. ההתקשרויות מייצגות כ-6.7 מיליארד דולר של הכנסות חוזיות ל-TeraWulf, לפני הארכות אופציונליות.",
+    "announced_at": "2025-08-18",
+    "status": "signed",
+    "value": {
+      "amount": 6700000000,
+      "currency": "USD",
+      "qualifier_he": "היקף חוזי מצטבר בקמפוס לאחר ההרחבה"
+    },
+    "capacity_he": "כ-360 מגה-ואט עומס IT קריטי, לרבות תוספת CB-5 של 160 מגה-ואט.",
+    "direction_he": "Fluidstack משלמת ל-TeraWulf עבור שכירת תשתיות מרכז הנתונים.",
+    "caveat_he": "הנתון כולל את החוזים הקודמים ואינו תוספת CB-5 לבדה. אפשרויות הארכה אינן נספרות כאן כהכנסה מובטחת.",
+    "sources": [
+      {
+        "url": "https://investors.terawulf.com/news-events/press-releases/detail/114/terawulf-announces-fluidstack-expansion-with-160-mw-cb-5-lease-at-lake-mariner",
+        "title": "TeraWulf announces Fluidstack expansion at Lake Mariner",
+        "publisher": "TeraWulf",
+        "published_at": "2025-08-18",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  }
+]

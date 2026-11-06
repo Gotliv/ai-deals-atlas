@@ -1,0 +1,1490 @@
+[
+  {
+    "id": "hw-amat-tsmc-epic",
+    "source": "applied-materials",
+    "target": "tsmc",
+    "type": "partnership",
+    "title_he": "מחקר משותף ב-EPIC לפיתוח הדור הבא של שבבי AI",
+    "summary_he": "Applied Materials ו-TSMC הרחיבו את שיתוף הפעולה לפיתוח חומרים, ציוד ותהליכי ייצור במרכז EPIC. העבודה מתמקדת בשיפור ביצועים וצריכת חשמל, מבני טרנזיסטורים תלת־ממדיים והעברת טכנולוגיות ממחקר לייצור מסחרי.",
+    "announced_at": "2026-05-11",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "עלות הקמת EPIC בסך 5 מיליארד דולר היא השקעת Applied במרכז כולו, ולא תמורה בעסקה עם TSMC.",
+    "sources": [
+      {
+        "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-and-tsmc-partner-epic-center-accelerate-ai",
+        "title": "Applied Materials and TSMC Partner at the EPIC Center to Accelerate AI Scaling",
+        "publisher": "Applied Materials",
+        "published_at": "2026-05-11",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-amat-intel-epic",
+    "source": "applied-materials",
+    "target": "intel",
+    "type": "partnership",
+    "title_he": "פיתוח טרנזיסטורים ואריזה מתקדמת עם Intel",
+    "summary_he": "החברות משתפות פעולה בין מרכז EPIC בקליפורניה וקמפוס המחקר של Intel באורגון. תחומי העבודה כוללים חומרים, חיווט ואריזה מתקדמת עבור שבבי AI, לרבות ערימה תלת־ממדית המבוססת על Foveros.",
+    "announced_at": "2026-10-06",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "",
+    "sources": [
+      {
+        "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-and-intel-collaborate-accelerate-chipmaking",
+        "title": "Applied Materials and Intel Collaborate to Accelerate Chipmaking Innovations for AI-Driven Computing",
+        "publisher": "Applied Materials",
+        "published_at": "2026-10-06",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-amat-samsung-epic",
+    "source": "applied-materials",
+    "target": "samsung",
+    "type": "partnership",
+    "title_he": "Samsung מצטרפת למרכז EPIC",
+    "summary_he": "Samsung הצטרפה לתוכניות מחקר ופיתוח משותפות עם Applied Materials. המיקוד הוא חומרים ותהליכים לדורות הבאים של שבבי לוגיקה, ארכיטקטורות זיכרון ואינטגרציה תלת־ממדית.",
+    "announced_at": "2026-02-11",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "אין לייחס ל-Samsung את מלוא השקעת Applied בסך 5 מיליארד דולר בהקמת המרכז.",
+    "sources": [
+      {
+        "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-announces-samsung-electronics-will-join-new",
+        "title": "Applied Materials Announces Samsung Electronics Will Join the New, Multibillion-Dollar EPIC Center",
+        "publisher": "Applied Materials",
+        "published_at": "2026-02-11",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-amat-sk-epic",
+    "source": "applied-materials",
+    "target": "sk-hynix",
+    "type": "partnership",
+    "title_he": "הסכם ארוך טווח למחקר בזיכרונות AI",
+    "summary_he": "Applied Materials ו-SK hynix חתמו על הסכם פיתוח טכנולוגי מקיף לדורות הבאים של DRAM ו-HBM. צוותי ההנדסה עובדים על חומרים, שילוב תהליכים, אריזה תלת־ממדית וניהול חום במרכזי המחקר של Applied בקליפורניה ובסינגפור.",
+    "announced_at": "2026-03-10",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "",
+    "sources": [
+      {
+        "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-and-sk-hynix-announce-long-term-rd-partnership",
+        "title": "Applied Materials and SK hynix Announce Long-Term R&D Partnership",
+        "publisher": "Applied Materials",
+        "published_at": "2026-03-10",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-amat-micron-epic",
+    "source": "applied-materials",
+    "target": "micron",
+    "type": "partnership",
+    "title_he": "מחקר משותף ב-DRAM, HBM ו-NAND",
+    "summary_he": "Applied Materials ו-Micron משתפות פעולה בפיתוח זיכרונות ואחסון יעילים יותר מבחינת צריכת אנרגיה עבור מערכות AI. השותפות מחברת את מרכז EPIC עם מרכז החדשנות של Micron בבויסי, איידהו.",
+    "announced_at": "2026-03-10",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "",
+    "sources": [
+      {
+        "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-and-micron-partner-advance-us-innovation-next/",
+        "title": "Applied Materials and Micron Partner To Advance U.S. Innovation in Next-Generation AI Memory Solutions",
+        "publisher": "Applied Materials",
+        "published_at": "2026-03-10",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-amat-broadcom-epic",
+    "source": "applied-materials",
+    "target": "broadcom",
+    "type": "partnership",
+    "title_he": "Broadcom מצטרפת לפיתוח אריזה מתקדמת ב-EPIC",
+    "summary_he": "Broadcom הצטרפה כשותפת חדשנות של Applied Materials לפיתוח טכנולוגיות אריזה עבור שבבים ומערכות AI. השותפות מכוונת לשילוב רכיבים שונים במארז משותף ולשיפור ביצועים ויעילות אנרגטית.",
+    "announced_at": "2026-05-20",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "",
+    "sources": [
+      {
+        "url": "https://investor.appliedmaterials.com/news-releases/news-release-details/applied-materials-announces-broadcom-epic-innovation-partner",
+        "title": "Applied Materials Announces Broadcom as EPIC Innovation Partner",
+        "publisher": "Applied Materials",
+        "published_at": "2026-05-20",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-amat-besi-partnership",
+    "source": "applied-materials",
+    "target": "besi",
+    "type": "partnership",
+    "title_he": "הרחבת הפיתוח המשותף באריזת שבבים",
+    "summary_he": "Besi הצטרפה למרכז EPIC והרחיבה את שיתוף הפעולה עם Applied Materials מעבר לחיבור היברידי בין שבבים. העבודה כוללת אינטגרציית לוגיקה וזיכרון, חיבור בלחץ וחום, אריזה על גבי פנלים ויישומים פוטוניים לתשתיות AI.",
+    "announced_at": "2026-10-01",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "",
+    "sources": [
+      {
+        "url": "https://www.appliedmaterials.com/us/en/newsroom/press-releases/100126-applied-besi-expand-partnership.html",
+        "title": "Applied Materials and Besi Expand Strategic Partnership to Advance Next-Generation Packaging for AI Scaling",
+        "publisher": "Applied Materials",
+        "published_at": "2026-10-01",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-amat-besi-investment",
+    "source": "applied-materials",
+    "target": "besi",
+    "type": "investment",
+    "title_he": "הסכם להגדלת ההחזקה ב-Besi לכ-20%",
+    "summary_he": "Applied Materials חתמה על הסכם רכישת מניות מואץ שנועד להגדיל את החזקתה ב-Besi לכ-20% מהמניות. ההשקעה מחזקת את השותפות בתחום האריזה המתקדמת; Applied מסרה שאין לה כוונה לבקש ייצוג בדירקטוריון.",
+    "announced_at": "2026-10-26",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "יעד החזקה של כ-20%; סכום הרכישה לא פורסם"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "מסירת המניות כפופה לפקיעת תקופת ההמתנה או לסיומה לפי חוק HSR. אין להציג את יעד ההחזקה כהשלמה מאומתת.",
+    "sources": [
+      {
+        "url": "https://www.appliedmaterials.com/us/en/newsroom/press-releases/102626-increase-investment-besi-semiconductor.html",
+        "title": "Applied Materials to Increase its Strategic Investment in BE Semiconductor Industries",
+        "publisher": "Applied Materials",
+        "published_at": "2026-10-26",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-amat-kioxia-epic",
+    "source": "applied-materials",
+    "target": "kioxia",
+    "type": "partnership",
+    "title_he": "פיתוח מבני זיכרון וערימת שבבים עם KIOXIA",
+    "summary_he": "KIOXIA הצטרפה למרכז EPIC כשותפת חדשנות. החברות יפתחו מבני תאי זיכרון, שיטות לערימת שבבים וחומרים חדשים כדי להגדיל את צפיפות הזיכרון ולשפר את ביצועיו במערכות AI.",
+    "announced_at": "2026-09-29",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "",
+    "sources": [
+      {
+        "url": "https://ir.appliedmaterials.com/node/29666/pdf",
+        "title": "Applied Materials and KIOXIA Partner at the EPIC Center to Advance Next-Generation Memory Technology",
+        "publisher": "Applied Materials",
+        "published_at": "2026-09-29",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-amat-advantest-epic",
+    "source": "applied-materials",
+    "target": "advantest",
+    "type": "partnership",
+    "title_he": "חיבור בין תהליכי ייצור ובדיקת שבבים",
+    "summary_he": "Advantest הצטרפה למרכז EPIC והקימה מרכז חדשנות בקמפוס המחקר של Applied Materials. השותפות מחברת בין ייצור השבב לבין בדיקתו ובדיקת המארז כדי לקצר את הדרך מתכנון חדש לייצור.",
+    "announced_at": "2026-04-21",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "",
+    "sources": [
+      {
+        "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-announces-advantest-innovation-partner-epic",
+        "title": "Applied Materials Announces Advantest as Innovation Partner for EPIC Platform",
+        "publisher": "Applied Materials",
+        "published_at": "2026-04-21",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-amat-screen-epic",
+    "source": "applied-materials",
+    "target": "screen",
+    "type": "partnership",
+    "title_he": "פיתוח משולב של ניקוי פרוסות סיליקון",
+    "summary_he": "SCREEN Semiconductor Solutions הצטרפה ל-EPIC לפיתוח משותף של ניקוי, איכול רטוב והכנת משטחים. המטרה היא להתאים את השלבים הללו לתהליכי החומרים של Applied ולשפר את שיעור השבבים התקינים בייצור מתקדם.",
+    "announced_at": "2026-05-26",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "",
+    "sources": [
+      {
+        "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-partners-screen-bring-advanced-wafer-cleaning",
+        "title": "Applied Materials Partners with SCREEN To Bring Advanced Wafer Cleaning Technologies to EPIC Center",
+        "publisher": "Applied Materials",
+        "published_at": "2026-05-26",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-amat-asmpt-nexx",
+    "source": "applied-materials",
+    "target": "asmpt",
+    "type": "acquisition",
+    "title_he": "הסכם לרכישת פעילות NEXX מ-ASMPT",
+    "summary_he": "Applied Materials חתמה על הסכם מחייב לרכישת פעילות NEXX של ASMPT. הטכנולוגיה מוסיפה יכולות ציפוי לאריזה על גבי פנלים, המאפשרת לבנות מארזים גדולים יותר למאיצי AI המשלבים מעבדים וזיכרונות.",
+    "announced_at": "2026-05-03",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "מדובר ברכישת פעילות NEXX בלבד, ולא ברכישת ASMPT כולה. במקורות שנבדקו לא נמצא אישור נפרד להשלמת העסקה עד מועד החיתוך.",
+    "sources": [
+      {
+        "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-broadens-advanced-packaging-portfolio/",
+        "title": "Applied Materials Broadens Advanced Packaging Portfolio with Acquisition of NEXX",
+        "publisher": "Applied Materials",
+        "published_at": "2026-05-03",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-amat-nvidia-simulations",
+    "source": "applied-materials",
+    "target": "nvidia",
+    "type": "partnership",
+    "title_he": "מחשוב מואץ וסימולציות דיגיטליות לייצור שבבים",
+    "summary_he": "Applied Materials משתמשת ב-Omniverse ובספריות CUDA-X של NVIDIA למחקר חומרים, פיתוח תהליכים ואופטימיזציה של מפעלים. העדכון מאוקטובר כולל סימולציות של תאי ייצור ותאומים דיגיטליים לתכנון מפעל וזרימת חומרים.",
+    "announced_at": "2026-10-14",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "המקור מאשר שימוש טכנולוגי ושיתוף פעולה, אך אינו מפרסם שווי הזמנת ציוד או השקעה הונית.",
+    "sources": [
+      {
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Semiconductor-Leaders-Advance-AI-Across-Chip-Design-and-Manufacturing-for-AI-Defined-Fabs/default.aspx",
+        "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs",
+        "publisher": "NVIDIA",
+        "published_at": "2026-10-14",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06",
+    "date_basis_he": "מועד עדכון או דיווח פומבי; לא בהכרח תאריך תחילת ההתקשרות"
+  },
+  {
+    "id": "hw-amat-synopsys-simulation",
+    "source": "applied-materials",
+    "target": "synopsys",
+    "type": "partnership",
+    "title_he": "סימולציות כימיה קוונטית למחקר חומרים",
+    "summary_he": "Applied Materials משתפת פעולה עם Synopsys ו-NVIDIA להאצת מודלים של חומרים וסימולציות כימיה קוונטית. העבודה משלבת את QuantumATK של Synopsys עם ספריית cuEST של NVIDIA לצורכי מחקר ופיתוח בתחום השבבים.",
+    "announced_at": "2026-03-16",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "",
+    "sources": [
+      {
+        "url": "https://investor.synopsys.com/news/news-details/2026/Synopsys-Showcases-NVIDIA-Partnership-Impact-and-Ecosystem-Innovation-at-GTC-2026/default.aspx",
+        "title": "Synopsys Showcases NVIDIA Partnership Impact and Ecosystem Innovation at GTC 2026",
+        "publisher": "Synopsys",
+        "published_at": "2026-03-16",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-nvidia-tsmc-supply",
+    "source": "nvidia",
+    "target": "tsmc",
+    "type": "supply",
+    "title_he": "ייצור Blackwell במפעל TSMC באריזונה",
+    "summary_he": "TSMC מייצרת עבור NVIDIA שבבי Blackwell במפעל שלה בפיניקס, אריזונה. באוקטובר 2025 החברות ציינו הגעה לייצור בכמויות מסחריות, כחלק מהרחבת שרשרת האספקה של NVIDIA בארצות הברית.",
+    "announced_at": "2025-10-17",
+    "status": "completed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "האישור מתייחס לאבן דרך בייצור Blackwell באריזונה, ואינו מייצג סכום הזמנות כולל או בלעדיות של TSMC על כלל הייצור.",
+    "sources": [
+      {
+        "url": "https://blogs.nvidia.com/blog/tsmc-blackwell-manufacturing/",
+        "title": "The Engines of American-Made Intelligence: NVIDIA and TSMC Celebrate First NVIDIA Blackwell Wafer Produced in the US",
+        "publisher": "NVIDIA",
+        "published_at": "2025-10-17",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-tsmc-nvidia-ai-fabs",
+    "source": "tsmc",
+    "target": "nvidia",
+    "type": "partnership",
+    "title_he": "שילוב AI ומחשוב מואץ במפעלי TSMC",
+    "summary_he": "TSMC משתמשת בטכנולוגיות NVIDIA להאצת ליתוגרפיה חישובית, סימולציות טרנזיסטורים, בקרת תהליכים ובדיקת פגמים. השותפות מוסיפה רובד תוכנה ומחשוב לקשר הייצור בין החברות.",
+    "announced_at": "2026-06-01",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "",
+    "sources": [
+      {
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-TSMC-Bring-AI-Into-Fabs-to-Advance-Semiconductor-Design-and-Manufacturing/default.aspx",
+        "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing",
+        "publisher": "NVIDIA",
+        "published_at": "2026-06-01",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-amd-tsmc-2nm",
+    "source": "amd",
+    "target": "tsmc",
+    "type": "supply",
+    "title_he": "מעבדי EPYC Venice נכנסים לייצור ב-2 ננומטר",
+    "summary_he": "AMD הודיעה על תחילת הגדלת הייצור של מעבדי EPYC מדור Venice בטכנולוגיית 2 ננומטר של TSMC בטייוואן. החברות ציינו גם תוכניות עתידיות להרחבת הייצור לאריזונה, לתמיכה בתשתיות ענן ו-AI.",
+    "announced_at": "2026-05-21",
+    "status": "completed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "השלמת אבן הדרך של תחילת הגדלת הייצור אינה מאשרת שהייצור המתוכנן באריזונה כבר החל.",
+    "sources": [
+      {
+        "url": "https://newsroom.amd.com/news/amd-announces-production-ramp-of-next-generation-a/",
+        "title": "AMD Announces Production Ramp of Next-Generation AMD EPYC Processor Venice on TSMC 2nm Process Technology",
+        "publisher": "AMD",
+        "published_at": "2026-05-21",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-sk-tsmc-hbm",
+    "source": "sk-hynix",
+    "target": "tsmc",
+    "type": "partnership",
+    "title_he": "הרחבת שיתוף הפעולה ב-HBM ובאריזה מתקדמת",
+    "summary_he": "SK hynix ו-TSMC סיכמו להרחיב את שיתוף הפעולה בפיתוח HBM ובאריזה מתקדמת. החברות מכוונות גם לזיכרונות AI מותאמים ללקוחות גדולים, תוך חיבור מומחיות הזיכרון של SK hynix ליכולות הייצור של TSMC.",
+    "announced_at": "2026-06-03",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "המקור מתאר הרחבת שיתוף פעולה; לא פורסמו בו סכום חוזה או התחייבות רכישה כמותית.",
+    "sources": [
+      {
+        "url": "https://news.skhynix.com/en/ai-partnership-tsmc-2026/",
+        "title": "SK Group Chairman Meets TSMC Chairman to Solidify Global AI Chip Partnership",
+        "publisher": "SK hynix",
+        "published_at": "2026-06",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-asml-tsmc-highna",
+    "source": "asml",
+    "target": "tsmc",
+    "type": "partnership",
+    "title_he": "יוזמה משותפת למסכות גדולות בליתוגרפיית High NA",
+    "summary_he": "ASML ו-TSMC הקימו יוזמה לקידום מסכות 12 אינץ׳ עבור ליתוגרפיית High NA EUV. היעדים כוללים קו פיילוט ב-2031 ומוכנות לייצור מתקדם ב-2033, כדי לשפר תפוקה ולהפחית עלויות ייצור.",
+    "announced_at": "2026-09-08",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "לוחות הזמנים הם יעדי פיתוח עתידיים. TSMC ציינה בנפרד כוונה להשתמש ב-High NA בייצור מתקדם החל מ-2030.",
+    "sources": [
+      {
+        "url": "https://pr.tsmc.com/english/news/3338",
+        "title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+        "publisher": "TSMC / ASML",
+        "published_at": "2026-09-08",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-intel-asml-highna",
+    "source": "intel",
+    "target": "asml",
+    "type": "partnership",
+    "title_he": "הרחבת המוכנות לייצור בטכנולוגיית High NA EUV",
+    "summary_he": "Intel Foundry ו-ASML דיווחו על התקדמות משותפת בהטמעת High NA EUV. העדכון כולל שימוש בייצור בשכבות נבחרות של מעבדי Panther Lake והמשך פיתוח התקינה והתשתית למסכות גדולות יותר.",
+    "announced_at": "2026-09-07",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "אין במקור שווי רכישה חדש של מכונות ASML; זהו עדכון על יישום ושותפות טכנולוגית.",
+    "sources": [
+      {
+        "url": "https://www.intel.com/content/www/us/en/newsroom/news/intel-foundry/intel-foundry-asml-accelerate-industry-readiness-for-high-na-euv.html",
+        "title": "Intel Foundry and ASML Collaborate to Accelerate Industry Readiness for High NA EUV",
+        "publisher": "Intel",
+        "published_at": "2026-09-07",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-samsung-asml-highna",
+    "source": "samsung",
+    "target": "asml",
+    "type": "partnership",
+    "title_he": "פיתוח High NA ומסכות 12 אינץ׳ עם Samsung",
+    "summary_he": "Samsung ו-ASML הרחיבו את השותפות לקידום ליתוגרפיית High NA EUV. Samsung הצטרפה ליוזמת מסכות 12 אינץ׳ ומתכננת לשלב High NA בייצור DRAM בכמויות מסחריות עד 2028.",
+    "announced_at": "2026-09-08",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "יעד 2028 הוא תוכנית שפורסמה, ולא ייצור שכבר הושלם.",
+    "sources": [
+      {
+        "url": "https://news.samsung.com/global/samsung-electronics-and-asml-expand-strategic-collaboration-for-next-generation-semiconductor-manufacturing",
+        "title": "Samsung Electronics and ASML Expand Strategic Collaboration for Next-Generation Semiconductor Manufacturing",
+        "publisher": "Samsung Electronics",
+        "published_at": "2026-09-08",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-nvidia-sk-memory",
+    "source": "nvidia",
+    "target": "sk-hynix",
+    "type": "partnership",
+    "title_he": "הסכם רב־שנתי לפיתוח ולאספקת זיכרונות AI",
+    "summary_he": "NVIDIA ו-SK hynix הכריזו על הסכם רב־שנתי לפיתוח דורות חדשים של זיכרון ולתמיכה באספקה לתשתיות AI. שיתוף הפעולה כולל זיכרונות למערכות Vera Rubin, למעבדי Vera וליישומי מחשוב ורובוטיקה נוספים.",
+    "announced_at": "2026-06-07",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "אין לייחס לעסקת הזיכרון הזאת לבדה את אומדן 500 מיליארד הדולר של יוזמת SK Group הרחבה, הכוללת גם מרכזי מחשוב של SK Telecom.",
+    "sources": [
+      {
+        "url": "https://nvidianews.nvidia.com/news/sk-hynix-ai-factory",
+        "title": "NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories",
+        "publisher": "NVIDIA",
+        "published_at": "2026-06-07",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-samsung-broadcom-mou",
+    "source": "broadcom",
+    "target": "samsung",
+    "type": "supply",
+    "title_he": "מזכר הבנות רחב ל-HBM, ייצור ואריזה",
+    "summary_he": "Samsung ו-Broadcom חתמו על מזכר הבנות להרחבת שיתוף הפעולה בזיכרון, ייצור שבבים ואריזה מתקדמת. החברות העריכו היקף פוטנציאלי של יותר מ-200 מיליארד דולר על פני חמש שנים עד 2030.",
+    "announced_at": "2026-07-25",
+    "status": "proposed",
+    "value": {
+      "amount": 200000000000,
+      "currency": "USD",
+      "qualifier_he": "מעל 200 מיליארד דולר בהיקף פוטנציאלי לפי הערכת הצדדים במזכר הבנות"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "זהו MOU והיקף חזוי של שיתוף פעולה, לא סכום הזמנות שבוצע או השקעה שכבר הועברה. אסור לחברו להוצאות מאומתות.",
+    "sources": [
+      {
+        "url": "https://news.samsung.com/global/samsung-electronics-and-broadcom-expand-strategic-collaboration-across-memory-and-foundry-technologies",
+        "title": "Samsung Electronics and Broadcom Expand Strategic Collaboration Across Memory and Foundry Technologies",
+        "publisher": "Samsung Electronics",
+        "published_at": "2026-07-25",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-samsung-mistral-partnership",
+    "source": "samsung",
+    "target": "mistral",
+    "type": "partnership",
+    "title_he": "מודלי AI מקומיים לתכנון ולייצור שבבים",
+    "summary_he": "Samsung תשלב את פתרונות Mistral במערכות השבבים שלה לפיתוח מודלים מותאמים המופעלים בתשתית החברה. המיקוד כולל איתור פגמים, אופטימיזציית ציוד וניתוח נתונים, תוך שמירה על מידע טכנולוגי רגיש בתוך הארגון.",
+    "announced_at": "2026-09-09",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "",
+    "sources": [
+      {
+        "url": "https://news.samsung.com/global/samsung-and-mistral-ai-announce-strategic-partnership-for-intelligence-driven-semiconductor-infrastructure",
+        "title": "Samsung and Mistral AI Announce Strategic Partnership for Intelligence-Driven Semiconductor Infrastructure",
+        "publisher": "Samsung Electronics",
+        "published_at": "2026-09-09",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-samsung-mistral-investment",
+    "source": "samsung",
+    "target": "mistral",
+    "type": "investment",
+    "title_he": "Samsung מובילה את סבב D של Mistral",
+    "summary_he": "Samsung הובילה את סבב D של Mistral, שגייס בסך הכול 3 מיליארד אירו לפי שווי של יותר מ-21 מיליארד אירו אחרי הכסף. הסכום שהשקיעה Samsung בנפרד ושיעור החזקתה לא פורסמו.",
+    "announced_at": "2026-09-08",
+    "status": "completed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "סכום ההשקעה של Samsung לא פורסם"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "3 מיליארד אירו הם סכום הסבב כולו ואינם ההשקעה של Samsung לבדה.",
+    "sources": [
+      {
+        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+        "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+        "publisher": "Mistral AI",
+        "published_at": "2026-09-08",
+        "kind": "primary"
+      },
+      {
+        "url": "https://news.samsung.com/global/samsung-and-mistral-ai-announce-strategic-partnership-for-intelligence-driven-semiconductor-infrastructure",
+        "title": "Samsung and Mistral AI Announce Strategic Partnership for Intelligence-Driven Semiconductor Infrastructure",
+        "publisher": "Samsung Electronics",
+        "published_at": "2026-09-09",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-asml-mistral-investment-c",
+    "source": "asml",
+    "target": "mistral",
+    "type": "investment",
+    "title_he": "השקעת 1.3 מיליארד אירו של ASML ב-Mistral",
+    "summary_he": "ASML השקיעה 1.3 מיליארד אירו כמובילת סבב C של Mistral. בעת ההכרזה ההשקעה הקנתה לה כ-11% בדילול מלא, לצד תפקיד מייעץ בוועדה האסטרטגית של Mistral.",
+    "announced_at": "2025-09-09",
+    "status": "completed",
+    "value": {
+      "amount": 1300000000,
+      "currency": "EUR",
+      "qualifier_he": "השקעת ASML בסבב C"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "כ-11% הוא שיעור ההחזקה בעת סבב C בשנת 2025; אין להציגו כשיעור מעודכן לאחר סבב D ב-2026.",
+    "sources": [
+      {
+        "url": "https://www.asml.com/en/news/press-releases/2025/asml-mistral-ai-enter-strategic-partnership",
+        "title": "ASML, Mistral AI enter strategic partnership",
+        "publisher": "ASML",
+        "published_at": "2025-09-09",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-asml-mistral-investment-d",
+    "source": "asml",
+    "target": "mistral",
+    "type": "investment",
+    "title_he": "ASML משתתפת גם בסבב D של Mistral",
+    "summary_he": "Mistral ציינה את ASML בין המשקיעים הקיימים שהשתתפו בסבב D בספטמבר 2026. השתתפות זו נוספת להשקעה ההיסטורית מ-2025, אך הקצאת ASML בסבב החדש ושיעור ההחזקה המעודכן לא פורסמו.",
+    "announced_at": "2026-09-08",
+    "status": "completed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "אין להוסיף את סכום הסבב המלא, 3 מיליארד אירו, להשקעה של ASML.",
+    "sources": [
+      {
+        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+        "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+        "publisher": "Mistral AI",
+        "published_at": "2026-09-08",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-asml-mistral-partnership",
+    "source": "asml",
+    "target": "mistral",
+    "type": "partnership",
+    "title_he": "מודלי Mistral למחקר, הנדסה ושירות במערכות ASML",
+    "summary_he": "השותפות ארוכת הטווח משלבת את מודלי Mistral במוצרי ASML ובתהליכי מחקר ותפעול. עדכון מיוני 2026 מתאר יישומים בכיול, איתור תקלות ואופטימיזציית תכנון, לצד ניסויים מול לקוחות.",
+    "announced_at": "2025-09-09",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "זו שותפות טכנולוגית נפרדת מההשקעה ההונית. תוצאות הפיילוטים אינן הבטחה לביצועים בכל התקנה.",
+    "sources": [
+      {
+        "url": "https://www.asml.com/en/news/press-releases/2025/asml-mistral-ai-enter-strategic-partnership",
+        "title": "ASML, Mistral AI enter strategic partnership",
+        "publisher": "ASML",
+        "published_at": "2025-09-09",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.asml.com/en/company/stories/2026/machines-behind-machines",
+        "title": "The machines behind the machines",
+        "publisher": "ASML",
+        "published_at": "2026-06-12",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-samsung-anthropic-h",
+    "source": "samsung",
+    "target": "anthropic",
+    "type": "investment",
+    "title_he": "Samsung משתתפת בסבב H של Anthropic",
+    "summary_he": "Samsung נמנתה עם שותפות התשתית שהשקיעו בסבב H של Anthropic במאי 2026. החברה גייסה בסבב 65 מיליארד דולר בסך הכול, אך חלקה של כל משקיעה לא פורסם.",
+    "announced_at": "2026-05-28",
+    "status": "completed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "65 מיליארד דולר הם גודל הסבב כולו ואינם סכום השקעתה של Samsung.",
+    "sources": [
+      {
+        "url": "https://www.anthropic.com/news/series-h",
+        "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+        "publisher": "Anthropic",
+        "published_at": "2026-05-28",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-sk-hynix-anthropic-h",
+    "source": "sk-hynix",
+    "target": "anthropic",
+    "type": "investment",
+    "title_he": "SK hynix משתתפת בסבב H של Anthropic",
+    "summary_he": "SK hynix נמנתה עם שותפות התשתית שהשקיעו בסבב H של Anthropic במאי 2026. החברה גייסה בסבב 65 מיליארד דולר בסך הכול, אך חלקה של כל משקיעה לא פורסם.",
+    "announced_at": "2026-05-28",
+    "status": "completed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "65 מיליארד דולר הם גודל הסבב כולו ואינם סכום השקעתה של SK hynix.",
+    "sources": [
+      {
+        "url": "https://www.anthropic.com/news/series-h",
+        "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+        "publisher": "Anthropic",
+        "published_at": "2026-05-28",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-micron-anthropic-h",
+    "source": "micron",
+    "target": "anthropic",
+    "type": "investment",
+    "title_he": "Micron משתתפת בסבב H של Anthropic",
+    "summary_he": "Micron נמנתה עם שותפות התשתית שהשקיעו בסבב H של Anthropic במאי 2026. החברה גייסה בסבב 65 מיליארד דולר בסך הכול, אך חלקה של כל משקיעה לא פורסם.",
+    "announced_at": "2026-05-28",
+    "status": "completed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "65 מיליארד דולר הם גודל הסבב כולו ואינם סכום השקעתה של Micron.",
+    "sources": [
+      {
+        "url": "https://www.anthropic.com/news/series-h",
+        "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+        "publisher": "Anthropic",
+        "published_at": "2026-05-28",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-anthropic-micron-supply",
+    "source": "anthropic",
+    "target": "micron",
+    "type": "supply",
+    "title_he": "הסכם אספקת זיכרון ואחסון לתשתיות Claude",
+    "summary_he": "Anthropic ו-Micron חתמו על הסכם אספקת זיכרונות ואחסון למרכזי נתונים. החברות גם בוחנות במשותף כיצד להתאים HBM, DRAM ו-SSD לעומסי האימון וההרצה של Claude.",
+    "announced_at": "2026-06-22",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "זהו הסכם מסחרי נפרד מהשקעת Micron בסבב H; תמורת ההסכם לא פורסמה.",
+    "sources": [
+      {
+        "url": "https://investors.micron.com/news/press-release/2026/Micron-and-Anthropic-Announce-Strategic-Agreement-to-Scale-Next-Generation-AI-Infrastructure/default.aspx",
+        "title": "Micron and Anthropic Announce Strategic Agreement to Scale Next-Generation AI Infrastructure",
+        "publisher": "Micron",
+        "published_at": "2026-06-22",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-apple-tsmc-arizona",
+    "source": "apple",
+    "target": "tsmc",
+    "type": "supply",
+    "title_he": "TSMC מייצרת שבבים למוצרי Apple באריזונה",
+    "summary_he": "Apple דיווחה כי מפעל TSMC באריזונה מייצר עבורה יותר מ-100 מיליון שבבים בשנת 2026. השבבים משמשים בין השאר במוצרי iPhone, iPad ו-Apple Watch, והחברות מרחיבות את שיתוף הפעולה באתר.",
+    "announced_at": "2026-10-20",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "נתון הייצור אינו שווי עסקה ואינו מתייחס לכלל רכישות Apple מ-TSMC בעולם.",
+    "sources": [
+      {
+        "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
+        "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
+        "publisher": "Apple",
+        "published_at": "2026-10-20",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06",
+    "date_basis_he": "מועד עדכון או דיווח פומבי; לא בהכרח תאריך תחילת ההתקשרות"
+  },
+  {
+    "id": "hw-apple-amat-us",
+    "source": "apple",
+    "target": "applied-materials",
+    "type": "partnership",
+    "title_he": "הרחבת ייצור ציוד לשבבים בארצות הברית",
+    "summary_he": "Apple משתפת פעולה ישירות עם Applied Materials כדי להגדיל את ייצור ציוד השבבים בארצות הברית, לרבות באתר Applied באוסטין. הקשר הוא חלק מתוכנית רחבה לחיזוק שרשרת האספקה של Apple.",
+    "announced_at": "2025-08-06",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "התחייבות Apple הכוללת של 600 מיליארד דולר בארצות הברית אינה התמורה ל-Applied Materials.",
+    "sources": [
+      {
+        "url": "https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/",
+        "title": "Apple increases U.S. commitment to $600 billion, announces ambitious program",
+        "publisher": "Apple",
+        "published_at": "2025-08-06",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-apple-samsung-us",
+    "source": "apple",
+    "target": "samsung",
+    "type": "partnership",
+    "title_he": "טכנולוגיית ייצור שבבים חדשה למוצרי Apple",
+    "summary_he": "Apple ו-Samsung משתפות פעולה במפעל Samsung באוסטין על טכנולוגיה חדשה לייצור שבבים. Apple מסרה שהרכיבים מיועדים לשפר ביצועים וצריכת חשמל במוצריה.",
+    "announced_at": "2025-08-06",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "לא פורסם שווי נפרד להסכם. אין להסיק ממנו ש-Samsung מייצרת את כלל מעבדי Apple.",
+    "sources": [
+      {
+        "url": "https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/",
+        "title": "Apple increases U.S. commitment to $600 billion, announces ambitious program",
+        "publisher": "Apple",
+        "published_at": "2025-08-06",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-apple-broadcom-30b",
+    "source": "apple",
+    "target": "broadcom",
+    "type": "supply",
+    "title_he": "הסכם רב־שנתי של יותר מ-30 מיליארד דולר",
+    "summary_he": "Apple התחייבה להרחיב רכישת רכיבי סיליקון מותאמים וטכנולוגיות קישוריות מ-Broadcom בהסכם שצפוי לעלות על 30 מיליארד דולר. ההסכם תומך בייצור יותר מ-15 מיליארד שבבים בארצות הברית ובהרחבת מפעל Broadcom בקולורדו.",
+    "announced_at": "2026-07-08",
+    "status": "signed",
+    "value": {
+      "amount": 30000000000,
+      "currency": "USD",
+      "qualifier_he": "מעל 30 מיליארד דולר בהסכם רב־שנתי"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "זהו גם קשר אספקה במוצרי קצה, ולא כולו רכישת שבבי AI. השקעת Broadcom במפעל בסך 1.5 מיליארד דולר כלולה בהקשר הרחבת הייצור ואינה תשלום נוסף של Apple.",
+    "sources": [
+      {
+        "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+        "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+        "publisher": "Apple",
+        "published_at": "2026-07-08",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-spacex-xai-acquisition",
+    "source": "spacex",
+    "target": "xai",
+    "type": "acquisition",
+    "title_he": "SpaceX רכשה את xAI",
+    "summary_he": "SpaceX הודיעה שרכשה את xAI, והאיחוד נכנס לתוקף ב-2 בפברואר 2026. המהלך מאחד את פעילות ה-AI של xAI עם פעילות השיגור והתקשורת של SpaceX.",
+    "announced_at": "2026-02-02",
+    "status": "completed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "ההודעה הרשמית שנבדקה אינה מפרסמת תמורה כספית. xAI ו-SpaceX אינן מוצגות כשתי חברות עצמאיות ללא קשר בעלות.",
+    "sources": [
+      {
+        "url": "https://www.spacex.com/updates",
+        "title": "xAI joins SpaceX to Accelerate Humanity’s Future",
+        "publisher": "SpaceX",
+        "published_at": "2026-02-02",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-tesla-spacex-equity",
+    "source": "tesla",
+    "target": "spacex",
+    "type": "investment",
+    "title_he": "Tesla השלימה השקעה של 2 מיליארד דולר ב-SpaceX",
+    "summary_he": "Tesla דיווחה שבמרץ 2026 השקיעה 2 מיליארד דולר במניות SpaceX, לאחר קבלת האישורים הרגולטוריים. ההשקעה, שתוכננה במקור כמניות בכורה של xAI, הומרה למניות SpaceX בעקבות רכישת xAI ומייצגת החזקה של פחות מ-1%.",
+    "announced_at": "2026-03",
+    "status": "completed",
+    "value": {
+      "amount": 2000000000,
+      "currency": "USD",
+      "qualifier_he": "השקעה שהושלמה במרץ 2026"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "אין לספור אותה גם כהשקעה נפרדת של 2 מיליארד דולר ב-xAI וגם כהשקעה ב-SpaceX.",
+    "sources": [
+      {
+        "url": "https://ir.tesla.com/_flysystem/s3/sec/000162828026066775/tsla-20260930-gen.pdf",
+        "title": "Tesla Form 10-Q for the quarter ended September 30, 2026",
+        "publisher": "Tesla / SEC",
+        "published_at": "2026-10",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-spacex-tesla-megapack",
+    "source": "spacex",
+    "target": "tesla",
+    "type": "supply",
+    "title_he": "רכישת מערכות Megapack מ-Tesla",
+    "summary_he": "SpaceX רוכשת מערכות אגירת אנרגיה Megapack מ-Tesla. Tesla הכירה בהכנסות של 626 מיליון דולר מהקשר בתשעת החודשים הראשונים של 2026, ובדוח נכללו גם חיובי אבני דרך והתחייבויות לאספקה בעתיד.",
+    "announced_at": "2026-10",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "שווי חוזים כולל לא פורסם; 626 מיליון דולר הם הכנסות מוכרות לתקופה"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "הכנסות לתשעה חודשים, יתרת חייבים, חיובי אבני דרך והכנסות נדחות אינם שווי חוזה מצטבר ואין לחבר ביניהם.",
+    "sources": [
+      {
+        "url": "https://ir.tesla.com/_flysystem/s3/sec/000162828026066775/tsla-20260930-gen.pdf",
+        "title": "Tesla Form 10-Q for the quarter ended September 30, 2026",
+        "publisher": "Tesla / SEC",
+        "published_at": "2026-10",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06",
+    "date_basis_he": "מועד עדכון או דיווח פומבי; לא בהכרח תאריך תחילת ההתקשרות"
+  },
+  {
+    "id": "hw-tesla-samsung-ai6",
+    "source": "tesla",
+    "target": "samsung",
+    "type": "supply",
+    "title_he": "הסכם ייצור שבבי AI6 בסך 16.5 מיליארד דולר",
+    "summary_he": "Tesla אישרה במסמכי בעלי המניות שלה הסכם בסך 16.5 מיליארד דולר עם Samsung לייצור הדור הבא של שבב AI6. הקשר נועד לתמוך בהרחבת מוצרי ה-AI הפיזי של Tesla.",
+    "announced_at": "2025-07-28",
+    "status": "signed",
+    "value": {
+      "amount": 16500000000,
+      "currency": "USD",
+      "qualifier_he": "שווי ההסכם שאושר במסמכי Tesla"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "אין להציג את מלוא סכום החוזה כהוצאה שכבר שולמה או כאישור לכך שהייצור הסדרתי כבר החל.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1318605/000110465925090875/tm252787d3_ars.pdf",
+        "title": "Tesla 2025 shareholder materials: AI6 Samsung agreement",
+        "publisher": "Tesla / SEC",
+        "published_at": "2025-09",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-openai-broadcom-custom",
+    "source": "openai",
+    "target": "broadcom",
+    "type": "partnership",
+    "title_he": "פיתוח מאיצים מותאמים ומפת דרכים ל-10 ג׳יגה־ואט",
+    "summary_he": "OpenAI ו-Broadcom משתפות פעולה בתכנון ובפריסה של מאיצי AI וקישוריות רשת. ביוני 2026 הציגו את Jalapeño, השבב הראשון בפלטפורמה; מסגרת הפריסה שהוכרזה ב-2025 מכוונת ל-10 ג׳יגה־ואט עד סוף 2029.",
+    "announced_at": "2025-10-13",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "מסגרת הפריסה נחתמה כ-term sheet; דגימות הנדסיות פועלות במעבדה, אך אין להסיק שכל 10 הג׳יגה־ואט כבר מומשו.",
+    "sources": [
+      {
+        "url": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration/",
+        "title": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
+        "publisher": "OpenAI",
+        "published_at": "2025-10-13",
+        "kind": "primary"
+      },
+      {
+        "url": "https://investors.broadcom.com/news-releases/news-release-details/openai-and-broadcom-unveil-llm-optimized-intelligence-processor",
+        "title": "OpenAI and Broadcom Unveil LLM-Optimized Intelligence Processor",
+        "publisher": "Broadcom / OpenAI",
+        "published_at": "2026-06-24",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06",
+    "capacity_he": "יעד פריסה של 10 ג׳יגה־ואט עד סוף 2029"
+  },
+  {
+    "id": "hw-openai-celestica-platform",
+    "source": "openai",
+    "target": "celestica",
+    "type": "partnership",
+    "title_he": "Celestica משתתפת בתיעוש פלטפורמת Jalapeño",
+    "summary_he": "Celestica מסייעת ל-OpenAI בתיעוש פלטפורמת מאיצי Jalapeño באמצעות תכנון לוחות, ארונות מחשוב ושילוב מערכות. השותפות פועלת לצד Broadcom במסגרת התוכנית של OpenAI לשליטה ביותר שכבות של תשתית המחשוב.",
+    "announced_at": "2026-06-24",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "המקור אינו מפרסם שווי חוזה נפרד עם Celestica; תחילת הפריסה המתוכננת היא עד סוף 2026.",
+    "sources": [
+      {
+        "url": "https://investors.broadcom.com/news-releases/news-release-details/openai-and-broadcom-unveil-llm-optimized-intelligence-processor",
+        "title": "OpenAI and Broadcom Unveil LLM-Optimized Intelligence Processor",
+        "publisher": "Broadcom / OpenAI",
+        "published_at": "2026-06-24",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-google-broadcom-tpu",
+    "source": "google",
+    "target": "broadcom",
+    "type": "supply",
+    "title_he": "הסכמי TPU ורשת ארוכי טווח עד 2031",
+    "summary_he": "Broadcom ו-Google חתמו על הסכם ארוך טווח לפיתוח ולאספקת דורות עתידיים של TPU. בנוסף נחתם הסכם להבטחת אספקת רכיבי רשת ורכיבים אחרים לארונות ה-AI הבאים של Google, עד 2031.",
+    "announced_at": "2026-04-06",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526144028/d87999d8k.htm",
+        "title": "Broadcom Form 8-K: Google TPU agreements and Anthropic compute expansion",
+        "publisher": "Broadcom / SEC",
+        "published_at": "2026-04-06",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-anthropic-broadcom-tpu",
+    "source": "anthropic",
+    "target": "broadcom",
+    "type": "compute",
+    "title_he": "קיבולת TPU בהיקף כ-3.5 ג׳יגה־ואט דרך Broadcom",
+    "summary_he": "Anthropic תקבל דרך Broadcom גישה לכ-3.5 ג׳יגה־ואט של מחשוב מבוסס TPU החל מ-2027. הקיבולת היא חלק מהרחבה משותפת עם Google, ולא תוספת שיש לחבר אוטומטית לכלל קיבולת ה-TPU ש-Anthropic הודיעה עליה.",
+    "announced_at": "2026-04-06",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "Broadcom ציינה כי הצריכה תלויה בהמשך ההצלחה המסחרית של Anthropic. אין להציג קיבולת מתוכננת כקיבולת שכבר סופקה.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526144028/d87999d8k.htm",
+        "title": "Broadcom Form 8-K: Google TPU agreements and Anthropic compute expansion",
+        "publisher": "Broadcom / SEC",
+        "published_at": "2026-04-06",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06",
+    "capacity_he": "כ-3.5 ג׳יגה־ואט החל מ-2027"
+  },
+  {
+    "id": "hw-broadcom-anthropic-risk-support",
+    "source": "broadcom",
+    "target": "anthropic",
+    "type": "financing",
+    "title_he": "תמיכה בערך הציוד במסגרת מימון של 63 מיליארד דולר",
+    "summary_he": "Broadcom תומכת בערך השיורי של ציוד הנרכש באמצעות חברה ייעודית ומושכר ל-Anthropic. מסגרת המימון הכוללת של החברה הייעודית היא 63 מיליארד דולר, בהובלת Bank of America, Blackstone, Citi ו-Morgan Stanley.",
+    "announced_at": "2026-10-26",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "תמיכת Broadcom בערך שיורי; הסכום הנפרד לא פורסם"
+    },
+    "direction_he": "קשר מימון עקיף: Broadcom תומכת בחברה ייעודית שרוכשת ציוד ומחכירה אותו ל-Anthropic",
+    "caveat_he": "63 מיליארד דולר הם מסגרת העסקה הכוללת של ה-SPV, ולא השקעה הונית או תשלום מזומן ישיר של Broadcom ל-Anthropic.",
+    "sources": [
+      {
+        "url": "https://investors.broadcom.com/news-releases/news-release-details/bank-america-blackstone-citi-and-morgan-stanley-announce",
+        "title": "Bank of America, Blackstone, Citi and Morgan Stanley Announce Landmark $63 Billion Financing Structure",
+        "publisher": "Broadcom / financial partners",
+        "published_at": "2026-10-26",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06",
+    "indirect": true
+  },
+  {
+    "id": "hw-apollo-anthropic-xpv",
+    "source": "apollo",
+    "target": "anthropic",
+    "type": "financing",
+    "title_he": "מימון עקיף לתשתית Anthropic בפלטפורמת AI XPV",
+    "summary_he": "Apollo משתתפת בפלטפורמת המימון AI XPV שהוקמה עם Broadcom. העסקה הראשונה של הפלטפורמה כוללת מסגרת משותפת של 35 מיליארד דולר ליותר מג׳יגה־ואט אחד עבור Anthropic באתרי Fluidstack.",
+    "announced_at": "2026-06-09",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "חלקה של Apollo במסגרת המשותפת לא פורסם"
+    },
+    "direction_he": "מימון עקיף דרך פלטפורמה ייעודית לציוד המשרת את Anthropic",
+    "caveat_he": "אין לייחס לכל משתתפת בנפרד את מלוא 35 מיליארד הדולר. זהו מימון לפלטפורמת תשתית ולא השקעה הונית ישירה ב-Anthropic.",
+    "sources": [
+      {
+        "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-apollo-and-blackstone-establish-landmark-strategic",
+        "title": "Broadcom, Apollo, and Blackstone Establish Landmark Strategic Platform to Accelerate More Than 20 Gigawatts of Global AI Deployments",
+        "publisher": "Broadcom / Apollo / Blackstone",
+        "published_at": "2026-06-09",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06",
+    "indirect": true
+  },
+  {
+    "id": "hw-blackstone-anthropic-xpv",
+    "source": "blackstone",
+    "target": "anthropic",
+    "type": "financing",
+    "title_he": "מימון עקיף לתשתית Anthropic בפלטפורמת AI XPV",
+    "summary_he": "Blackstone משתתפת בפלטפורמת המימון AI XPV שהוקמה עם Broadcom. העסקה הראשונה של הפלטפורמה כוללת מסגרת משותפת של 35 מיליארד דולר ליותר מג׳יגה־ואט אחד עבור Anthropic באתרי Fluidstack.",
+    "announced_at": "2026-06-09",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "חלקה של Blackstone במסגרת המשותפת לא פורסם"
+    },
+    "direction_he": "מימון עקיף דרך פלטפורמה ייעודית לציוד המשרת את Anthropic",
+    "caveat_he": "אין לייחס לכל משתתפת בנפרד את מלוא 35 מיליארד הדולר. זהו מימון לפלטפורמת תשתית ולא השקעה הונית ישירה ב-Anthropic.",
+    "sources": [
+      {
+        "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-apollo-and-blackstone-establish-landmark-strategic",
+        "title": "Broadcom, Apollo, and Blackstone Establish Landmark Strategic Platform to Accelerate More Than 20 Gigawatts of Global AI Deployments",
+        "publisher": "Broadcom / Apollo / Blackstone",
+        "published_at": "2026-06-09",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06",
+    "indirect": true
+  },
+  {
+    "id": "hw-marvell-lumentum-merger",
+    "source": "marvell",
+    "target": "lumentum",
+    "type": "acquisition",
+    "title_he": "הסכם לרכישת Lumentum בעסקת מניות",
+    "summary_he": "Marvell חתמה על הסכם מחייב לרכישת Lumentum בעסקת מניות, לפי שווי פעילות משתמע של 115 מיליארד דולר בעת ההכרזה. כל מניית Lumentum תומר ל-4.5 מניות Marvell, במטרה לשלב טכנולוגיות קישוריות חשמלית ואופטית לתשתיות AI.",
+    "announced_at": "2026-11-02",
+    "status": "signed",
+    "value": {
+      "amount": 115000000000,
+      "currency": "USD",
+      "qualifier_he": "שווי פעילות משתמע בעסקת מניות לפי המחירים במועד הבסיס"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "העסקה צפויה להיסגר במחצית הראשונה של 2028 וכפופה לאישורי בעלי המניות והרגולטורים. התמורה היא במניות, ושווי השוק עשוי להשתנות.",
+    "sources": [
+      {
+        "url": "https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity",
+        "title": "Marvell and Lumentum to Combine, Creating a Category Leader in AI Connectivity",
+        "publisher": "Marvell",
+        "published_at": "2026-11-02",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-marvell-nvidia-nvlink",
+    "source": "nvidia",
+    "target": "marvell",
+    "type": "partnership",
+    "title_he": "שילוב מאיצי Marvell במערכות NVLink Fusion",
+    "summary_he": "NVIDIA ו-Marvell מקימות שותפות לשילוב מאיצים מותאמים וקישוריות של Marvell במערכות AI המבוססות על NVLink Fusion. החברות ישתפו פעולה גם בטכנולוגיות פוטוניקת סיליקון.",
+    "announced_at": "2026-03-31",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "שותפות טכנולוגית בין החברות; החץ אינו מתאר העברת כסף",
+    "caveat_he": "השותפות נפרדת מהשקעת NVIDIA בסך 2 מיליארד דולר ב-Marvell, המוצגת ברשומת השקעה נפרדת.",
+    "sources": [
+      {
+        "url": "https://investor.marvell.com/news-events/press-releases/detail/1019/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion",
+        "title": "NVIDIA AI Ecosystem Expands as Marvell Joins Forces Through NVLink Fusion",
+        "publisher": "Marvell / NVIDIA",
+        "published_at": "2026-03-31",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-amazon-marvell-supply",
+    "source": "amazon",
+    "target": "marvell",
+    "type": "supply",
+    "title_he": "הסכם אספקת שבבי AI וקישוריות לחמש שנים",
+    "summary_he": "AWS ו-Marvell הרחיבו את שיתוף הפעולה בהסכם רב־דורי לחמש שנים. ההסכם כולל שבבי AI מותאמים, רכיבי תקשורת אופטית, מתגי Ethernet ורכיבי קישוריות נוספים למרכזי הנתונים של AWS.",
+    "announced_at": "2024-12-02",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "לא פורסם סכום רכישות כולל. זהו קשר בין AWS כחטיבת Amazon לבין Marvell.",
+    "sources": [
+      {
+        "url": "https://investor.marvell.com/news-events/press-releases/detail/121/marvell-expands-strategic-collaboration-with-aws-to-enable-accelerated-infrastructure-for-ai-in-the-cloud",
+        "title": "Marvell Expands Strategic Collaboration with AWS to Enable Accelerated Infrastructure for AI in the Cloud",
+        "publisher": "Marvell",
+        "published_at": "2024-12-02",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-amazon-marvell-warrants",
+    "source": "amazon",
+    "target": "marvell",
+    "type": "investment",
+    "title_he": "כתבי אופציה ל-AWS הקשורים לרכש מ-Marvell",
+    "summary_he": "Marvell העניקה לחברה קשורה ל-AWS כתבי אופציה לרכישת עד 4,180,683 מניות. מרבית הזכאות מבשילה בהתאם להכנסות מרכישות AWS, במחיר מימוש של 87.7706 דולר למניה.",
+    "announced_at": "2024-12-02",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "כתבי אופציה מותנים; שווי ההטבה והשקעת מזומן לא פורסמו"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "כתבי אופציה אינם מניות שכבר נרכשו. אין לחשב השקעה שבוצעה באמצעות כפל מספר המניות במחיר המימוש.",
+    "sources": [
+      {
+        "url": "https://investor.marvell.com/sec-filings/all-sec-filings/content/0001835632-24-000193/mrvl-20241202.htm",
+        "title": "Marvell Form 8-K: AWS transaction and warrant",
+        "publisher": "Marvell / SEC",
+        "published_at": "2024-12-02",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-marvell-amazon-eda",
+    "source": "marvell",
+    "target": "amazon",
+    "type": "compute",
+    "title_he": "Marvell משתמשת בענן AWS לתכנון שבבים",
+    "summary_he": "כחלק מההסכם המורחב, Marvell משתמשת בתשתיות AWS לכלי תכנון אלקטרוני של שבבים. כך AWS היא גם לקוחה של Marvell וגם ספקית מחשוב עבורה.",
+    "announced_at": "2024-12-02",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "סכום צריכת הענן לא פורסם; אין לחבר ערך לא ידוע זה לערך האספקה של Marvell ל-AWS.",
+    "sources": [
+      {
+        "url": "https://investor.marvell.com/news-events/press-releases/detail/121/marvell-expands-strategic-collaboration-with-aws-to-enable-accelerated-infrastructure-for-ai-in-the-cloud",
+        "title": "Marvell Expands Strategic Collaboration with AWS to Enable Accelerated Infrastructure for AI in the Cloud",
+        "publisher": "Marvell",
+        "published_at": "2024-12-02",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hw-marvell-tsmc-capacity",
+    "source": "marvell",
+    "target": "tsmc",
+    "type": "supply",
+    "title_he": "הסכם רב־שנתי לשריון קיבולת ייצור",
+    "summary_he": "Marvell דיווחה על הסכם לשריון קיבולת ב-TSMC, הכולל תשלומים מראש והתחייבות לכמויות יעד של פרוסות סיליקון. TSMC היא ספקית הייצור היחידה של Marvell בצומתי הייצור המתקדמים לפי דוח אוגוסט 2026.",
+    "announced_at": "2026-08-28",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה הכספית לא פורסמה"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "התאריך הוא מועד הדיווח שבו אומת ההסכם, ולא בהכרח מועד חתימתו המקורי. סכום המקדמות לא פורסם ברשומה זו.",
+    "sources": [
+      {
+        "url": "https://investor.marvell.com/sec-filings/all-sec-filings/content/0001835632-26-000025/mrvl-20260801.htm",
+        "title": "Marvell Form 10-Q: TSMC capacity reservation agreement",
+        "publisher": "Marvell / SEC",
+        "published_at": "2026-08-28",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06",
+    "date_basis_he": "מועד עדכון או דיווח פומבי; לא בהכרח תאריך תחילת ההתקשרות"
+  },
+  {
+    "id": "hw-samsung-helix-investment",
+    "source": "samsung",
+    "target": "helix",
+    "type": "investment",
+    "title_he": "Samsung Electronics מתחייבת להשקיע 500 מיליון דולר ב-Helix",
+    "summary_he": "Samsung Electronics הודיעה על השקעה של 500 מיליון דולר ב-Helix Digital Infrastructure. יחד עם חמש חברות קשורות בקבוצת Samsung, ההתחייבות הקבוצתית היא מיליארד דולר לתשתיות מרכזי נתונים, חשמל ורשתות.",
+    "announced_at": "2026-09-29",
+    "status": "announced",
+    "value": {
+      "amount": 500000000,
+      "currency": "USD",
+      "qualifier_he": "החלק של Samsung Electronics; סך קבוצת Samsung הוא מיליארד דולר"
+    },
+    "direction_he": "החץ מציין את הגורם המשלם או המשקיע ואת מקבל התשלום או ההשקעה",
+    "caveat_he": "אין לייחס את מלוא מיליארד הדולר ל-Samsung Electronics לבדה. ההודעה אינה אישור שכל ההשקעה כבר הועברה.",
+    "sources": [
+      {
+        "url": "https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix",
+        "title": "Samsung To Invest USD 1 Billion in AI Infrastructure Company Helix",
+        "publisher": "Samsung Electronics",
+        "published_at": "2026-09-29",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  }
+]

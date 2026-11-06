@@ -1,0 +1,12 @@
+__pycache__/
+.DS_Store
+*.pyc
+.env
+.env.*
+*.tar.gz
+qa/
+node_modules/
+dist/
+research/*.py
+research/*notes.md
+research/*companies.json

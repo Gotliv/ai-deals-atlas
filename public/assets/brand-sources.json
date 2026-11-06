@@ -1,0 +1,362 @@
+{
+  "note": "Brand imagery is used for identification. Marks belong to their respective owners. Google favicon cache supplies site icons.",
+  "logos": [
+    {
+      "id": "amazon",
+      "url": "https://www.google.com/s2/favicons?domain=amazon.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "anthropic",
+      "url": "https://www.google.com/s2/favicons?domain=anthropic.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "apple",
+      "url": "https://www.google.com/s2/favicons?domain=apple.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "applied-materials",
+      "url": "https://www.google.com/s2/favicons?domain=appliedmaterials.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "google",
+      "url": "https://www.google.com/s2/favicons?domain=google.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "intel",
+      "url": "https://www.google.com/s2/favicons?domain=intel.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "meta",
+      "url": "https://www.google.com/s2/favicons?domain=meta.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "microsoft",
+      "url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "nvidia",
+      "url": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "openai",
+      "url": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "spacex",
+      "url": "https://www.google.com/s2/favicons?domain=spacex.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "tesla",
+      "url": "https://www.google.com/s2/favicons?domain=tesla.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "tsmc",
+      "url": "https://www.google.com/s2/favicons?domain=tsmc.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "adobe",
+      "url": "https://www.google.com/s2/favicons?domain=adobe.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "advantest",
+      "url": "https://www.google.com/s2/favicons?domain=advantest.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "amd",
+      "url": "https://www.google.com/s2/favicons?domain=amd.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "apollo",
+      "url": "https://www.google.com/s2/favicons?domain=apollo.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "asml",
+      "url": "https://www.google.com/s2/favicons?domain=asml.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "asmpt",
+      "url": "https://www.google.com/s2/favicons?domain=asmpt.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "besi",
+      "url": "https://www.google.com/s2/favicons?domain=besi.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "blackrock",
+      "url": "https://www.google.com/s2/favicons?domain=blackrock.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "blackstone",
+      "url": "https://www.google.com/s2/favicons?domain=blackstone.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "blue-owl",
+      "url": "https://www.google.com/s2/favicons?domain=blueowl.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "broadcom",
+      "url": "https://www.google.com/s2/favicons?domain=broadcom.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "brookfield",
+      "url": "https://www.google.com/s2/favicons?domain=brookfield.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "celestica",
+      "url": "https://www.google.com/s2/favicons?domain=celestica.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "citi",
+      "url": "https://www.google.com/s2/favicons?domain=citigroup.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "cohere",
+      "url": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "coherent",
+      "url": "https://www.google.com/s2/favicons?domain=coherent.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "coreweave",
+      "url": "https://www.google.com/s2/favicons?domain=coreweave.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "databricks",
+      "url": "https://www.google.com/s2/favicons?domain=databricks.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "dell",
+      "url": "https://www.google.com/s2/favicons?domain=dell.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "essilorluxottica",
+      "url": "https://www.google.com/s2/favicons?domain=essilorluxottica.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "fluidstack",
+      "url": "https://www.google.com/s2/favicons?domain=fluidstack.io&sz=128",
+      "sha256": "b349f2f2f7f0d022c8c24232fb452184ac10b916f6c23ec5eb1c6f42b6a9203d",
+      "bytes": 2021
+    },
+    {
+      "id": "goldman-sachs",
+      "url": "https://www.google.com/s2/favicons?domain=goldmansachs.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "helix",
+      "url": "https://www.google.com/s2/favicons?domain=helixdi.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "hugging-face",
+      "url": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+      "cached": true
+    },
+    {
+      "id": "ibm",
+      "url": "https://www.google.com/s2/favicons?domain=ibm.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "inflection",
+      "url": "https://www.google.com/s2/favicons?domain=inflection.ai&sz=128",
+      "cached": true
+    },
+    {
+      "id": "iren",
+      "url": "https://www.google.com/s2/favicons?domain=iren.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "jane-street",
+      "url": "https://www.google.com/s2/favicons?domain=janestreet.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "kioxia",
+      "url": "https://www.google.com/s2/favicons?domain=kioxia.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "kkr",
+      "url": "https://www.google.com/s2/favicons?domain=kkr.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "lumentum",
+      "url": "https://www.google.com/s2/favicons?domain=lumentum.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "manus",
+      "url": "https://www.google.com/s2/favicons?domain=manus.im&sz=128",
+      "cached": true
+    },
+    {
+      "id": "marvell",
+      "url": "https://www.google.com/s2/favicons?domain=marvell.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "mgx",
+      "url": "https://www.google.com/s2/favicons?domain=mgx.ae&sz=128",
+      "cached": true
+    },
+    {
+      "id": "micron",
+      "url": "https://www.google.com/s2/favicons?domain=micron.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "midjourney",
+      "url": "https://www.google.com/s2/favicons?domain=midjourney.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "mistral",
+      "url": "https://www.google.com/s2/favicons?domain=mistral.ai&sz=128",
+      "cached": true
+    },
+    {
+      "id": "nebius",
+      "url": "https://www.google.com/s2/favicons?domain=nebius.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "nscale",
+      "url": "https://www.google.com/s2/favicons?domain=nscale.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "oracle",
+      "url": "https://www.google.com/s2/favicons?domain=oracle.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "palantir",
+      "url": "https://www.google.com/s2/favicons?domain=palantir.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "perplexity",
+      "url": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=128",
+      "cached": true
+    },
+    {
+      "id": "reliance",
+      "url": "https://www.google.com/s2/favicons?domain=ril.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "salesforce",
+      "url": "https://www.google.com/s2/favicons?domain=salesforce.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "samsung",
+      "url": "https://www.google.com/s2/favicons?domain=samsung.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "sap",
+      "url": "https://www.google.com/s2/favicons?domain=sap.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "sb-energy",
+      "url": "https://www.google.com/s2/favicons?domain=sbenergy.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "scale-ai",
+      "url": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "screen",
+      "url": "https://www.google.com/s2/favicons?domain=screen-spe.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "servicenow",
+      "url": "https://www.google.com/s2/favicons?domain=servicenow.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "sk-hynix",
+      "url": "https://www.google.com/s2/favicons?domain=skhynix.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "snowflake",
+      "url": "https://www.google.com/s2/favicons?domain=snowflake.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "softbank",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/SoftBank_Group_logo.svg",
+      "cached": true
+    },
+    {
+      "id": "stargate",
+      "url": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+      "cached": true
+    },
+    {
+      "id": "synopsys",
+      "url": "https://svgbrand.com/uploads/images/webp/202311/SVG_Brand_synopsys.webp",
+      "cached": true
+    },
+    {
+      "id": "terawulf",
+      "url": "https://www.google.com/s2/favicons?domain=terawulf.com&sz=128",
+      "sha256": "c596197b056421050eb484dfc786945aca300ae3236b58428771a7dbd6585e1c",
+      "bytes": 2008
+    },
+    {
+      "id": "thinking-machines",
+      "url": "https://www.google.com/s2/favicons?domain=thinkingmachines.ai&sz=128",
+      "cached": true
+    },
+    {
+      "id": "xai",
+      "url": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "cached": true
+    }
+  ]
+}

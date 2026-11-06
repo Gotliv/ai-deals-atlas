@@ -1,0 +1,1542 @@
+[
+  {
+    "id": "nv-openai-investment-2026",
+    "source": "nvidia",
+    "target": "openai",
+    "type": "investment",
+    "title_he": "השקעת NVIDIA במסגרת סבב OpenAI",
+    "summary_he": "OpenAI הודיעה על התחייבות של NVIDIA להשקיע 30 מיליארד דולר במסגרת סבב המימון של 2026. בהודעת הסגירה ממרץ זוהתה NVIDIA כאחת המשקיעות האסטרטגיות המרכזיות.",
+    "announced_at": "2026-02-27",
+    "status": "signed",
+    "value": {
+      "amount": 30000000000,
+      "currency": "USD",
+      "qualifier_he": "התחייבות במסגרת סבב; לא שווי החברה"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה אל החברה המגייסת",
+    "caveat_he": "הודעת סגירת הסבב מתייחסת להון מחויב. אין להסיק ממנה שכל התשלומים הועברו באותו מועד או להוסיף את מלוא מכתב הכוונות מ-2025 לסכום זה.",
+    "sources": [
+      {
+        "url": "https://openai.com/index/scaling-ai-for-everyone/",
+        "title": "הרחבת המימון והמחשוב ב-OpenAI",
+        "publisher": "OpenAI",
+        "published_at": "2026-02-27",
+        "kind": "primary"
+      },
+      {
+        "url": "https://openai.com/index/accelerating-the-next-phase-ai/",
+        "title": "סגירת סבב המימון של OpenAI",
+        "publisher": "OpenAI",
+        "published_at": "2026-03-31",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "openai-nv-compute-2026",
+    "source": "openai",
+    "target": "nvidia",
+    "type": "compute",
+    "title_he": "הרחבת מחשוב האימון וההסקה של OpenAI",
+    "summary_he": "הרחבת שיתוף הפעולה כוללת קיבולת ייעודית של 3 ג׳יגה-ואט להסקה ו-2 ג׳יגה-ואט לאימון על מערכות Vera Rubin. המערכות מצטרפות לתשתיות NVIDIA שכבר פועלות אצל ספקיות הענן של OpenAI.",
+    "announced_at": "2026-02-27",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "מחיר הרכש לא פורסם"
+    },
+    "capacity_he": "3 GW להסקה ו-2 GW לאימון",
+    "direction_he": "הלקוח אל ספק המחשוב",
+    "caveat_he": "אין לזהות קיבולת מוצהרת עם תשתית שכבר נמסרה או עם תשלום שבוצע.",
+    "sources": [
+      {
+        "url": "https://openai.com/index/scaling-ai-for-everyone/",
+        "title": "הרחבת המימון והמחשוב ב-OpenAI",
+        "publisher": "OpenAI",
+        "published_at": "2026-02-27",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-openai-loi-2025",
+    "source": "nvidia",
+    "target": "openai",
+    "type": "investment",
+    "title_he": "מכתב הכוונות ההיסטורי להשקעה עד 100 מיליארד דולר",
+    "summary_he": "בספטמבר 2025 הכריזו הצדדים על מכתב כוונות להקמת לפחות 10 ג׳יגה-ואט של תשתיות NVIDIA. הכוונה הייתה להשקיע עד 100 מיליארד דולר בהדרגה, בהתאם לפריסת הקיבולת.",
+    "announced_at": "2025-09-22",
+    "status": "proposed",
+    "value": {
+      "amount": 100000000000,
+      "currency": "USD",
+      "qualifier_he": "תקרת כוונה היסטורית, מותנית בפריסה"
+    },
+    "capacity_he": "לפחות 10 GW במסגרת מכתב הכוונות",
+    "direction_he": "המשקיעה אל החברה המגייסת",
+    "caveat_he": "מכתב כוונות, ולא תשלום שהושלם. ב-2026 פורסמה התחייבות השקעה נפרדת של 30 מיליארד דולר; אין לחבר ביניהן או להציג 100 מיליארד כמזומן שהוזרם.",
+    "sources": [
+      {
+        "url": "https://openai.com/index/openai-nvidia-systems-partnership/",
+        "title": "מכתב הכוונות של OpenAI ו-NVIDIA",
+        "publisher": "OpenAI",
+        "published_at": "2025-09-22",
+        "kind": "primary"
+      },
+      {
+        "url": "https://openai.com/index/scaling-ai-for-everyone/",
+        "title": "הרחבת המימון והמחשוב ב-OpenAI",
+        "publisher": "OpenAI",
+        "published_at": "2026-02-27",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-anthropic-investment-2025",
+    "source": "nvidia",
+    "target": "anthropic",
+    "type": "investment",
+    "title_he": "התחייבות NVIDIA להשקיע ב-Anthropic",
+    "summary_he": "NVIDIA הודיעה על התחייבות להשקיע עד 10 מיליארד דולר ב-Anthropic כחלק מהשותפות המשולשת עם Microsoft. במקביל נמסר על התאמת מערכות NVIDIA לעומסי Claude.",
+    "announced_at": "2025-11-18",
+    "status": "announced",
+    "value": {
+      "amount": 10000000000,
+      "currency": "USD",
+      "qualifier_he": "עד, התחייבות השקעה"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה אל החברה המגייסת",
+    "caveat_he": "המקור מאמת את ההתחייבות, ולא את מועדי העברת מלוא הכסף. אין להוסיף את סכום הרכש מ-Azure להשקעה ההונית.",
+    "sources": [
+      {
+        "url": "https://blogs.nvidia.com/blog/microsoft-nvidia-anthropic-announce-partnership/",
+        "title": "שותפויות NVIDIA, Microsoft ו-Anthropic",
+        "publisher": "NVIDIA",
+        "published_at": "2025-11-18",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-coreweave-investment-2026",
+    "source": "nvidia",
+    "target": "coreweave",
+    "type": "investment",
+    "title_he": "NVIDIA השקיעה שני מיליארד דולר ב-CoreWeave",
+    "summary_he": "ב-23 בינואר 2026 הושלמה הקצאה פרטית ל-NVIDIA של כ-22.94 מיליון מניות CoreWeave במחיר 87.20 דולר למניה. התמורה הכוללת הייתה שני מיליארד דולר במזומן.",
+    "announced_at": "2026-01-26",
+    "status": "completed",
+    "value": {
+      "amount": 2000000000,
+      "currency": "USD",
+      "qualifier_he": "השקעה נוספת שהושלמה בינואר 2026"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה אל החברה המגייסת",
+    "caveat_he": "זו עסקה מסוימת, ולא השווי הכולל של אחזקות NVIDIA ב-CoreWeave.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000044/crwv-20260123.htm",
+        "title": "דיווח CoreWeave על השקעת NVIDIA",
+        "publisher": "CoreWeave / SEC",
+        "published_at": "2026-01-26",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-coreweave-residual-2025",
+    "source": "nvidia",
+    "target": "coreweave",
+    "type": "financing",
+    "title_he": "רשת ביטחון לקיבולת CoreWeave שלא נמכרה",
+    "summary_he": "NVIDIA התחייבה לרכוש קיבולת מחשוב שיורית של CoreWeave אם לקוחות אחרים לא ימלאו אותה. ההזמנה החדשה הוערכה בתחילתה ב-6.3 מיליארד דולר וחלה עד אפריל 2032, בכפוף לתנאי מסירה וזמינות.",
+    "announced_at": "2025-09-09",
+    "status": "signed",
+    "value": {
+      "amount": 6300000000,
+      "currency": "USD",
+      "qualifier_he": "ערך ראשוני של הזמנה מותנית לקיבולת שיורית"
+    },
+    "capacity_he": "עד 13 באפריל 2032",
+    "direction_he": "NVIDIA אל CoreWeave, במקרה שקיבולת נותרת בלתי מכורה",
+    "caveat_he": "זו התחייבות לרכישת קיבולת שאינה מנוצלת, ולא השקעה הונית או הכנסה שכבר נרשמה.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000047/crwv-20250909.htm",
+        "title": "הסכם קיבולת בין NVIDIA ל-CoreWeave",
+        "publisher": "CoreWeave / SEC",
+        "published_at": "2025-09-15",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "coreweave-nvidia-expansion-2026",
+    "source": "coreweave",
+    "target": "nvidia",
+    "type": "partnership",
+    "title_he": "שותפות לפריסת יותר מ-5 ג׳יגה-ואט",
+    "summary_he": "החברות הרחיבו את שיתוף הפעולה כדי לאפשר ל-CoreWeave לבנות יותר מ-5 ג׳יגה-ואט של מפעלי AI עד 2030. CoreWeave מתכננת לאמץ דורות נוספים של מעבדים, אחסון ותוכנה של NVIDIA.",
+    "announced_at": "2026-01-26",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "לא פורסם שווי רכש דו-צדדי"
+    },
+    "capacity_he": "יותר מ-5 GW עד סוף 2030",
+    "direction_he": "שיתוף פעולה בין הצדדים",
+    "caveat_he": "יעד פריסה עתידי; השקעת שני מיליארד הדולר מוצגת כרשומה נפרדת.",
+    "sources": [
+      {
+        "url": "https://nvidianews.nvidia.com/news/nvidia-and-coreweave-strengthen-collaboration-to-accelerate-buildout-of-ai-factories",
+        "title": "הרחבת שיתוף הפעולה עם CoreWeave",
+        "publisher": "NVIDIA",
+        "published_at": "2026-01-26",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "openai-coreweave-total-2025",
+    "source": "openai",
+    "target": "coreweave",
+    "type": "compute",
+    "title_he": "חוזי מחשוב OpenAI בהיקף מצטבר של עד 22.4 מיליארד דולר",
+    "summary_he": "בספטמבר 2025 נוספה התחייבות של עד 6.5 מיליארד דולר להסכמי OpenAI עם CoreWeave. יחד עם ההסכם הראשוני ממרץ והרחבת מאי, החברה דיווחה על ערך חוזי מצטבר של עד כ-22.4 מיליארד דולר.",
+    "announced_at": "2025-09-25",
+    "status": "signed",
+    "value": {
+      "amount": 22400000000,
+      "currency": "USD",
+      "qualifier_he": "סכום מצטבר של שלושת ההסכמים שדווחו ב-2025"
+    },
+    "capacity_he": "",
+    "direction_he": "הלקוח אל ספק המחשוב",
+    "caveat_he": "הסכום כולל 11.9 מיליארד במרץ, עד 4 מיליארד במאי ועד 6.5 מיליארד בספטמבר. אין להוסיף אותם פעם נוספת.",
+    "sources": [
+      {
+        "url": "https://investors.coreweave.com/news/news-details/2025/CoreWeave-Expands-Agreement-with-OpenAI-by-up-to-6-5B/default.aspx",
+        "title": "הרחבת חוזי OpenAI עם CoreWeave",
+        "publisher": "CoreWeave",
+        "published_at": "2025-09-25",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "openai-coreweave-stock-2025",
+    "source": "openai",
+    "target": "coreweave",
+    "type": "investment",
+    "title_he": "OpenAI מקבלת מניות CoreWeave במסגרת ההסכם",
+    "summary_he": "במסגרת ההסכם הראשוני הוכרז ש-OpenAI תהפוך לבעלת מניות באמצעות הקצאת מניות CoreWeave בשווי 350 מיליון דולר. זוהי זיקה הונית לצד חוזה המחשוב.",
+    "announced_at": "2025-03-10",
+    "status": "announced",
+    "value": {
+      "amount": 350000000,
+      "currency": "USD",
+      "qualifier_he": "שווי מניות שהוקצו במסגרת העסקה"
+    },
+    "capacity_he": "",
+    "direction_he": "OpenAI נעשית בעלת מניות ב-CoreWeave באמצעות הקצאת מניות",
+    "caveat_he": "ההודעה מתארת הקצאת מניות במסגרת חוזה, ואינה מוכיחה ש-OpenAI שילמה 350 מיליון דולר במזומן.",
+    "sources": [
+      {
+        "url": "https://www.coreweave.com/news/coreweave-announces-agreement-with-openai-to-deliver-ai-infrastructure",
+        "title": "ההסכם הראשוני עם OpenAI והקצאת מניות",
+        "publisher": "CoreWeave",
+        "published_at": "2025-03-10",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "meta-coreweave-contract-2025",
+    "source": "meta",
+    "target": "coreweave",
+    "type": "compute",
+    "title_he": "התחייבות Meta לקיבולת עד 2031",
+    "summary_he": "Meta חתמה בספטמבר 2025 על הזמנה בהיקף התחלתי של עד כ-14.2 מיליארד דולר לקיבולת ענן CoreWeave. ההזמנה כללה אפשרות להרחיב משמעותית את הקיבולת עד 2032.",
+    "announced_at": "2025-09-25",
+    "status": "signed",
+    "value": {
+      "amount": 14200000000,
+      "currency": "USD",
+      "qualifier_he": "ההתחייבות הראשונית לפי הזמנת ספטמבר 2025"
+    },
+    "capacity_he": "",
+    "direction_he": "הלקוח אל ספק המחשוב",
+    "caveat_he": "כולל אפשרויות הרחבה שנידונו בהמשך. ההסכם מ-2026 כולל גם מימוש אפשרות קיימת, ולכן אין לחבר את המספרים ללא התאמה חשבונאית.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000050/crwv-20250925.htm",
+        "title": "התחייבות Meta לקיבולת CoreWeave",
+        "publisher": "CoreWeave / SEC",
+        "published_at": "2025-09-30",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "meta-coreweave-contract-2026",
+    "source": "meta",
+    "target": "coreweave",
+    "type": "compute",
+    "title_he": "הרחבת Meta עם CoreWeave ל-21 מיליארד דולר",
+    "summary_he": "באפריל 2026 פורסם הסכם מורחב בהיקף של כ-21 מיליארד דולר לקיבולת AI עד דצמבר 2032. התשתיות מיועדות גם לעומסי הסקה וכוללות פריסות מוקדמות של NVIDIA Vera Rubin.",
+    "announced_at": "2026-04-09",
+    "status": "signed",
+    "value": {
+      "amount": 21000000000,
+      "currency": "USD",
+      "qualifier_he": "התחייבות לפי ההסכם המורחב שפורסם באפריל"
+    },
+    "capacity_he": "",
+    "direction_he": "הלקוח אל ספק המחשוב",
+    "caveat_he": "הדוח הרבעוני מציין שהסכום כולל קיבולת חדשה וגם מימוש אפשרות קודמת. אין להציג 14.2 ועוד 21 כסכום נקי ללא טיפול בחפיפה.",
+    "sources": [
+      {
+        "url": "https://www.coreweave.com/news/coreweave-and-meta-announce-21-billion-expanded-ai-infrastructure-agreement",
+        "title": "הרחבת תשתיות Meta ב-CoreWeave",
+        "publisher": "CoreWeave",
+        "published_at": "2026-04-09",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000366/crwv-20260630.htm",
+        "title": "דוח CoreWeave לרבעון השני 2026",
+        "publisher": "CoreWeave / SEC",
+        "published_at": "2026-08-12",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "anthropic-coreweave-2026",
+    "source": "anthropic",
+    "target": "coreweave",
+    "type": "compute",
+    "title_he": "Anthropic מוסיפה מחשוב CoreWeave",
+    "summary_he": "הסכם רב-שנתי נועד לתמוך בפיתוח ובהפעלה של משפחת מודלי Claude. תחילת העלאת קיבולת תוכננה להמשך 2026, בפריסה מדורגת עם אפשרות הרחבה.",
+    "announced_at": "2026-04-10",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה והקיבולת לא פורסמו"
+    },
+    "capacity_he": "",
+    "direction_he": "הלקוח אל ספק המחשוב",
+    "caveat_he": "אין לייחס להסכם שווי כספי על סמך צבר ההזמנות הכולל של CoreWeave.",
+    "sources": [
+      {
+        "url": "https://coreweave.com/news/coreweave-announces-multi-year-agreement-with-anthropic",
+        "title": "הסכם מחשוב CoreWeave ו-Anthropic",
+        "publisher": "CoreWeave",
+        "published_at": "2026-04-10",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "jane-coreweave-compute-2026",
+    "source": "jane-street",
+    "target": "coreweave",
+    "type": "compute",
+    "title_he": "Jane Street מתחייבת לשישה מיליארד דולר של מחשוב",
+    "summary_he": "Jane Street התחייבה לכשישה מיליארד דולר עבור ענן CoreWeave לצורכי למידת מכונה ומחקר כמותי. הקיבולת תכלול מתקנים מרובים וטכנולוגיית NVIDIA Vera Rubin.",
+    "announced_at": "2026-04-15",
+    "status": "signed",
+    "value": {
+      "amount": 6000000000,
+      "currency": "USD",
+      "qualifier_he": "התחייבות לרכישת שירותי מחשוב"
+    },
+    "capacity_he": "",
+    "direction_he": "הלקוח אל ספק המחשוב",
+    "caveat_he": "ההשקעה ההונית של מיליארד דולר היא רכיב נפרד, ואינה חלק מערך שירותי הענן.",
+    "sources": [
+      {
+        "url": "https://investors.coreweave.com/news/news-details/2026/Jane-Street-Signs-6-Billion-AI-Cloud-Agreement-With-CoreWeave/default.aspx",
+        "title": "השקעת Jane Street וחוזה המחשוב",
+        "publisher": "CoreWeave",
+        "published_at": "2026-04-15",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "jane-coreweave-equity-2026",
+    "source": "jane-street",
+    "target": "coreweave",
+    "type": "investment",
+    "title_he": "Jane Street השקיעה מיליארד דולר ב-CoreWeave",
+    "summary_he": "לצד חוזה המחשוב, Jane Street השקיעה מיליארד דולר במניות Class A של CoreWeave במחיר 109 דולר למניה. החברה דיווחה על ההשקעה ככזו שכבר נעשתה.",
+    "announced_at": "2026-04-15",
+    "status": "completed",
+    "value": {
+      "amount": 1000000000,
+      "currency": "USD",
+      "qualifier_he": "השקעה הונית נפרדת מחוזה הענן"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה אל החברה המגייסת",
+    "caveat_he": "אין להוסיף את מלוא חוזה המחשוב להשקעה ההונית ולכנות את הסכום השקעת מניות.",
+    "sources": [
+      {
+        "url": "https://investors.coreweave.com/news/news-details/2026/Jane-Street-Signs-6-Billion-AI-Cloud-Agreement-With-CoreWeave/default.aspx",
+        "title": "השקעת Jane Street וחוזה המחשוב",
+        "publisher": "CoreWeave",
+        "published_at": "2026-04-15",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-nebius-investment-2026",
+    "source": "nvidia",
+    "target": "nebius",
+    "type": "investment",
+    "title_he": "השקעת שני מיליארד דולר ב-Nebius",
+    "summary_he": "NVIDIA ו-Nebius הודיעו על השקעה של כשני מיליארד דולר באמצעות כתב אופציה ממומן מראש. ההשקעה תומכת בפיתוח ענן AI ובבניית מרכזי נתונים במסגרת שיתוף פעולה רחב.",
+    "announced_at": "2026-03-11",
+    "status": "signed",
+    "value": {
+      "amount": 2000000000,
+      "currency": "USD",
+      "qualifier_he": "תמורה עבור כתב אופציה ממומן מראש"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה אל החברה המגייסת",
+    "caveat_he": "יש להבחין בין כתב אופציה שכבר מומן מראש לבין אופציה רגילה להשקעה עתידית. מספר המניות הוא כ-21.07 מיליון, בכפוף לתנאים.",
+    "sources": [
+      {
+        "url": "https://nvidianews.nvidia.com/news/nvidia-and-nebius-partner-to-scale-full-stack-ai-cloud",
+        "title": "השקעת NVIDIA ושותפות Nebius",
+        "publisher": "NVIDIA",
+        "published_at": "2026-03-11",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926026163/tm268532d1_6k.htm",
+        "title": "דיווח Nebius על כתבי אופציה ממומנים",
+        "publisher": "Nebius / SEC",
+        "published_at": "2026-03-11",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "microsoft-nebius-2025",
+    "source": "microsoft",
+    "target": "nebius",
+    "type": "compute",
+    "title_he": "Microsoft רוכשת קיבולת Nebius בניו ג׳רזי",
+    "summary_he": "Nebius חתמה על הסכם רב-שנתי לאספקת קיבולת ייעודית ל-Microsoft ממרכז הנתונים בוויינלנד. במכתב לבעלי המניות נמסר כי ערך ההסכם נע בין 17.4 ל-19.4 מיליארד דולר.",
+    "announced_at": "2025-09-08",
+    "status": "signed",
+    "value": {
+      "amount": 17400000000,
+      "currency": "USD",
+      "qualifier_he": "בסיס 17.4 מיליארד; עד 19.4 מיליארד עם הרחבה"
+    },
+    "capacity_he": "",
+    "direction_he": "הלקוח אל ספק המחשוב",
+    "caveat_he": "אין להציג את תקרת 19.4 מיליארד כהתחייבות בסיס נוספת או לחבר אותה ל-17.4 מיליארד.",
+    "sources": [
+      {
+        "url": "https://nebius.com/newsroom/nebius-announces-multi-billion-dollar-agreement-with-microsoft-for-ai-infrastructure",
+        "title": "חוזה Nebius ו-Microsoft",
+        "publisher": "Nebius",
+        "published_at": "2025-09-08",
+        "kind": "primary"
+      },
+      {
+        "url": "https://assets.nebius.com/assets/510c93d1-f166-4c02-933d-f939ca381de0/Shareholder%20Letter%20Q3.pdf",
+        "title": "מכתב Nebius לבעלי המניות, רבעון שלישי 2025",
+        "publisher": "Nebius",
+        "published_at": "2025-11-11",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "meta-nebius-initial-2025",
+    "source": "meta",
+    "target": "nebius",
+    "type": "compute",
+    "title_he": "הסכם Meta הראשוני עם Nebius",
+    "summary_he": "בנובמבר 2025 הודיעה Nebius על חוזה מחשוב לחמש שנים עם Meta בשווי של כשלושה מיליארד דולר. החברה תכננה להקים את הקיבולת הדרושה במהלך החודשים שלאחר ההודעה.",
+    "announced_at": "2025-11-11",
+    "status": "signed",
+    "value": {
+      "amount": 3000000000,
+      "currency": "USD",
+      "qualifier_he": "ההסכם הראשוני, לחמש שנים"
+    },
+    "capacity_he": "",
+    "direction_he": "הלקוח אל ספק המחשוב",
+    "caveat_he": "זהו ההסכם הראשון; ב-2026 פורסם הסכם חדש ונפרד. מועדי המסירה שהופיעו בהודעה הם תחזית מאותו מועד.",
+    "sources": [
+      {
+        "url": "https://assets.nebius.com/assets/510c93d1-f166-4c02-933d-f939ca381de0/Shareholder%20Letter%20Q3.pdf",
+        "title": "מכתב Nebius לבעלי המניות, רבעון שלישי 2025",
+        "publisher": "Nebius",
+        "published_at": "2025-11-11",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "meta-nebius-new-2026",
+    "source": "meta",
+    "target": "nebius",
+    "type": "compute",
+    "title_he": "Meta מתחייבת לעד 27 מיליארד דולר נוספים ב-Nebius",
+    "summary_he": "הסכם חדש לחמש שנים כולל 12 מיליארד דולר לקיבולת ייעודית מבוססת Vera Rubin, החל מתחילת 2027. רכיב נוסף, עד 15 מיליארד דולר, מחייב את Meta לרכוש קיבולת מסוימת אם לא תימכר ללקוחות אחרים.",
+    "announced_at": "2026-03-16",
+    "status": "signed",
+    "value": {
+      "amount": 27000000000,
+      "currency": "USD",
+      "qualifier_he": "עד: 12 מיליארד קיבולת ייעודית ועוד עד 15 מיליארד גיבוי לביקוש"
+    },
+    "capacity_he": "הזמנות לחמש שנים; מסירה ייעודית מתחילת 2027",
+    "direction_he": "הלקוח אל ספק המחשוב",
+    "caveat_he": "רכיב הגיבוי מותנה בקיבולת שנותרת בלתי מכורה. 27 מיליארד אינם הכנסה ודאית במועד החתימה.",
+    "sources": [
+      {
+        "url": "https://nebius.com/newsroom/nebius-signs-new-ai-infrastructure-agreement-with-meta",
+        "title": "ההסכם החדש של Nebius ו-Meta",
+        "publisher": "Nebius",
+        "published_at": "2026-03-16",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926027886/tm268879d1_6k.htm",
+        "title": "דיווח Nebius על חוזה Meta החדש",
+        "publisher": "Nebius / SEC",
+        "published_at": "2026-03-16",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-iren-warrant-2026",
+    "source": "nvidia",
+    "target": "iren",
+    "type": "investment",
+    "title_he": "זכות NVIDIA להשקיע עד 2.1 מיליארד דולר ב-IREN",
+    "summary_he": "IREN העניקה ל-NVIDIA זכות לחמש שנים לרכוש עד 30 מיליון מניות במחיר 70 דולר למניה. הזכות נלווית לשותפות להרחבת תשתיות AI.",
+    "announced_at": "2026-05-07",
+    "status": "proposed",
+    "value": {
+      "amount": 2100000000,
+      "currency": "USD",
+      "qualifier_he": "תקרת מימוש אפשרית של זכות השקעה"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה אל החברה המגייסת",
+    "caveat_he": "זכות לרכוש מניות בתנאים מסוימים, ולא הוכחה להשקעת מזומן שכבר התבצעה.",
+    "sources": [
+      {
+        "url": "https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure",
+        "title": "שותפות NVIDIA ו-IREN וזכות השקעה",
+        "publisher": "NVIDIA",
+        "published_at": "2026-05-07",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-iren-partnership-2026",
+    "source": "nvidia",
+    "target": "iren",
+    "type": "partnership",
+    "title_he": "שותפות להרחבת תשתיות IREN עד 5 ג׳יגה-ואט",
+    "summary_he": "החברות מתכננות לתמוך בפריסה מצטברת של עד 5 ג׳יגה-ואט של תשתיות המבוססות על ארכיטקטורת NVIDIA DSX. אחת מנקודות המוקד המתוכננות היא קמפוס Sweetwater בטקסס.",
+    "announced_at": "2026-05-07",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "לא פורסם שווי רכש כולל"
+    },
+    "capacity_he": "עד 5 GW לאורך זמן",
+    "direction_he": "שיתוף פעולה בין הצדדים",
+    "caveat_he": "יעד שותפות עתידי, שאינו שקול להזמנת חומרה מחייבת לכל הקיבולת. זכות ההשקעה מוצגת בנפרד.",
+    "sources": [
+      {
+        "url": "https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure",
+        "title": "שותפות NVIDIA ו-IREN וזכות השקעה",
+        "publisher": "NVIDIA",
+        "published_at": "2026-05-07",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "microsoft-iren-2025",
+    "source": "microsoft",
+    "target": "iren",
+    "type": "compute",
+    "title_he": "חוזה Microsoft ו-IREN בהיקף 9.7 מיליארד דולר",
+    "summary_he": "IREN חתמה על חוזה ענן GPU לחמש שנים עם Microsoft בשווי של כ-9.7 מיליארד דולר. החוזה כולל מקדמה של 20% ופריסת מערכות NVIDIA GB300 בקמפוס Childress בטקסס.",
+    "announced_at": "2025-11-03",
+    "status": "signed",
+    "value": {
+      "amount": 9700000000,
+      "currency": "USD",
+      "qualifier_he": "ערך חוזה לחמש שנים, כולל מקדמה 20%"
+    },
+    "capacity_he": "כ-200 MW עומס IT במתקני Horizon 1-4",
+    "direction_he": "הלקוח אל ספק המחשוב",
+    "caveat_he": "החוזה תלוי בעמידה בתנאי מסירה וזמינות; מלוא הסכום אינו הכנסה שנצברה ביום החתימה.",
+    "sources": [
+      {
+        "url": "https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-secures-97bn-ai-cloud-contract-microsoft",
+        "title": "חוזה Microsoft עם IREN ורכש מ-Dell",
+        "publisher": "IREN",
+        "published_at": "2025-11-03",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "iren-dell-equipment-2025",
+    "source": "iren",
+    "target": "dell",
+    "type": "supply",
+    "title_he": "IREN רוכשת מ-Dell ציוד עבור חוזה Microsoft",
+    "summary_he": "במקביל לחוזה Microsoft, IREN חתמה עם Dell על רכישת מערכות GPU וציוד נלווה בהיקף של כ-5.8 מיליארד דולר. הציוד נועד לתמוך בפריסות המחשוב המתוכננות בטקסס.",
+    "announced_at": "2025-11-03",
+    "status": "signed",
+    "value": {
+      "amount": 5800000000,
+      "currency": "USD",
+      "qualifier_he": "רכש ציוד ו-GPU מ-Dell"
+    },
+    "capacity_he": "",
+    "direction_he": "IREN משלמת ל-Dell עבור ציוד מחשוב",
+    "caveat_he": "Dell היא הצד המוכר בהסכם. אין ליצור מכך רכש ישיר נפרד של 5.8 מיליארד מ-NVIDIA.",
+    "sources": [
+      {
+        "url": "https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-secures-97bn-ai-cloud-contract-microsoft",
+        "title": "חוזה Microsoft עם IREN ורכש מ-Dell",
+        "publisher": "IREN",
+        "published_at": "2025-11-03",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-nscale-seriesc-2026",
+    "source": "nvidia",
+    "target": "nscale",
+    "type": "investment",
+    "title_he": "NVIDIA משתתפת בסבב C של Nscale",
+    "summary_he": "Nscale גייסה שני מיליארד דולר בסבב C לפי שווי של 14.6 מיליארד דולר. NVIDIA נמנית עם המשתתפות, לצד משקיעים נוספים ובהם Dell, Lenovo ו-Nokia.",
+    "announced_at": "2026-03-09",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "חלק NVIDIA בסבב לא פורסם"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה אל החברה המגייסת",
+    "caveat_he": "שני מיליארד הדולר הם סכום הסבב כולו, ולא סכום ההשקעה של NVIDIA.",
+    "sources": [
+      {
+        "url": "https://www.nscale.com/press-releases/nscale-series-c",
+        "title": "סבב המימון השלישי של Nscale",
+        "publisher": "Nscale",
+        "published_at": "2026-03-09",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-nscale-convertible-2026",
+    "source": "nvidia",
+    "target": "nscale",
+    "type": "financing",
+    "title_he": "התחייבות NVIDIA למיליארד דולר במימון המיר של Nscale",
+    "summary_he": "Nscale הודיעה על גיוס של 3.36 מיליארד דולר באמצעות הלוואות המירות לפני הנפקה. מתוכו מיליארד דולר הוא התחייבות NVIDIA, שהעברת הכסף בגינה תוכננה לאמצע נובמבר 2026.",
+    "announced_at": "2026-09-25",
+    "status": "signed",
+    "value": {
+      "amount": 1000000000,
+      "currency": "USD",
+      "qualifier_he": "רכיב NVIDIA בהלוואות המירות"
+    },
+    "capacity_he": "",
+    "direction_he": "שיתוף פעולה בין הצדדים",
+    "caveat_he": "נכון ל-6 בנובמבר מועד המימון המתוכנן עדיין עתידי. שטרי NVIDIA אמורים להפוך למניות ללא זכות הצבעה בהנפקה; אין להציג את כלל 3.36 מיליארד כהשקעת NVIDIA.",
+    "sources": [
+      {
+        "url": "https://www.nscale.com/press-releases/pre-ipo-convertible-financing",
+        "title": "המימון ההמיר של Nscale",
+        "publisher": "Nscale",
+        "published_at": "2026-09-25",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "microsoft-nscale-aggregate-2026",
+    "source": "microsoft",
+    "target": "nscale",
+    "type": "compute",
+    "title_he": "חוזי Microsoft עם Nscale בהיקף מצטבר של עד 43.8 מיליארד דולר",
+    "summary_he": "תשקיף Nscale מפרט הזמנות עבודה עם Microsoft שנחתמו בין ספטמבר 2025 לאפריל 2026. ההזמנות מכסות תשתיות GPU, שטחי אירוח ושירותי ענן עד דצמבר 2033.",
+    "announced_at": "2026-09-18",
+    "status": "signed",
+    "value": {
+      "amount": 43800000000,
+      "currency": "USD",
+      "qualifier_he": "מצטבר, ללא הארכות אופציונליות"
+    },
+    "capacity_he": "",
+    "direction_he": "הלקוח אל ספק המחשוב",
+    "caveat_he": "הסכום מותנה במסירה ובזמינות שירות, ואינו תקבולים שכבר התקבלו. פירוט פרויקטים נפרד עשוי להיכלל בו; אין לסכום שוב. התאריך הוא מועד התשקיף המאמת.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/2110365/000119312526395475/ck0002110365-20260918.htm",
+        "title": "תשקיף Nscale מספטמבר 2026",
+        "publisher": "Nscale / SEC",
+        "published_at": "2026-09-18",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "microsoft-nscale-portugal-2026",
+    "source": "microsoft",
+    "target": "nscale",
+    "type": "compute",
+    "title_he": "Nscale מרחיבה את מחשוב Microsoft בפורטוגל",
+    "summary_he": "Nscale הודיעה על הרחבת שיתוף הפעולה עם Microsoft ו-Start Campus לפריסת יותר מ-66 אלף מעבדי NVIDIA Rubin, החל מסוף 2027. ההרחבה מצטרפת לפריסה קודמת של יותר מ-12,600 מעבדי Blackwell Ultra עבור Microsoft.",
+    "announced_at": "2026-05-05",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה מ-Microsoft לא פורסמה"
+    },
+    "capacity_he": "יותר מ-66,000 Rubin GPU, בנוסף לפריסה קודמת",
+    "direction_he": "הלקוח אל ספק המחשוב",
+    "caveat_he": "השקעות Nscale בבניין ובתשתיות אינן מחיר חוזה הענן שמשלמת Microsoft.",
+    "sources": [
+      {
+        "url": "https://www.nscale.com/press-releases/nscale-start-campus",
+        "title": "הרחבת קיבולת Microsoft בפורטוגל",
+        "publisher": "Nscale",
+        "published_at": "2026-05-05",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-intel-equity-2025",
+    "source": "nvidia",
+    "target": "intel",
+    "type": "investment",
+    "title_he": "הושלמה השקעת NVIDIA בסך חמישה מיליארד דולר ב-Intel",
+    "summary_he": "ההקצאה הפרטית ל-NVIDIA הושלמה ב-26 בדצמבר 2025. Intel הנפיקה כ-214.78 מיליון מניות במחיר 23.28 דולר למניה, תמורת חמישה מיליארד דולר במזומן.",
+    "announced_at": "2025-09-18",
+    "status": "completed",
+    "value": {
+      "amount": 5000000000,
+      "currency": "USD",
+      "qualifier_he": "השקעה שהושלמה בדצמבר 2025"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה אל החברה המגייסת",
+    "caveat_he": "מועד ההכרזה הוא ספטמבר; ההשלמה מתועדת בדיווח דצמבר. אין לבלבל את ההשקעה עם שווי חוזה אספקה.",
+    "sources": [
+      {
+        "url": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
+        "title": "השקעת NVIDIA ושותפות Intel",
+        "publisher": "NVIDIA",
+        "published_at": "2025-09-18",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.intc.com/filings-reports/all-sec-filings/content/0000050863-25-000204/intc-20251226.htm",
+        "title": "השלמת השקעת NVIDIA ב-Intel",
+        "publisher": "Intel / SEC",
+        "published_at": "2025-12-29",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-thinking-investment-2026",
+    "source": "nvidia",
+    "target": "thinking-machines",
+    "type": "investment",
+    "title_he": "NVIDIA השקיעה ב-Thinking Machines Lab",
+    "summary_he": "Thinking Machines דיווחה כי NVIDIA ביצעה השקעה משמעותית בחברה במסגרת שותפות רב-שנתית. סכום ההשקעה לא נחשף.",
+    "announced_at": "2026-03-10",
+    "status": "completed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "סכום ההשקעה לא פורסם"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה אל החברה המגייסת",
+    "caveat_he": "אין להשתמש בשווי החברה או בערך פריסת המחשוב כתחליף לסכום ההשקעה.",
+    "sources": [
+      {
+        "url": "https://thinkingmachines.ai/news/nvidia-partnership/",
+        "title": "שותפות Thinking Machines ו-NVIDIA",
+        "publisher": "Thinking Machines Lab",
+        "published_at": "2026-03-10",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "thinking-nv-compute-2026",
+    "source": "thinking-machines",
+    "target": "nvidia",
+    "type": "compute",
+    "title_he": "Thinking Machines מתכננת לפחות ג׳יגה-ואט אחד של Rubin",
+    "summary_he": "השותפות הרב-שנתית נועדה לפרוס לפחות ג׳יגה-ואט אחד של מערכות NVIDIA Vera Rubin עבור אימון מודלים ויישומי AI מותאמים. תחילת הפריסה תוכננה לתחילת 2027.",
+    "announced_at": "2026-03-10",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "מחיר המערכות לא פורסם"
+    },
+    "capacity_he": "לפחות 1 GW",
+    "direction_he": "הלקוח אל ספק המחשוב",
+    "caveat_he": "יעד פריסה עתידי; סכום ההשקעה ההונית של NVIDIA אינו מחיר הרכש.",
+    "sources": [
+      {
+        "url": "https://thinkingmachines.ai/news/nvidia-partnership/",
+        "title": "שותפות Thinking Machines ו-NVIDIA",
+        "publisher": "Thinking Machines Lab",
+        "published_at": "2026-03-10",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "openai-amd-compute-2025",
+    "source": "openai",
+    "target": "amd",
+    "type": "compute",
+    "title_he": "הסכם OpenAI לפריסת עד 6 ג׳יגה-ואט של AMD",
+    "summary_he": "הסכם רב-שנתי ורב-דורי נועד להרחיב את תשתיות OpenAI באמצעות AMD Instinct. פריסת הג׳יגה-ואט הראשון המבוסס על MI450 תוכננה למחצית השנייה של 2026.",
+    "announced_at": "2025-10-06",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "מחיר כולל לא נחשף"
+    },
+    "capacity_he": "עד 6 GW; שלב ראשון 1 GW",
+    "direction_he": "הלקוח אל ספק המחשוב",
+    "caveat_he": "קיבולת עתידית מוצהרת אינה תשלום שבוצע. התמורה במניות מותנית באבני דרך ומוצגת בנפרד.",
+    "sources": [
+      {
+        "url": "https://ir.amd.com/news-events/press-releases/detail/1260/amd-and-openai-announce-strategic-partnership-to-deploy-6-gigawatts-of-amd-gpus",
+        "title": "הסכם AMD עם OpenAI",
+        "publisher": "AMD",
+        "published_at": "2025-10-06",
+        "kind": "primary"
+      },
+      {
+        "url": "https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000123/amd-20260627.htm",
+        "title": "דוח AMD לרבעון השני 2026",
+        "publisher": "AMD / SEC",
+        "published_at": "2026-08-05",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "openai-amd-warrant-2025",
+    "source": "openai",
+    "target": "amd",
+    "type": "investment",
+    "title_he": "OpenAI מקבלת זכות מותנית למניות AMD",
+    "summary_he": "AMD העניקה ל-OpenAI כתב אופציה לעד 160 מיליון מניות. ההבשלה מותנית ברכש GPU, ביעדי מניה ובתנאים טכניים ומסחריים.",
+    "announced_at": "2025-10-06",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "עד 160 מיליון מניות; אין שווי מזומן קבוע"
+    },
+    "capacity_he": "",
+    "direction_he": "OpenAI היא מקבלת זכות האחזקה ב-AMD; כיוון הקו מציין בעלת מניות פוטנציאלית",
+    "caveat_he": "לפי דוח AMD, נכון ל-27 ביוני 2026 טרם הבשילה אף מנה. זו זכות מותנית לאחזקה ב-AMD, ולא השקעת AMD ב-OpenAI.",
+    "sources": [
+      {
+        "url": "https://ir.amd.com/news-events/press-releases/detail/1260/amd-and-openai-announce-strategic-partnership-to-deploy-6-gigawatts-of-amd-gpus",
+        "title": "הסכם AMD עם OpenAI",
+        "publisher": "AMD",
+        "published_at": "2025-10-06",
+        "kind": "primary"
+      },
+      {
+        "url": "https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000123/amd-20260627.htm",
+        "title": "דוח AMD לרבעון השני 2026",
+        "publisher": "AMD / SEC",
+        "published_at": "2026-08-05",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "meta-amd-compute-2026",
+    "source": "meta",
+    "target": "amd",
+    "type": "compute",
+    "title_he": "הסכם Meta לפריסת עד 6 ג׳יגה-ואט של AMD",
+    "summary_he": "Meta ו-AMD חתמו על הסכם לפריסת עד 6 ג׳יגה-ואט של תשתיות Instinct לאורך כמה דורות. הדיווח הרגולטורי מאמת התחייבות מחייבת לשלב ראשון של ג׳יגה-ואט אחד, עם משלוחים שתוכננו למחצית השנייה של 2026.",
+    "announced_at": "2026-02-24",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "המחיר לא נחשף; ההתחייבות הראשונית היא 1 GW"
+    },
+    "capacity_he": "עד 6 GW; התחייבות ראשונית 1 GW",
+    "direction_he": "הלקוח אל ספק המחשוב",
+    "caveat_he": "יש להבחין בין השלב הראשון המחייב לבין מלוא מסלול ההרחבה עד 6 GW.",
+    "sources": [
+      {
+        "url": "https://ir.amd.com/news-events/press-releases/detail/1279/amd-and-meta-announce-expanded-strategic-partnership-to-deploy-6-gigawatts-of-amd-gpus",
+        "title": "הסכם AMD עם Meta",
+        "publisher": "AMD",
+        "published_at": "2026-02-24",
+        "kind": "primary"
+      },
+      {
+        "url": "https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000045/amd-20260223.htm",
+        "title": "התחייבות Meta וכתבי האופציה של AMD",
+        "publisher": "AMD / SEC",
+        "published_at": "2026-02-24",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "meta-amd-warrant-2026",
+    "source": "meta",
+    "target": "amd",
+    "type": "investment",
+    "title_he": "Meta מקבלת כתב אופציה מותנה למניות AMD",
+    "summary_he": "במסגרת הסכם הרכש, AMD העניקה ל-Meta זכות לרכוש עד 160 מיליון מניות במחיר מימוש של סנט אחד למניה. ההבשלה נקשרת למשלוחי GPU ולתנאי ביצוע ומחיר מניה.",
+    "announced_at": "2026-02-24",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "עד 160 מיליון מניות; אין שווי עסקה קבוע"
+    },
+    "capacity_he": "",
+    "direction_he": "Meta היא מקבלת זכות האחזקה ב-AMD; אין השקעת AMD ב-Meta",
+    "caveat_he": "נכון לדוח יוני 2026 לא הבשילו מניות כלשהן. מחיר המימוש אינו השווי הכלכלי של ההטבה.",
+    "sources": [
+      {
+        "url": "https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000045/amd-20260223.htm",
+        "title": "התחייבות Meta וכתבי האופציה של AMD",
+        "publisher": "AMD / SEC",
+        "published_at": "2026-02-24",
+        "kind": "primary"
+      },
+      {
+        "url": "https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000123/amd-20260627.htm",
+        "title": "דוח AMD לרבעון השני 2026",
+        "publisher": "AMD / SEC",
+        "published_at": "2026-08-05",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-sb-energy-equity-2026",
+    "source": "nvidia",
+    "target": "sb-energy",
+    "type": "investment",
+    "title_he": "השקעת NVIDIA ב-SB Energy",
+    "summary_he": "NVIDIA הודיעה שתשקיע 1.5 מיליארד דולר ב-SB Energy, לצד המשקיעות הקיימות SoftBank ו-OpenAI. ההשקעה נועדה לתמוך בפיתוח תשתיות AI ואנרגיה, לרבות פרויקט PORTS-Pike באוהיו.",
+    "announced_at": "2026-08-17",
+    "status": "announced",
+    "value": {
+      "amount": 1500000000,
+      "currency": "USD",
+      "qualifier_he": "השקעה הונית מוצהרת"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה אל החברה המגייסת",
+    "caveat_he": "ההשקעה נפרדת מערבות החכירה ואינה ערך כולל של הקמפוס.",
+    "sources": [
+      {
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Guarantees-SB-Energys-PORTS-Pike-Technology-Campus-in-Ohio-to-Exclusively-Host-NVIDIA-AI-Compute/default.aspx",
+        "title": "שותפות PORTS-Pike ו-SB Energy",
+        "publisher": "NVIDIA",
+        "published_at": "2026-08-17",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-sb-energy-guarantee-2026",
+    "source": "nvidia",
+    "target": "sb-energy",
+    "type": "financing",
+    "title_he": "ערבות NVIDIA בסכום מרבי של 105 מיליארד דולר",
+    "summary_he": "NVIDIA חתמה על ערבויות לתשלומי חכירה מסוימים עבור תשתיות PORTS-Pike, שבהן OpenAI היא השוכרת. החשיפה המצטברת הראשונית מוגבלת ל-105 מיליארד דולר ומותנית, בין היתר, בהעמדת המתקנים לשירות.",
+    "announced_at": "2026-08-17",
+    "status": "signed",
+    "value": {
+      "amount": 105000000000,
+      "currency": "USD",
+      "qualifier_he": "תקרת חשיפה מותנית בערבות, לא השקעת מזומן"
+    },
+    "capacity_he": "כ-4.25 GW עומס IT, עם אפשרות תמיכה נוספת",
+    "direction_he": "NVIDIA מספקת גיבוי אשראי ל-SB Energy בקשר להתחייבויות OpenAI",
+    "caveat_he": "תשלום נובע מאירועי כשל מוגדרים ומנוכה ממנו שווי השבה. החשיפה פוחתת עם תשלומי OpenAI; אין להציג אותה כהלוואה או כהון שכבר הועבר.",
+    "sources": [
+      {
+        "url": "https://investor.nvidia.com/files/doc_financials/2027/NVDA-2027-Q2-10Q-Final-including-exhibits.pdf",
+        "title": "דוח NVIDIA לרבעון שני בשנת הכספים 2027",
+        "publisher": "NVIDIA",
+        "published_at": "2026-08-27",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "openai-sb-energy-lease-2026",
+    "source": "openai",
+    "target": "sb-energy",
+    "type": "compute",
+    "title_he": "OpenAI שוכרת קיבולת בקמפוס PORTS-Pike",
+    "summary_he": "SB Energy מתכננת לבנות, להחזיק ולהפעיל את מרכז הנתונים באוהיו תחת חכירה ל-20 שנה ל-OpenAI. שלב ראשון מתוכנן לכ-4.25 ג׳יגה-ואט של עומס IT, עם הרחבה אפשרית.",
+    "announced_at": "2026-08-17",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "שווי החכירה הכולל לא פורסם בהודעה"
+    },
+    "capacity_he": "שלב ראשוני כ-4.25 IT-GW; אופק החכירה 20 שנה",
+    "direction_he": "הלקוח אל ספק המחשוב",
+    "caveat_he": "תקרת ערבות NVIDIA אינה שווי החכירה של OpenAI. הקיבולת עתידית ולא נמסרה במועד ההודעה.",
+    "sources": [
+      {
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Guarantees-SB-Energys-PORTS-Pike-Technology-Campus-in-Ohio-to-Exclusively-Host-NVIDIA-AI-Compute/default.aspx",
+        "title": "שותפות PORTS-Pike ו-SB Energy",
+        "publisher": "NVIDIA",
+        "published_at": "2026-08-17",
+        "kind": "primary"
+      },
+      {
+        "url": "https://investor.nvidia.com/files/doc_financials/2027/NVDA-2027-Q2-10Q-Final-including-exhibits.pdf",
+        "title": "דוח NVIDIA לרבעון שני בשנת הכספים 2027",
+        "publisher": "NVIDIA",
+        "published_at": "2026-08-27",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-coherent-equity-2026",
+    "source": "nvidia",
+    "target": "coherent",
+    "type": "investment",
+    "title_he": "NVIDIA משקיעה שני מיליארד דולר ב-Coherent",
+    "summary_he": "ההשקעה נועדה לתמוך במחקר, בהרחבת קיבולת ובייצור אמריקאי של רכיבים אופטיים לתשתיות AI. לצד ההשקעה הוכרזה גם התחייבות רכש רב-שנתית נפרדת.",
+    "announced_at": "2026-03-02",
+    "status": "announced",
+    "value": {
+      "amount": 2000000000,
+      "currency": "USD",
+      "qualifier_he": "רכיב ההשקעה ההונית"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה אל החברה המגייסת",
+    "caveat_he": "התחייבות הרכש אינה כלולה בסכום זה. סכומה המדויק לא פורסם.",
+    "sources": [
+      {
+        "url": "https://nvidianews.nvidia.com/news/nvidia-and-coherent-announce-strategic-partnership-to-develop-optics-technology-to-scale-next-generation-data-center-architecture",
+        "title": "השקעת NVIDIA ב-Coherent",
+        "publisher": "NVIDIA",
+        "published_at": "2026-03-02",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-lumentum-equity-2026",
+    "source": "nvidia",
+    "target": "lumentum",
+    "type": "investment",
+    "title_he": "NVIDIA משקיעה שני מיליארד דולר ב-Lumentum",
+    "summary_he": "NVIDIA הודיעה על השקעה לצורך מחקר, הרחבת קיבולת ומפעל אמריקאי חדש לרכיבים אופטיים. שיתוף הפעולה כולל גם זכויות קיבולת והתחייבות רכש נפרדת.",
+    "announced_at": "2026-03-02",
+    "status": "announced",
+    "value": {
+      "amount": 2000000000,
+      "currency": "USD",
+      "qualifier_he": "רכיב ההשקעה ההונית"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה אל החברה המגייסת",
+    "caveat_he": "סכום זה אינו שווי הרכש הכולל. ההסכם הוגדר לא בלעדי.",
+    "sources": [
+      {
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-strategic-partnership-with-lumentum-to-develop-state-of-the-art-optics-technology",
+        "title": "השקעת NVIDIA ב-Lumentum",
+        "publisher": "NVIDIA",
+        "published_at": "2026-03-02",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-marvell-equity-2026",
+    "source": "nvidia",
+    "target": "marvell",
+    "type": "investment",
+    "title_he": "NVIDIA השקיעה שני מיליארד דולר ב-Marvell",
+    "summary_he": "ב-31 במרץ 2026 הושלמה רכישת שני מיליון מניות בכורה המירות של Marvell תמורת שני מיליארד דולר במזומן. ההשקעה מלווה בשותפות NVLink Fusion.",
+    "announced_at": "2026-03-31",
+    "status": "completed",
+    "value": {
+      "amount": 2000000000,
+      "currency": "USD",
+      "qualifier_he": "השקעה במניות בכורה המירות"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה אל החברה המגייסת",
+    "caveat_he": "זו אינה רכישה של Marvell כולה. ההמרה למניות רגילות כפופה לתנאים שנקבעו.",
+    "sources": [
+      {
+        "url": "https://investor.marvell.com/sec-filings/all-sec-filings/content/0001193125-26-134462/d113606d8k.htm",
+        "title": "השלמת השקעת NVIDIA ב-Marvell",
+        "publisher": "Marvell / SEC",
+        "published_at": "2026-03-31",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "meta-nvidia-infrastructure-2026",
+    "source": "meta",
+    "target": "nvidia",
+    "type": "supply",
+    "title_he": "Meta מרחיבה רכש מערכות NVIDIA",
+    "summary_he": "השותפות הרב-שנתית והרב-דורית נועדה לפרוס מיליוני GPU מדורות Blackwell ו-Rubin, יחד עם מעבדים ורשתות NVIDIA. ההודעה מכסה תשתיות מקומיות וענן עבור אימון והסקה.",
+    "announced_at": "2026-02-17",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "capacity_he": "מיליוני Blackwell ו-Rubin GPU",
+    "direction_he": "Meta כלקוחת מערכות מחשוב NVIDIA",
+    "caveat_he": "מספר המעבדים הוא יעד פריסה במסגרת שותפות. אין לגזור ממנו שווי חוזה על בסיס מחירי שוק משוערים.",
+    "sources": [
+      {
+        "url": "https://nvidianews.nvidia.com/news/meta-builds-ai-infrastructure-with-nvidia",
+        "title": "הרחבת תשתיות Meta באמצעות NVIDIA",
+        "publisher": "NVIDIA",
+        "published_at": "2026-02-17",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "microsoft-coreweave-customer-2026",
+    "source": "microsoft",
+    "target": "coreweave",
+    "type": "compute",
+    "title_he": "Microsoft היא לקוחת מחשוב מרכזית של CoreWeave",
+    "summary_he": "CoreWeave מזהה את Microsoft בדוח הרבעוני כאחת מלקוחותיה המשמעותיות. זהו קשר ספק-לקוח בענן, בנוסף לפעילויות שבהן שתי החברות מתחרות.",
+    "announced_at": "2026-08-12",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "לא פורסם בדוח ערך חוזה מצרפי ל-Microsoft"
+    },
+    "capacity_he": "",
+    "direction_he": "הלקוח אל ספק המחשוב",
+    "caveat_he": "התאריך הוא מועד הדיווח המאמת את הקשר, ולא תאריך חתימת החוזה המקורי. אין לייחס ל-Microsoft את צבר ההזמנות הכולל של CoreWeave.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000366/crwv-20260630.htm",
+        "title": "דוח CoreWeave לרבעון השני 2026",
+        "publisher": "CoreWeave / SEC",
+        "published_at": "2026-08-12",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "anthropic-nscale-2026",
+    "source": "anthropic",
+    "target": "nscale",
+    "type": "compute",
+    "title_he": "התחייבות Anthropic לעד 44.6 מיליארד דולר ב-Nscale",
+    "summary_he": "באוגוסט 2026 נחתמו ארבעה הסכמי שירותים עם חברות בנות של Nscale לקיבולת GPU ייעודית בקמפוס Monarch. התשקיף מפרט תשלומים מצטברים של עד כ-44.6 מיליארד דולר, המותנים במסירת הקיבולת ובקבלתה.",
+    "announced_at": "2026-08-25",
+    "status": "signed",
+    "value": {
+      "amount": 44600000000,
+      "currency": "USD",
+      "qualifier_he": "סכום מצטבר של ארבעת הסכמי השירותים"
+    },
+    "capacity_he": "ארבע מנות פריסה של NVIDIA Vera Rubin NVL72",
+    "direction_he": "הלקוח אל ספק המחשוב",
+    "caveat_he": "נכון לתשקיף מ-18 בספטמבר טרם הושגו התחייבויות מחייבות לכל המימון הנדרש. זהו חוזה מותנה בביצוע, ולא השקעת הון. אין להוסיף ארבעה חוזים על הסכום המצרפי.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/2110365/000119312526395475/ck0002110365-20260918.htm",
+        "title": "תשקיף Nscale מספטמבר 2026",
+        "publisher": "Nscale / SEC",
+        "published_at": "2026-09-18",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "citi-nebius-facility-2026",
+    "source": "citi",
+    "target": "nebius",
+    "type": "financing",
+    "title_he": "Citi מעמידה מסגרת מימון של 3.5 מיליארד דולר ל-Nebius",
+    "summary_he": "באוקטובר 2026 הודיעה Nebius על מסגרת אשראי בכירה ומובטחת בהיקף 3.5 מיליארד דולר בהובלת Citi. המימון מיועד לפיתוח מרכזי נתונים, לרכש GPU ולצרכים תאגידיים נוספים.",
+    "announced_at": "2026-10-22",
+    "status": "signed",
+    "value": {
+      "amount": 3500000000,
+      "currency": "USD",
+      "qualifier_he": "מסגרת אשראי ל-364 ימים"
+    },
+    "capacity_he": "",
+    "direction_he": "Citi מעמידה אשראי ל-Nebius",
+    "caveat_he": "מסגרת זמינה אינה הוכחה למשיכת מלוא הקרן. הריבית הראשונית היא Term SOFR בתוספת 2.75%, ועשויה לעלות לפי תנאי ההסכם.",
+    "sources": [
+      {
+        "url": "https://nebius.com/newsroom/nebius-secures-3-5-billion-financing-facility-with-citi",
+        "title": "מסגרת המימון של Citi ל-Nebius",
+        "publisher": "Nebius",
+        "published_at": "2026-10-22",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "palantir-nebius-sovereign-2026",
+    "source": "palantir",
+    "target": "nebius",
+    "type": "partnership",
+    "title_he": "Palantir בוחרת ב-Nebius כשותפת תשתיות AI ריבוניות",
+    "summary_he": "Palantir ו-Nebius הודיעו על שילוב תשתיות המחשוב וההסקה של Nebius בסביבת הלקוחות הארגוניים של Palantir. Nebius הוגדרה שותפת התשתיות המועדפת בתחום AI ריבוני.",
+    "announced_at": "2026-09-08",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "לא פורסם סכום התקשרות"
+    },
+    "capacity_he": "",
+    "direction_he": "שיתוף פעולה בין הצדדים",
+    "caveat_he": "ההודעה מתארת שותפות ואינטגרציה מתוכננת, ולא חושפת השקעת הון או התחייבות רכישה כספית.",
+    "sources": [
+      {
+        "url": "https://nebius.com/newsroom/palantir-and-nebius-partner-to-deliver-a-complete-sovereign-ai-stack-to-palantir-customers",
+        "title": "שותפות Palantir ו-Nebius",
+        "publisher": "Nebius",
+        "published_at": "2026-09-08",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-nebius-expansion-2026",
+    "source": "nebius",
+    "target": "nvidia",
+    "type": "partnership",
+    "title_he": "שותפות Nebius לפריסת יותר מ-5 ג׳יגה-ואט של NVIDIA",
+    "summary_he": "החברות משתפות פעולה בתכנון מפעלי AI, במערכות הסקה ובניהול תשתיות מחשוב. מטרת השותפות היא לאפשר ל-Nebius לפרוס יותר מ-5 ג׳יגה-ואט של מערכות NVIDIA עד סוף 2030.",
+    "announced_at": "2026-03-11",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "לא פורסם מחיר רכש מצטבר"
+    },
+    "capacity_he": "יותר מ-5 GW עד סוף 2030",
+    "direction_he": "שיתוף פעולה בין הצדדים",
+    "caveat_he": "זהו יעד פריסה עתידי. השקעת NVIDIA בסך שני מיליארד דולר מוצגת כרכיב נפרד.",
+    "sources": [
+      {
+        "url": "https://nvidianews.nvidia.com/news/nvidia-and-nebius-partner-to-scale-full-stack-ai-cloud",
+        "title": "השקעת NVIDIA ושותפות Nebius",
+        "publisher": "NVIDIA",
+        "published_at": "2026-03-11",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-helix-founding-2026",
+    "source": "nvidia",
+    "target": "helix",
+    "type": "investment",
+    "title_he": "NVIDIA היא משקיעה מייסדת ב-Helix",
+    "summary_he": "Samsung זיהתה את NVIDIA כאחת המשקיעות המייסדות ב-Helix Digital Infrastructure, לצד KKR, רשות ההשקעות של כוויית ו-Vistra. Helix מתמקדת במרכזי נתונים, חשמל ותשתיות תקשורת ל-AI.",
+    "announced_at": "2026-09-29",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "סכום NVIDIA לא פורסם"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה אל החברה המגייסת",
+    "caveat_he": "התאריך הוא מועד הודעת Samsung המאמתת את זהות המשקיעות. השקעת קבוצת Samsung אינה סכום ההשקעה של NVIDIA.",
+    "sources": [
+      {
+        "url": "https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix",
+        "title": "משקיעות Helix Digital Infrastructure",
+        "publisher": "Samsung",
+        "published_at": "2026-09-29",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-apollo-financing-mou-2026",
+    "source": "nvidia",
+    "target": "apollo",
+    "type": "financing",
+    "title_he": "מזכר מימון תשתיות",
+    "summary_he": "מזכר הבנות למסגרת מימון עצמאית לתשתיות AI ללקוחות NVIDIA.",
+    "announced_at": "2026-08-10",
+    "status": "proposed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "סכום פרטני לא פורסם"
+    },
+    "capacity_he": "",
+    "direction_he": "מסגרת שיתוף פעולה",
+    "caveat_he": "חלק מיוזמה משותפת; טעון הסכמים סופיים.",
+    "sources": [
+      {
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Partners-With-Apollo-BlackRock-Blackstone-Brookfield-Goldman-Sachs-and-KKR-to-Establish-AI-Compute-Infrastructure-Financing-Platforms-to-Mobilize-Over-500-Billion-of-Third-Party-Capital/default.aspx",
+        "title": "מזכרי מימון תשתיות",
+        "publisher": "NVIDIA",
+        "published_at": "2026-08-10",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-blackrock-financing-mou-2026",
+    "source": "nvidia",
+    "target": "blackrock",
+    "type": "financing",
+    "title_he": "מזכר מימון תשתיות",
+    "summary_he": "מזכר הבנות למסגרת מימון עצמאית לתשתיות AI ללקוחות NVIDIA.",
+    "announced_at": "2026-08-10",
+    "status": "proposed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "סכום פרטני לא פורסם"
+    },
+    "capacity_he": "",
+    "direction_he": "מסגרת שיתוף פעולה",
+    "caveat_he": "חלק מיוזמה משותפת; טעון הסכמים סופיים.",
+    "sources": [
+      {
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Partners-With-Apollo-BlackRock-Blackstone-Brookfield-Goldman-Sachs-and-KKR-to-Establish-AI-Compute-Infrastructure-Financing-Platforms-to-Mobilize-Over-500-Billion-of-Third-Party-Capital/default.aspx",
+        "title": "מזכרי מימון תשתיות",
+        "publisher": "NVIDIA",
+        "published_at": "2026-08-10",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-blackstone-financing-mou-2026",
+    "source": "nvidia",
+    "target": "blackstone",
+    "type": "financing",
+    "title_he": "מזכר מימון תשתיות",
+    "summary_he": "מזכר הבנות למסגרת מימון עצמאית לתשתיות AI ללקוחות NVIDIA.",
+    "announced_at": "2026-08-10",
+    "status": "proposed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "סכום פרטני לא פורסם"
+    },
+    "capacity_he": "",
+    "direction_he": "מסגרת שיתוף פעולה",
+    "caveat_he": "חלק מיוזמה משותפת; טעון הסכמים סופיים.",
+    "sources": [
+      {
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Partners-With-Apollo-BlackRock-Blackstone-Brookfield-Goldman-Sachs-and-KKR-to-Establish-AI-Compute-Infrastructure-Financing-Platforms-to-Mobilize-Over-500-Billion-of-Third-Party-Capital/default.aspx",
+        "title": "מזכרי מימון תשתיות",
+        "publisher": "NVIDIA",
+        "published_at": "2026-08-10",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-brookfield-financing-mou-2026",
+    "source": "nvidia",
+    "target": "brookfield",
+    "type": "financing",
+    "title_he": "מזכר מימון תשתיות",
+    "summary_he": "מזכר הבנות למסגרת מימון עצמאית לתשתיות AI ללקוחות NVIDIA.",
+    "announced_at": "2026-08-10",
+    "status": "proposed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "סכום פרטני לא פורסם"
+    },
+    "capacity_he": "",
+    "direction_he": "מסגרת שיתוף פעולה",
+    "caveat_he": "חלק מיוזמה משותפת; טעון הסכמים סופיים.",
+    "sources": [
+      {
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Partners-With-Apollo-BlackRock-Blackstone-Brookfield-Goldman-Sachs-and-KKR-to-Establish-AI-Compute-Infrastructure-Financing-Platforms-to-Mobilize-Over-500-Billion-of-Third-Party-Capital/default.aspx",
+        "title": "מזכרי מימון תשתיות",
+        "publisher": "NVIDIA",
+        "published_at": "2026-08-10",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-goldman-sachs-financing-mou-2026",
+    "source": "nvidia",
+    "target": "goldman-sachs",
+    "type": "financing",
+    "title_he": "מזכר מימון תשתיות",
+    "summary_he": "מזכר הבנות למסגרת מימון עצמאית לתשתיות AI ללקוחות NVIDIA.",
+    "announced_at": "2026-08-10",
+    "status": "proposed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "סכום פרטני לא פורסם"
+    },
+    "capacity_he": "",
+    "direction_he": "מסגרת שיתוף פעולה",
+    "caveat_he": "חלק מיוזמה משותפת; טעון הסכמים סופיים.",
+    "sources": [
+      {
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Partners-With-Apollo-BlackRock-Blackstone-Brookfield-Goldman-Sachs-and-KKR-to-Establish-AI-Compute-Infrastructure-Financing-Platforms-to-Mobilize-Over-500-Billion-of-Third-Party-Capital/default.aspx",
+        "title": "מזכרי מימון תשתיות",
+        "publisher": "NVIDIA",
+        "published_at": "2026-08-10",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "nv-kkr-financing-mou-2026",
+    "source": "nvidia",
+    "target": "kkr",
+    "type": "financing",
+    "title_he": "מזכר מימון תשתיות",
+    "summary_he": "מזכר הבנות למסגרת מימון עצמאית לתשתיות AI ללקוחות NVIDIA.",
+    "announced_at": "2026-08-10",
+    "status": "proposed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "סכום פרטני לא פורסם"
+    },
+    "capacity_he": "",
+    "direction_he": "מסגרת שיתוף פעולה",
+    "caveat_he": "חלק מיוזמה משותפת; טעון הסכמים סופיים.",
+    "sources": [
+      {
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Partners-With-Apollo-BlackRock-Blackstone-Brookfield-Goldman-Sachs-and-KKR-to-Establish-AI-Compute-Infrastructure-Financing-Platforms-to-Mobilize-Over-500-Billion-of-Third-Party-Capital/default.aspx",
+        "title": "מזכרי מימון תשתיות",
+        "publisher": "NVIDIA",
+        "published_at": "2026-08-10",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  }
+]

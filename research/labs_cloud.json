@@ -1,0 +1,933 @@
+[
+  {
+    "id": "microsoft-openai-investment-cumulative",
+    "source": "microsoft",
+    "target": "openai",
+    "type": "investment",
+    "title_he": "ההשקעה המצטברת של Microsoft ב-OpenAI",
+    "summary_he": "Microsoft דיווחה על התחייבויות מימון של 13 מיליארד דולר, שמתוכן הועברו 12 מיליארד עד סוף ספטמבר 2026. ההחזקה המדווחת במועד זה היא כ-24% על בסיס המרה.",
+    "announced_at": "2023-01-23",
+    "status": "signed",
+    "value": {
+      "amount": 13000000000,
+      "currency": "USD",
+      "qualifier_he": "התחייבויות מצטברות; 12 מיליארד הועברו"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה מעבירה הון לחברה המקבלת.",
+    "caveat_he": "הסכום כולל השקעות לאורך שנים ואינו השקעה חדשה ברבעון השלישי של 2026. שיעור ההחזקה הוא צילום מצב ל-30.9.2026.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/msft-20260930.htm",
+        "title": "Microsoft Form 10-Q, quarter ended September 30, 2026",
+        "publisher": "Microsoft / SEC",
+        "published_at": "2026-10",
+        "kind": "primary"
+      },
+      {
+        "url": "https://blogs.microsoft.com/blog/2023/01/23/microsoftandopenaiextendpartnership/",
+        "title": "Microsoft and OpenAI extend partnership",
+        "publisher": "Microsoft",
+        "published_at": "2023-01-23",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "openai-microsoft-azure-250b",
+    "source": "openai",
+    "target": "microsoft",
+    "type": "compute",
+    "title_he": "התחייבות נוספת לרכישת שירותי Azure",
+    "summary_he": "במסגרת ההסכם מאוקטובר 2025, OpenAI התחייבה לרכוש שירותי Azure נוספים בהיקף 250 מיליארד דולר. התיקון מאפריל 2026 שמר על Microsoft כשותפת הענן הראשית, לצד אפשרות לפעול גם בעננים אחרים.",
+    "announced_at": "2025-10-28",
+    "status": "signed",
+    "value": {
+      "amount": 250000000000,
+      "currency": "USD",
+      "qualifier_he": "התחייבות נוספת לשירותי Azure"
+    },
+    "capacity_he": "",
+    "direction_he": "הלקוחה רוכשת שירותים מהספקית.",
+    "caveat_he": "היקף חוזי רב-שנתי אינו הכנסה שכבר הוכרה. אין להציג את תנאי הבלעדיות מאוקטובר 2025 כתנאים התקפים כיום.",
+    "sources": [
+      {
+        "url": "https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/",
+        "title": "The next chapter of the Microsoft OpenAI partnership",
+        "publisher": "Microsoft",
+        "published_at": "2025-10-28",
+        "kind": "primary"
+      },
+      {
+        "url": "https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/",
+        "title": "The next phase of the Microsoft-OpenAI partnership",
+        "publisher": "Microsoft",
+        "published_at": "2026-04-27",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "microsoft-openai-amended-partnership-2026",
+    "source": "microsoft",
+    "target": "openai",
+    "type": "partnership",
+    "title_he": "תיקון השותפות: רישיון לא בלעדי וגמישות בענן",
+    "summary_he": "ההסכם המעודכן מאפשר ל-OpenAI להציע את כלל מוצריה דרך כל ספקית ענן. רישיון Microsoft למודלים ולמוצרים הוא לא בלעדי עד 2032; תשלומי חלוקת ההכנסות מ-OpenAI ל-Microsoft נמשכים עד 2030, בכפוף לתקרה.",
+    "announced_at": "2026-04-27",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "הסכום לא פורסם"
+    },
+    "capacity_he": "",
+    "direction_he": "החץ מציין את הצדדים לקשר ואינו מייצג תשלום ידוע.",
+    "caveat_he": "Microsoft חדלה לשלם חלוקת הכנסות ל-OpenAI. תנאי אפריל 2026 מחליפים סעיפי בלעדיות ישנים.",
+    "sources": [
+      {
+        "url": "https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/",
+        "title": "The next phase of the Microsoft-OpenAI partnership",
+        "publisher": "Microsoft",
+        "published_at": "2026-04-27",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "amazon-openai-investment-2026",
+    "source": "amazon",
+    "target": "openai",
+    "type": "investment",
+    "title_he": "Amazon השלימה השקעה של 50 מיליארד דולר ב-OpenAI",
+    "summary_he": "ההשקעה הוכרזה בפברואר 2026 והועברה בשלבים. הדוח לרבעון השלישי מאשר כי מלוא 50 מיליארד הדולר הושקעו עד 30 בספטמבר 2026.",
+    "announced_at": "2026-02-27",
+    "status": "completed",
+    "value": {
+      "amount": 50000000000,
+      "currency": "USD",
+      "qualifier_he": "הושקעו במלואם עד סוף ספטמבר 2026"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה מעבירה הון לחברה המקבלת.",
+    "caveat_he": "בהודעה המקורית חלק מהסכום הותנה באבני דרך; הדוח העדכני מאשר השלמה ולכן אין להשאיר את כולו כהתחייבות עתידית.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm",
+        "title": "Amazon Form 10-Q, quarter ended September 30, 2026",
+        "publisher": "Amazon / SEC",
+        "published_at": "2026-10",
+        "kind": "primary"
+      },
+      {
+        "url": "https://press.aboutamazon.com/2026/2/openai-and-amazon-announce-strategic-partnership",
+        "title": "OpenAI and Amazon Announce Strategic Partnership",
+        "publisher": "Amazon / OpenAI",
+        "published_at": "2026-02-27",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "openai-amazon-compute-2025",
+    "source": "openai",
+    "target": "amazon",
+    "type": "compute",
+    "title_he": "הסכם המחשוב המקורי בין OpenAI ל-AWS",
+    "summary_he": "OpenAI חתמה על רכישת מחשוב מ-AWS בהיקף 38 מיליארד דולר לשבע שנים. התשתית כוללת מאות אלפי מעבדים גרפיים של NVIDIA ומיועדת לאימון ולהרצת מודלים.",
+    "announced_at": "2025-11-03",
+    "status": "signed",
+    "value": {
+      "amount": 38000000000,
+      "currency": "USD",
+      "qualifier_he": "ההסכם המקורי לשבע שנים"
+    },
+    "capacity_he": "מאות אלפי מעבדים גרפיים; יעד פריסה עד סוף 2026, ללא אישור כאן להשלמת הפריסה.",
+    "direction_he": "הלקוחה רוכשת שירותים מהספקית.",
+    "caveat_he": "זוהי שכבת הבסיס להסכם. בפברואר 2026 נוספה הרחבה נפרדת של 100 מיליארד דולר; אין להתייחס ל-38 מיליארד כהשקעת הון.",
+    "sources": [
+      {
+        "url": "https://openai.com/index/aws-and-openai-partnership/",
+        "title": "AWS and OpenAI announce multi-year strategic partnership",
+        "publisher": "OpenAI",
+        "published_at": "2025-11-03",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "openai-amazon-compute-expansion-2026",
+    "source": "openai",
+    "target": "amazon",
+    "type": "compute",
+    "title_he": "הרחבת הסכם AWS ב-100 מיליארד דולר",
+    "summary_he": "OpenAI ו-Amazon הרחיבו את ההסכם הקיים ב-100 מיליארד דולר נוספים על פני שמונה שנים. ההרחבה כוללת התחייבות לצריכת כ-2 גיגה-ואט של קיבולת Trainium לצורכי שירותים ומוצרים מתקדמים.",
+    "announced_at": "2026-02-27",
+    "status": "signed",
+    "value": {
+      "amount": 100000000000,
+      "currency": "USD",
+      "qualifier_he": "תוספת להסכם המקורי, על פני שמונה שנים"
+    },
+    "capacity_he": "כ-2 גיגה-ואט של Trainium; התחייבות לרכש ולא קיבולת שנמסרה במלואה.",
+    "direction_he": "הלקוחה רוכשת שירותים מהספקית.",
+    "caveat_he": "הסכום נוסף ל-38 מיליארד הדולר שהוכרזו ב-2025; שתי הרשומות מייצגות רכיבים שונים, ולא שני דיווחים על אותו סכום.",
+    "sources": [
+      {
+        "url": "https://press.aboutamazon.com/2026/2/openai-and-amazon-announce-strategic-partnership",
+        "title": "OpenAI and Amazon Announce Strategic Partnership",
+        "publisher": "Amazon / OpenAI",
+        "published_at": "2026-02-27",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "amazon-openai-frontier-partnership-2026",
+    "source": "amazon",
+    "target": "openai",
+    "type": "partnership",
+    "title_he": "Frontier וסביבת עבודה משותפת ב-AWS",
+    "summary_he": "החברות סיכמו על פיתוח סביבת עבודה שומרת הקשר המבוססת על מודלי OpenAI ב-Amazon Bedrock. AWS הוגדרה ספקית ההפצה החיצונית הבלעדית בענן של Frontier, ובמקביל תוכנן פיתוח מודלים מותאמים ליישומי Amazon.",
+    "announced_at": "2026-02-27",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "לא פורסם מחיר נפרד לרכיב ההפצה"
+    },
+    "capacity_he": "",
+    "direction_he": "החץ מציין את הצדדים לקשר ואינו מייצג תשלום ידוע.",
+    "caveat_he": "רכיב מסחרי וטכנולוגי של אותה מסגרת שותפות; סכומי ההון והמחשוב מופיעים ברשומות נפרדות.",
+    "sources": [
+      {
+        "url": "https://press.aboutamazon.com/2026/2/openai-and-amazon-announce-strategic-partnership",
+        "title": "OpenAI and Amazon Announce Strategic Partnership",
+        "publisher": "Amazon / OpenAI",
+        "published_at": "2026-02-27",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "softbank-openai-investment-2025",
+    "source": "softbank",
+    "target": "openai",
+    "type": "investment",
+    "title_he": "SoftBank השלימה את השקעת 2025 ב-OpenAI",
+    "summary_he": "SoftBank השקיעה 7.5 מיליארד דולר באפריל ו-22.5 מיליארד נוספים בדצמבר 2025. חלקה הישיר בשני השלבים הוא 30 מיליארד דולר, לצד 11 מיליארד דולר ממשקיעים נוספים.",
+    "announced_at": "2025-03-31",
+    "status": "completed",
+    "value": {
+      "amount": 30000000000,
+      "currency": "USD",
+      "qualifier_he": "חלקה הישיר של SoftBank בסבב 2025"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה מעבירה הון לחברה המקבלת.",
+    "caveat_he": "אין לייחס ל-SoftBank לבדה את מלוא 41 מיליארד הדולר בסבב. ההשקעה הנוספת של 2026 נפרדת.",
+    "sources": [
+      {
+        "url": "https://group.softbank/en/news/press/20251231",
+        "title": "Completion of Additional $22.5 Billion Investment in OpenAI",
+        "publisher": "SoftBank Group",
+        "published_at": "2025-12-31",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "softbank-openai-investment-2026",
+    "source": "softbank",
+    "target": "openai",
+    "type": "investment",
+    "title_he": "SoftBank השלימה השקעה נוספת של 30 מיליארד דולר",
+    "summary_he": "ב-1 באוקטובר הועבר התשלום השלישי והאחרון בסבב ההשקעה הנוסף של 2026. הסכום המצטבר שהשקיעה SoftBank ב-OpenAI הגיע ל-64.6 מיליארד דולר, וההחזקה לכ-13%.",
+    "announced_at": "2026-02-27",
+    "status": "completed",
+    "value": {
+      "amount": 30000000000,
+      "currency": "USD",
+      "qualifier_he": "השקעה נוספת ב-2026; הושלמה ב-1 באוקטובר"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה מעבירה הון לחברה המקבלת.",
+    "caveat_he": "64.6 מיליארד דולר הוא הסכום ההיסטורי המצטבר, ולא היקף הסבב הנוכחי. שיעור ההחזקה מתייחס למועד ההודעה.",
+    "sources": [
+      {
+        "url": "https://group.softbank/en/news/press/20261001",
+        "title": "Execution of Follow-on Investment (Third Tranche) in OpenAI",
+        "publisher": "SoftBank Group",
+        "published_at": "2026-10-01",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "openai-oracle-stargate-compute",
+    "source": "openai",
+    "target": "oracle",
+    "type": "compute",
+    "title_he": "הסכם Stargate עם Oracle בהיקף העולה על 300 מיליארד דולר",
+    "summary_he": "OpenAI אישרה כי השותפות עם Oracle, שנחתמה ביולי 2025, עולה על 300 מיליארד דולר לאורך חמש שנים. ההסכם נועד לפיתוח קיבולת נוספת של עד 4.5 גיגה-ואט במסגרת Stargate.",
+    "announced_at": "2025-07-22",
+    "status": "signed",
+    "value": {
+      "amount": 300000000000,
+      "currency": "USD",
+      "qualifier_he": "מעל סכום זה, על פני חמש שנים"
+    },
+    "capacity_he": "עד 4.5 גיגה-ואט של קיבולת נוספת מתוכננת.",
+    "direction_he": "הלקוחה רוכשת שירותים מהספקית.",
+    "caveat_he": "זהו היקף השותפות בין שתי החברות, לא שווי השקעת הון. אין לסכום אותו שוב עם יעד Stargate הכולל של 500 מיליארד דולר.",
+    "sources": [
+      {
+        "url": "https://openai.com/index/five-new-stargate-sites/",
+        "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI data center sites",
+        "publisher": "OpenAI",
+        "published_at": "2025-09-23",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "softbank-openai-stargate-sites",
+    "source": "softbank",
+    "target": "openai",
+    "type": "partnership",
+    "title_he": "פיתוח שני אתרי Stargate עם SoftBank",
+    "summary_he": "SoftBank ו-OpenAI הודיעו על פיתוח אתרי מחשוב באוהיו ובטקסס. שני האתרים תוכננו להתרחב עד 1.5 גיגה-ואט בתוך 18 חודשים, כחלק מתוכנית Stargate הרחבה.",
+    "announced_at": "2025-09-23",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "לא פורסם סכום בילטרלי נפרד"
+    },
+    "capacity_he": "עד 1.5 גיגה-ואט בשני האתרים.",
+    "direction_he": "החץ מציין את הצדדים לקשר ואינו מייצג תשלום ידוע.",
+    "caveat_he": "היעד הכולל של Stargate אינו שווי העסקה המסוימת בין SoftBank ל-OpenAI. פרסום תוכנית פיתוח אינו אישור למסירת מלוא הקיבולת.",
+    "sources": [
+      {
+        "url": "https://openai.com/index/five-new-stargate-sites/",
+        "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI data center sites",
+        "publisher": "OpenAI",
+        "published_at": "2025-09-23",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "oracle-openai-apps-2026",
+    "source": "oracle",
+    "target": "openai",
+    "type": "partnership",
+    "title_he": "יישומי Oracle בתוך ChatGPT ומוצרי AI משותפים",
+    "summary_he": "Oracle ו-OpenAI הרחיבו את השותפות לשילוב יישומים ונתונים עסקיים בתוך ChatGPT. המהלך כולל פיתוח יישומים באמצעות Codex, שירותי אבטחה ומכירת מוצרי OpenAI דרך Oracle Marketplace בארה״ב.",
+    "announced_at": "2026-10-27",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "לא פורסם מחיר נפרד"
+    },
+    "capacity_he": "",
+    "direction_he": "החץ מציין את הצדדים לקשר ואינו מייצג תשלום ידוע.",
+    "caveat_he": "זהו קשר הפצה ומוצרים נוסף להסכם המחשוב. חלק מהיכולות תוארו כתוכניות ומוצרים בפיתוח.",
+    "sources": [
+      {
+        "url": "https://openai.com/index/oracle-apps-in-chatgpt/",
+        "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+        "publisher": "OpenAI",
+        "published_at": "2026-10-27",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "google-openai-distribution-2026",
+    "source": "google",
+    "target": "openai",
+    "type": "partnership",
+    "title_he": "מודלי OpenAI ו-Codex מגיעים ל-Google Cloud",
+    "summary_he": "החברות הודיעו על שילוב מודלי OpenAI ותהליכי Codex ב-Model Garden של Google Cloud. הרכישה תתבצע דרך Google Cloud Marketplace, עם אפשרות להשתמש בהתחייבויות הוצאה קיימות ל-GCP.",
+    "announced_at": "2026-10-21",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "היקף כספי לא פורסם"
+    },
+    "capacity_he": "",
+    "direction_he": "החץ מציין את הצדדים לקשר ואינו מייצג תשלום ידוע.",
+    "caveat_he": "בהודעה נקבעה זמינות כללית בשבועות הבאים; לא הוסק כאן שכל השירותים כבר זמינים. זהו קשר הפצה, שאינו השקעת Google ב-OpenAI.",
+    "sources": [
+      {
+        "url": "https://openai.com/index/openai-models-google-cloud/",
+        "title": "OpenAI models are coming to Google Cloud",
+        "publisher": "OpenAI",
+        "published_at": "2026-10-21",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "microsoft-mistral-investment-2024",
+    "source": "microsoft",
+    "target": "mistral",
+    "type": "investment",
+    "title_he": "Microsoft השקיעה 15 מיליון אירו ב-Mistral",
+    "summary_he": "ה-CMA אישרה במפורש השקעה של Microsoft באג״ח להמרה שהנפיקה Mistral בסך 15 מיליון אירו. ההמרה נועדה להתרחש בסבב גיוס עתידי, וההשקעה נפרדת מהסכם Azure.",
+    "announced_at": "2024-02-26",
+    "status": "completed",
+    "value": {
+      "amount": 15000000,
+      "currency": "EUR",
+      "qualifier_he": "השקעה באג״ח להמרה"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה מעבירה הון לחברה המקבלת.",
+    "caveat_he": "במועד החלטת ה-CMA עדיין לא הייתה החזקה במניות מכוח האג״ח, וההחזקה הפוטנציאלית הייתה פחות מ-1%. אין להסיק מכך שיעור בעלות עדכני לנובמבר 2026.",
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/664c6cfd993111924d9d389f/Full_text_decision.pdf",
+        "title": "Microsoft / Mistral AI: full text decision",
+        "publisher": "UK Competition and Markets Authority",
+        "published_at": "2024-05-21",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "mistral-microsoft-azure-compute-2024",
+    "source": "mistral",
+    "target": "microsoft",
+    "type": "compute",
+    "title_he": "Mistral רוכשת תשתית מחשוב מ-Azure",
+    "summary_he": "השותפות מ-2024 כללה התחייבות של Mistral להשתמש בתשתיות Azure לצורכי אימון והרצת מודלים. ה-CMA אימתה את התחייבות המחשוב, אך ההיקף הכספי והתקופה הושחרו בפרסום הפומבי.",
+    "announced_at": "2024-02-26",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "תנאי הרכש המספריים לא נחשפו"
+    },
+    "capacity_he": "",
+    "direction_he": "הלקוחה רוכשת שירותים מהספקית.",
+    "caveat_he": "אין להשתמש ב-15 מיליון האירו מסעיף ההשקעה כערך חוזה המחשוב. ב-2026 נוצר גם קשר מחשוב בכיוון ההפוך.",
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/664c6cfd993111924d9d389f/Full_text_decision.pdf",
+        "title": "Microsoft / Mistral AI: full text decision",
+        "publisher": "UK Competition and Markets Authority",
+        "published_at": "2024-05-21",
+        "kind": "primary"
+      },
+      {
+        "url": "https://azure.microsoft.com/en-us/blog/microsoft-and-mistral-ai-announce-new-partnership-to-accelerate-ai-innovation-and-introduce-mistral-large-first-on-azure/",
+        "title": "Microsoft and Mistral AI announce new partnership",
+        "publisher": "Microsoft Azure",
+        "published_at": "2024-02-26",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "microsoft-mistral-compute-2026",
+    "source": "microsoft",
+    "target": "mistral",
+    "type": "compute",
+    "title_he": "Microsoft מתחייבת להשתמש בקיבולת GPU של Mistral באירופה",
+    "summary_he": "Microsoft הודיעה על התחייבות בהיקף של מיליארדי דולרים לשימוש בקיבולת המחשוב האירופית המתרחבת של Mistral. הקיבולת נועדה להרחיב את שירותי הענן והבינה המלאכותית של Microsoft.",
+    "announced_at": "2026-07-21",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התחייבות של מיליארדי דולרים, ללא סכום מדויק"
+    },
+    "capacity_he": "הרחבת תשתיות GPU באירופה, כולל מערכות NVIDIA Vera Rubin.",
+    "direction_he": "הלקוחה רוכשת שירותים מהספקית.",
+    "caveat_he": "כאן Microsoft היא רוכשת הקיבולת ו-Mistral היא הספקית. אין להפוך את כיוון החץ בגלל הסכם Azure ההיסטורי.",
+    "sources": [
+      {
+        "url": "https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/",
+        "title": "Microsoft and Mistral expand strategic partnership",
+        "publisher": "Microsoft",
+        "published_at": "2026-07-21",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "microsoft-mistral-distribution-2026",
+    "source": "microsoft",
+    "target": "mistral",
+    "type": "partnership",
+    "title_he": "הרחבת הפצת מודלי Mistral במוצרי Microsoft",
+    "summary_he": "השותפות המורחבת משלבת מודלי Mistral ב-Microsoft Foundry וב-Copilot Studio. החברות הדגישו אפשרויות פריסה בענן, בסביבות מחוברות ובסביבות מנותקות עבור לקוחות וענפים מפוקחים.",
+    "announced_at": "2026-07-21",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "לא פורסם תשלום נפרד עבור ההפצה"
+    },
+    "capacity_he": "",
+    "direction_he": "החץ מציין את הצדדים לקשר ואינו מייצג תשלום ידוע.",
+    "caveat_he": "הסכם ההפצה והרישוי נפרד מהשקעת האג״ח ההיסטורית ומרכישת קיבולת המחשוב האירופית.",
+    "sources": [
+      {
+        "url": "https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/",
+        "title": "Microsoft and Mistral expand strategic partnership",
+        "publisher": "Microsoft",
+        "published_at": "2026-07-21",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "amazon-anthropic-investment-original-2024",
+    "source": "amazon",
+    "target": "anthropic",
+    "type": "investment",
+    "title_he": "Amazon השלימה את ההשקעה המקורית ב-Anthropic",
+    "summary_he": "Amazon העבירה 1.25 מיליארד דולר בספטמבר 2023 ועוד 2.75 מיליארד במרץ 2024. בכך הושלמה מסגרת ההשקעה הראשונה, בסך 4 מיליארד דולר.",
+    "announced_at": "2023-09-25",
+    "status": "completed",
+    "value": {
+      "amount": 4000000000,
+      "currency": "USD",
+      "qualifier_he": "המסגרת המקורית, שהושלמה במרץ 2024"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה מעבירה הון לחברה המקבלת.",
+    "caveat_he": "ההשקעה מבוססת על מכשירים הניתנים להמרה; היא אינה מלמדת כשלעצמה על שליטה בחברה. ההשקעות המאוחרות מוצגות בנפרד.",
+    "sources": [
+      {
+        "url": "https://www.aboutamazon.com/news/company-news/amazon-anthropic-ai-investment",
+        "title": "Amazon concludes $4 billion investment in Anthropic",
+        "publisher": "Amazon",
+        "published_at": "2024-03-27",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "amazon-anthropic-investment-additional-2024",
+    "source": "amazon",
+    "target": "anthropic",
+    "type": "investment",
+    "title_he": "השקעה נוספת של Amazon ב-Anthropic",
+    "summary_he": "בנובמבר 2024 הוכרזה השקעה נוספת של 4 מיליארד דולר, שהעלתה את המסגרת המצטברת ל-8 מיליארד. לצד ההשקעה, AWS הוגדרה שותפת הענן והאימון הראשית של Anthropic.",
+    "announced_at": "2024-11-22",
+    "status": "completed",
+    "value": {
+      "amount": 4000000000,
+      "currency": "USD",
+      "qualifier_he": "תוספת למסגרת המקורית"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה מעבירה הון לחברה המקבלת.",
+    "caveat_he": "8 מיליארד דולר הוא הסכום המצטבר של שתי המסגרות ההיסטוריות, ולא סכום תוספת זו. הדוח העדכני מאשר השקעה היסטורית זו.",
+    "sources": [
+      {
+        "url": "https://www.anthropic.com/news/anthropic-amazon-trainium",
+        "title": "Powering the next generation of AI development with AWS",
+        "publisher": "Anthropic",
+        "published_at": "2024-11-22",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm",
+        "title": "Amazon Form 10-Q, quarter ended September 30, 2026",
+        "publisher": "Amazon / SEC",
+        "published_at": "2026-10",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "amazon-anthropic-series-g-2026",
+    "source": "amazon",
+    "target": "anthropic",
+    "type": "investment",
+    "title_he": "Amazon השקיעה 5 מיליארד דולר נוספים ב-Series G",
+    "summary_he": "Amazon דיווחה כי ברבעון השני של 2026 השקיעה 5 מיליארד דולר במניות בכורה ללא זכות הצבעה של Anthropic מסדרה G. רכיב זה נפרד מההשקעה בסדרה H.",
+    "announced_at": "2026-04-20",
+    "status": "completed",
+    "value": {
+      "amount": 5000000000,
+      "currency": "USD",
+      "qualifier_he": "השקעת Series G, רבעון שני 2026"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה מעבירה הון לחברה המקבלת.",
+    "caveat_he": "זהו הסכום הראשוני בהרחבת הקשר של 2026, בנוסף ל-8 מיליארד הדולר ההיסטוריים.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm",
+        "title": "Amazon Form 10-Q, quarter ended September 30, 2026",
+        "publisher": "Amazon / SEC",
+        "published_at": "2026-10",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+        "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+        "publisher": "Anthropic",
+        "published_at": "2026-04-20",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "amazon-anthropic-series-h-2026",
+    "source": "amazon",
+    "target": "anthropic",
+    "type": "investment",
+    "title_he": "Amazon מימשה השקעה של 5 מיליארד דולר ב-Series H",
+    "summary_he": "Amazon השקיעה 5 מיליארד דולר נוספים בסדרה H ברבעון השני של 2026. השקעה זו הקטינה את מסגרת המימון העתידית מ-20 ל-15 מיליארד דולר.",
+    "announced_at": "2026-05",
+    "status": "completed",
+    "value": {
+      "amount": 5000000000,
+      "currency": "USD",
+      "qualifier_he": "השקעת Series H, מתוך מסגרת המימון"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה מעבירה הון לחברה המקבלת.",
+    "caveat_he": "לצד Series G, הועברו 10 מיליארד דולר ב-2026; אין לסכום שוב את 5 המיליארד האלה עם המסגרת המקורית המלאה של 20 מיליארד.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm",
+        "title": "Amazon Form 10-Q, quarter ended September 30, 2026",
+        "publisher": "Amazon / SEC",
+        "published_at": "2026-10",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "amazon-anthropic-financing-remaining-2026",
+    "source": "amazon",
+    "target": "anthropic",
+    "type": "financing",
+    "title_he": "מסגרת המימון הנותרת של Amazon ל-Anthropic",
+    "summary_he": "לאחר השקעת Series H נותרה מסגרת של עד 15 מיליארד דולר, בכפוף לאבני דרך במסירת מחשוב. משיכות אפשריות מתבצעות כנגד מניות או אג״ח להמרה.",
+    "announced_at": "2026-04",
+    "status": "signed",
+    "value": {
+      "amount": 15000000000,
+      "currency": "USD",
+      "qualifier_he": "יתרה מותנית מתוך מסגרת של 20 מיליארד"
+    },
+    "capacity_he": "",
+    "direction_he": "החץ מציין את הצדדים לקשר ואינו מייצג תשלום ידוע.",
+    "caveat_he": "מסגרת זמינה בתנאים היא התחייבות מימון, ולא הון שכבר הועבר. אין להוסיף את היתרה למסגרת המקורית במלואה.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm",
+        "title": "Amazon Form 10-Q, quarter ended September 30, 2026",
+        "publisher": "Amazon / SEC",
+        "published_at": "2026-10",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "anthropic-amazon-compute-current-2026",
+    "source": "anthropic",
+    "target": "amazon",
+    "type": "compute",
+    "title_he": "Anthropic התחייבה למינימום מחשוב של 110 מיליארד דולר ב-AWS",
+    "summary_he": "ההסכם מאפריל 2026 מחייב הוצאה של לפחות 110 מיליארד דולר ממאי 2026 עד אפריל 2036, ללא תלות בשימוש בפועל.",
+    "announced_at": "2026-04-20",
+    "status": "signed",
+    "value": {
+      "amount": 110000000000,
+      "currency": "USD",
+      "qualifier_he": "מינימום חוזי מעודכן"
+    },
+    "capacity_he": "עד 5 גיגה-ואט של קיבולת חדשה במסגרת ההרחבה.",
+    "direction_he": "הלקוחה רוכשת שירותים מהספקית.",
+    "caveat_he": "מעדכן את ההכרזה על יותר מ-100 מיליארד; אין לסכום את שניהם.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
+        "title": "Anthropic S-1/A",
+        "publisher": "Anthropic / SEC",
+        "published_at": "2026-11-02",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+        "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+        "publisher": "Anthropic",
+        "published_at": "2026-04-20",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "google-anthropic-series-g-2026",
+    "source": "google",
+    "target": "anthropic",
+    "type": "investment",
+    "title_he": "Google השקיעה 10 מיליארד דולר ב-Series G",
+    "summary_he": "במרץ 2026 Google רכשה מניות בכורה של Anthropic בסך כ-10 מיליארד דולר. העסקה נפרדת ממסגרת המימון העתידית.",
+    "announced_at": "2026-03",
+    "status": "completed",
+    "value": {
+      "amount": 10000000000,
+      "currency": "USD",
+      "qualifier_he": "השקעת Series G-2"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה מעבירה הון לחברה המקבלת.",
+    "caveat_he": "אינה כוללת את השקעת Series H ממאי.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
+        "title": "Anthropic S-1/A",
+        "publisher": "Anthropic / SEC",
+        "published_at": "2026-11-02",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "google-anthropic-series-h-2026",
+    "source": "google",
+    "target": "anthropic",
+    "type": "investment",
+    "title_he": "Google השקיעה 10 מיליארד דולר ב-Series H",
+    "summary_he": "במאי 2026 Google השקיעה 10 מיליארד דולר בסדרה H. בכך הופחתה מסגרת המימון העתידית מ-30 ל-20 מיליארד.",
+    "announced_at": "2026-05",
+    "status": "completed",
+    "value": {
+      "amount": 10000000000,
+      "currency": "USD",
+      "qualifier_he": "השקעת Series H מתוך המסגרת"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה מעבירה הון לחברה המקבלת.",
+    "caveat_he": "אין לסכום אותה שוב עם מסגרת המקור של 30 מיליארד.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
+        "title": "Anthropic S-1/A",
+        "publisher": "Anthropic / SEC",
+        "published_at": "2026-11-02",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "google-anthropic-financing-remaining-2026",
+    "source": "google",
+    "target": "anthropic",
+    "type": "financing",
+    "title_he": "מסגרת Google ל-Anthropic: עד 20 מיליארד דולר נוספים",
+    "summary_he": "המסגרת הנותרת מאפשרת הנפקת אג״ח או מניות עד סוף 2030, בכפוף לתנאים. בסוף ספטמבר 2026 טרם נמשכה ממנה יתרה.",
+    "announced_at": "2026-03",
+    "status": "signed",
+    "value": {
+      "amount": 20000000000,
+      "currency": "USD",
+      "qualifier_he": "יתרה מותנית לאחר השקעת Series H"
+    },
+    "capacity_he": "",
+    "direction_he": "החץ מציין את הצדדים לקשר ואינו מייצג תשלום ידוע.",
+    "caveat_he": "יתרה עתידית, ולא השקעה שהושלמה.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
+        "title": "Anthropic S-1/A",
+        "publisher": "Anthropic / SEC",
+        "published_at": "2026-11-02",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "anthropic-google-compute-current-2026",
+    "source": "anthropic",
+    "target": "google",
+    "type": "compute",
+    "title_he": "Anthropic התחייבה למינימום מחשוב של 121.3 מיליארד דולר ב-Google",
+    "summary_he": "ההסכם המעודכן מחייב לפחות כ-121.3 מיליארד דולר מאפריל 2026 עד יולי 2033. התשלום נדרש גם כאשר השימוש נמוך מההתחייבות.",
+    "announced_at": "2026-03",
+    "status": "signed",
+    "value": {
+      "amount": 121300000000,
+      "currency": "USD",
+      "qualifier_he": "מינימום חוזי; עדכונים עד אוקטובר 2026"
+    },
+    "capacity_he": "כולל את הרחבת שיתוף הפעולה עם Google; אין לסכום שוב את הודעות הקיבולת הקודמות.",
+    "direction_he": "הלקוחה רוכשת שירותים מהספקית.",
+    "caveat_he": "קיימות גם התחייבויות TPU נוספות ללא סכום קבוע; הן אינן כלולות כאן.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
+        "title": "Anthropic S-1/A",
+        "publisher": "Anthropic / SEC",
+        "published_at": "2026-11-02",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+        "title": "Anthropic expands partnership with Google and Broadcom",
+        "publisher": "Anthropic",
+        "published_at": "2026-04-06",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "microsoft-anthropic-investment-2025",
+    "source": "microsoft",
+    "target": "anthropic",
+    "type": "investment",
+    "title_he": "Microsoft התחייבה להשקיע עד 5 מיליארד דולר ב-Anthropic",
+    "summary_he": "Microsoft התחייבה להשקעת הון של עד 5 מיליארד דולר כחלק משותפות אסטרטגית רחבה. הודעת Series G מפברואר 2026 אישרה שחלק מההתחייבות נכלל בסבב.",
+    "announced_at": "2025-11-18",
+    "status": "signed",
+    "value": {
+      "amount": 5000000000,
+      "currency": "USD",
+      "qualifier_he": "עד סכום זה; חלק נכלל בסבב Series G"
+    },
+    "capacity_he": "",
+    "direction_he": "המשקיעה מעבירה הון לחברה המקבלת.",
+    "caveat_he": "לא פורסם במקורות אלה כמה מתוך התקרה הועבר בפועל. אין לייחס ל-Microsoft את מלוא סבב הגיוס של Anthropic.",
+    "sources": [
+      {
+        "url": "https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships",
+        "title": "Microsoft, NVIDIA, and Anthropic announce strategic partnerships",
+        "publisher": "Anthropic",
+        "published_at": "2025-11-18",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+        "title": "Anthropic raises $30 billion in Series G funding",
+        "publisher": "Anthropic",
+        "published_at": "2026-02-12",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "anthropic-microsoft-compute-current-2026",
+    "source": "anthropic",
+    "target": "microsoft",
+    "type": "compute",
+    "title_he": "התחייבות Anthropic ל-Azure גדלה ל-44.9 מיליארד דולר",
+    "summary_he": "הסכם המחשוב שעודכן עד אוקטובר 2026 מחייב לפחות 44.9 מיליארד דולר מנובמבר 2026 עד יוני 2033, ללא תלות בשימוש בפועל.",
+    "announced_at": "2026-10",
+    "status": "signed",
+    "value": {
+      "amount": 44900000000,
+      "currency": "USD",
+      "qualifier_he": "מינימום חוזי מעודכן"
+    },
+    "capacity_he": "",
+    "direction_he": "הלקוחה רוכשת שירותים מהספקית.",
+    "caveat_he": "מחליף את היקף 30 מיליארד הדולר שפורסם ב-2025; אין לסכום אותם.",
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
+        "title": "Anthropic S-1/A",
+        "publisher": "Anthropic / SEC",
+        "published_at": "2026-11-02",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "microsoft-anthropic-distribution-2025",
+    "source": "microsoft",
+    "target": "anthropic",
+    "type": "partnership",
+    "title_he": "Claude ב-Microsoft Foundry ובמשפחת Copilot",
+    "summary_he": "השותפות הרחיבה את הפצת מודלי Claude ללקוחות Microsoft Foundry. Microsoft התחייבה להמשיך לאפשר גישה ל-Claude גם ב-GitHub Copilot, ב-Microsoft 365 Copilot וב-Copilot Studio.",
+    "announced_at": "2025-11-18",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "לא פורסם תשלום נפרד להפצה"
+    },
+    "capacity_he": "",
+    "direction_he": "החץ מציין את הצדדים לקשר ואינו מייצג תשלום ידוע.",
+    "caveat_he": "הפצת מודלים היא קשר מסחרי נפרד מהשקעת ההון ומרכישת המחשוב בכיוון ההפוך.",
+    "sources": [
+      {
+        "url": "https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships",
+        "title": "Microsoft, NVIDIA, and Anthropic announce strategic partnerships",
+        "publisher": "Anthropic",
+        "published_at": "2025-11-18",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "google-anthropic-vertex-distribution",
+    "source": "google",
+    "target": "anthropic",
+    "type": "partnership",
+    "title_he": "הפצת Claude ב-Vertex AI",
+    "summary_he": "ה-CMA אימתה הסכם לא בלעדי להפצת מודלי Anthropic דרך Vertex AI של Google. ההסכם הוא אחד המרכיבים בקשר הרחב, לצד מימון ואספקת מחשוב.",
+    "announced_at": "2024-03",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "התמורה המסחרית לא נחשפה"
+    },
+    "capacity_he": "",
+    "direction_he": "החץ מציין את הצדדים לקשר ואינו מייצג תשלום ידוע.",
+    "caveat_he": "הסכם ההפצה אינו רכישת Anthropic ואינו מקנה ל-Google שליטה בחברה על סמך החלטת ה-CMA.",
+    "sources": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/676959bae6ff7c8a1fde9d33/Full_text_decision__.pdf",
+        "title": "Alphabet / Anthropic: full text decision",
+        "publisher": "UK Competition and Markets Authority",
+        "published_at": "2024-12-24",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "id": "hws-tesla-nvidia-cortex",
+    "source": "tesla",
+    "target": "nvidia",
+    "type": "supply",
+    "title_he": "מאיצי NVIDIA משמשים את מחשב האימון Cortex של Tesla",
+    "summary_he": "Tesla דיווחה כי השלימה בסוף 2024 התקנת אשכול Cortex בטקסס, הכולל כ-50 אלף מאיצי H100 של NVIDIA. בעדכון יולי 2026 דיווחה על הגדלת תשתית האימון באמצעות Cortex 2 לתמיכה בתוכנת נהיגה וברובוטים.",
+    "announced_at": "2025-01-29",
+    "status": "completed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "לא פורסם שווי כספי נפרד להסכם או לקשר זה"
+    },
+    "direction_he": "החץ מציין לקוח אל ספק המחשוב או הציוד",
+    "caveat_he": "המספר 50 אלף מתייחס להתקנה שדווחה בינואר 2025. נתוני ההספק של Cortex ב-2026 אינם מלמדים לבדם שכל הקיבולת החדשה נרכשה מ-NVIDIA או מהם תנאי החוזה.",
+    "sources": [
+      {
+        "url": "https://ir.tesla.com/_flysystem/s3/sec/000162828025002993/tsla-20250129-gen.pdf",
+        "title": "Tesla Q4 2024 Update: Cortex deployment",
+        "publisher": "Tesla",
+        "published_at": "2025-01-29",
+        "kind": "primary"
+      },
+      {
+        "url": "https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q2-2026-Update.pdf",
+        "title": "Tesla Q2 2026 Update: supporting infrastructure",
+        "publisher": "Tesla",
+        "published_at": "2026-07-22",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06",
+    "date_basis_he": "מועד הדיווח על פריסת ציוד; עדכון תשתיות נוסף פורסם ביולי 2026"
+  },
+  {
+    "id": "hws-xai-nvidia-colossus",
+    "source": "xai",
+    "target": "nvidia",
+    "type": "supply",
+    "title_he": "מאיצי Hopper ותקשורת NVIDIA במחשב Colossus",
+    "summary_he": "NVIDIA אישרה כי אשכול Colossus של xAI נבנה עם 100 אלף מאיצי Hopper ורשת Spectrum-X. הקשר כולל גם רכיבי תקשורת BlueField ומשמש לאימון מודלי Grok.",
+    "announced_at": "2024-10-28",
+    "status": "completed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "לא פורסם שווי כספי נפרד להסכם או לקשר זה"
+    },
+    "direction_he": "החץ מציין לקוח אל ספק המחשוב או הציוד",
+    "caveat_he": "זהו נתון היסטורי מאומת מ-2024, לא גודל התשתית בנובמבר 2026. xAI נרכשה בידי SpaceX בפברואר 2026; הרחבת הדור הבא מוצגת ברשומה נפרדת.",
+    "sources": [
+      {
+        "url": "https://nvidianews.nvidia.com/news/spectrum-x-ethernet-networking-xai-colossus",
+        "title": "NVIDIA Ethernet Networking Accelerates World’s Largest AI Supercomputer, Built by xAI",
+        "publisher": "NVIDIA",
+        "published_at": "2024-10-28",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06",
+    "capacity_he": "100 אלף מאיצי Hopper בהתקנה המקורית שאומתה ב-2024"
+  },
+  {
+    "id": "hws-spacex-nvidia-verarubin",
+    "source": "spacex",
+    "target": "nvidia",
+    "type": "supply",
+    "title_he": "מערכות Vera Rubin לפעילות ה-AI של SpaceX",
+    "summary_he": "NVIDIA הודיעה שפעילות SpaceXAI תפרוס מעבדי Vera ותרחיב את תשתיות Grok באמצעות מערכות Vera Rubin. החברות גם עובדות על התאמת מערכות NVIDIA למחשוב בחלל במסגרת לוויין Starmind המתוכנן.",
+    "announced_at": "2026-08-24",
+    "status": "announced",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "לא פורסם שווי כספי נפרד להסכם או לקשר זה"
+    },
+    "direction_he": "החץ מציין לקוח אל ספק המחשוב או הציוד",
+    "caveat_he": "הפרסום מתייחס לפעילות ה-AI המאוחדת לאחר רכישת xAI. הרחבה לקנה מידה של ג׳יגה־ואטים ולוויין עתידי הן תוכניות, ולא אישור שכל המערכות נמסרו או שהלוויין שוגר.",
+    "sources": [
+      {
+        "url": "https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale",
+        "title": "SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale",
+        "publisher": "NVIDIA",
+        "published_at": "2026-08-24",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hws-anthropic-spacex-compute",
+    "source": "anthropic",
+    "target": "spacex",
+    "type": "compute",
+    "title_he": "Anthropic שוכרת קיבולת במרכזי Colossus של SpaceX",
+    "summary_he": "Anthropic חתמה לשימוש במלוא קיבולת Colossus 1 של SpaceX, בהיקף של יותר מ-300 מגה־ואט ויותר מ-220 אלף מאיצי NVIDIA. בהודעתה בהמשך מאי 2026 ציינה גם גישה לקיבולת ב-Colossus 2.",
+    "announced_at": "2026-05-06",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "לא פורסם שווי כספי נפרד להסכם או לקשר זה"
+    },
+    "direction_he": "החץ מציין לקוח אל ספק המחשוב או הציוד",
+    "caveat_he": "הספק וכמות המאיצים מתייחסים להסכם Colossus 1. לא פורסם סכום התשלום או היקף נפרד ל-Colossus 2, ואין לייחס להסכם אוטומטית את כל קיבולת SpaceX.",
+    "sources": [
+      {
+        "url": "https://www.anthropic.com/news/higher-limits-spacex",
+        "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+        "publisher": "Anthropic",
+        "published_at": "2026-05-06",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.anthropic.com/news/series-h",
+        "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+        "publisher": "Anthropic",
+        "published_at": "2026-05-28",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06",
+    "capacity_he": "יותר מ-300 מגה־ואט ויותר מ-220 אלף מאיצים ב-Colossus 1"
+  },
+  {
+    "id": "hws-anthropic-spacex-orbital",
+    "source": "anthropic",
+    "target": "spacex",
+    "type": "partnership",
+    "title_he": "עניין משותף בפיתוח מחשוב AI בחלל",
+    "summary_he": "Anthropic הביעה עניין בשיתוף פעולה עם SpaceX לפיתוח כמה ג׳יגה־ואטים של מחשוב AI בחלל. הנושא הוזכר לצד הסכם הקיבולת הקרקעית ב-Colossus, אך הוא נמצא בשלב הבעת עניין.",
+    "announced_at": "2026-05-06",
+    "status": "proposed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "לא פורסם שווי כספי נפרד להסכם או לקשר זה"
+    },
+    "direction_he": "שיתוף פעולה טכנולוגי; החץ אינו מציין השקעה הונית",
+    "caveat_he": "הבעת עניין אינה הסכם רכישה מחייב, קיבולת קיימת או השקעה שבוצעה. יש להציג את הקשר בנפרד מהסכם Colossus החתום.",
+    "sources": [
+      {
+        "url": "https://www.anthropic.com/news/higher-limits-spacex",
+        "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+        "publisher": "Anthropic",
+        "published_at": "2026-05-06",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hws-xai-oracle-cloud",
+    "source": "xai",
+    "target": "oracle",
+    "type": "compute",
+    "title_he": "Oracle אישרה הסכם ענן עם xAI",
+    "summary_he": "Oracle דיווחה במרץ 2025 שחתמה על הסכמי ענן עם כמה חברות טכנולוגיה, ובהן xAI. המקור מאשר קשר מסחרי בין הצדדים אך אינו מפרט את שווי ההסכם של xAI או את משכו.",
+    "announced_at": "2025-03-10",
+    "status": "signed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "לא פורסם שווי כספי נפרד להסכם או לקשר זה"
+    },
+    "direction_he": "החץ מציין לקוח אל ספק המחשוב או הציוד",
+    "caveat_he": "אין לייחס ל-xAI את מלוא צבר ההזמנות של Oracle. הדיווח אינו מאמת את סכום 10 מיליארד הדולר שנקשר בעבר למגעים להרחבה; גם אין להסיק שמגעים שלא הבשילו ביטלו כל קשר בין החברות.",
+    "sources": [
+      {
+        "url": "https://investor.oracle.com/investor-news/news-details/2025/Oracle-Announces-Fiscal-2025-Third-Quarter-Financial-Results/default.aspx",
+        "title": "Oracle Announces Fiscal 2025 Third Quarter Financial Results",
+        "publisher": "Oracle",
+        "published_at": "2025-03-10",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06",
+    "date_basis_he": "תאריך אישור פומבי להסכם ענן; תנאי ההמשך עד נובמבר 2026 לא פורסמו במקור"
+  },
+  {
+    "id": "hws-oracle-xai-grok-distribution",
+    "source": "oracle",
+    "target": "xai",
+    "type": "partnership",
+    "title_he": "Grok 4.7 זמין ללקוחות הענן של Oracle",
+    "summary_he": "Oracle הודיעה בספטמבר 2026 על זמינות Grok 4.7 לפי דרישה בשירות OCI Generative AI. זהו קשר הפצה וגישה מסחרי למודלי xAI באמצעות פלטפורמת הענן של Oracle.",
+    "announced_at": "2026-09-25",
+    "status": "completed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "לא פורסם שווי כספי נפרד להסכם או לקשר זה"
+    },
+    "direction_he": "שיתוף פעולה טכנולוגי; החץ אינו מציין השקעה הונית",
+    "caveat_he": "זמינות מודל ב-OCI אינה כשלעצמה אישור לחוזה אימון חדש בהיקף מסוים או להשקעה הונית של Oracle ב-xAI.",
+    "sources": [
+      {
+        "url": "https://docs.oracle.com/en-us/iaas/releasenotes/generative-ai/xai-grok-4-7.htm",
+        "title": "Use xAI Grok 4.7 in OCI Generative AI",
+        "publisher": "Oracle",
+        "published_at": "2026-09-25",
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06"
+  },
+  {
+    "id": "hws-intel-tsmc-lunarlake",
+    "source": "intel",
+    "target": "tsmc",
+    "type": "supply",
+    "title_he": "ייצור רכיבי Lunar Lake של Intel בטכנולוגיית TSMC",
+    "summary_he": "Intel מציינת במפרטים הרשמיים כי מעבד Core Ultra 9 288V ממשפחת Lunar Lake משתמש בטכנולוגיית TSMC N3B. מדריך Edge AI מינואר 2026 מאשר שימוש בייצור חיצוני זה כחלק מהיצע מעבדי ה-AI של החברה.",
+    "announced_at": "2026-01",
+    "status": "completed",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "qualifier_he": "לא פורסם שווי כספי נפרד להסכם או לקשר זה"
+    },
+    "direction_he": "החץ מציין לקוח אל ספק המחשוב או הציוד",
+    "caveat_he": "זהו קשר ייצור עבור משפחת מוצרים מסוימת, ולא טענה שכל מעבדי Intel מיוצרים ב-TSMC. סכום ההזמנות ותאריך החוזה המקורי לא פורסמו במפרט.",
+    "sources": [
+      {
+        "url": "https://cdrdv2-public.intel.com/873131/873131_Edge_AI_Handbook_Rev1.0.pdf",
+        "title": "Edge AI Handbook: A Practical Approach, January 2026",
+        "publisher": "Intel",
+        "published_at": "2026-01",
+        "kind": "primary"
+      },
+      {
+        "url": "https://www.intel.com/content/www/us/en/products/sku/240961/intel-core-ultra-9-processor-288v-12m-cache-up-to-5-10-ghz/specifications.html",
+        "title": "Intel Core Ultra 9 Processor 288V Specifications",
+        "publisher": "Intel",
+        "published_at": null,
+        "kind": "primary"
+      }
+    ],
+    "verified_at": "2026-11-06",
+    "date_basis_he": "מועד מסמך Intel שבו אומת קשר הייצור; לא תאריך הסכם חדש"
+  }
+]

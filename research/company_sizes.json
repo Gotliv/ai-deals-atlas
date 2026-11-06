@@ -1,0 +1,653 @@
+{
+  "as_of": "2026-11-06",
+  "methodology_he": "גודל הבועה מבוסס על שווי שוק בדולרים לחברה ציבורית, או על שווי לאחר הכסף בסבב פרטי שפורסם ואומת. אלה בסיסי תמחור שונים ותאריכי השווי מוצגים בנפרד. הנתונים הם תמונת מצב ידנית, ולא מחירי זמן אמת. לגוף ללא שווי פומבי מאומת מוצגת בועת ברירת מחדל שאינה אומדן שווי.",
+  "companies": {
+    "amazon": {
+      "usd_billion": 2813,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "anthropic": {
+      "usd_billion": 965,
+      "kind": "private_valuation",
+      "as_of": "2026-05-28",
+      "source": {
+        "url": "https://www.anthropic.com/news/series-h",
+        "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+        "publisher": "Anthropic",
+        "kind": "primary"
+      },
+      "note_he": "שווי לאחר הכסף בסבב H. דיווח על יעד שווי עתידי בהנפקה אינו מחליף שווי עסקה שהושלמה."
+    },
+    "apple": {
+      "usd_billion": 5001,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "applied-materials": {
+      "usd_billion": 253.35,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "google": {
+      "usd_billion": 3463,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "intel": {
+      "usd_billion": 277.7,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "meta": {
+      "usd_billion": 1547,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "microsoft": {
+      "usd_billion": 3979,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "nvidia": {
+      "usd_billion": 4385,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "openai": {
+      "usd_billion": 852,
+      "kind": "private_valuation",
+      "as_of": "2026-03-31",
+      "source": {
+        "url": "https://openai.com/index/accelerating-the-next-phase-ai/",
+        "title": "OpenAI raises $122 billion to accelerate the next phase of AI",
+        "publisher": "OpenAI",
+        "kind": "primary"
+      },
+      "note_he": "שווי לאחר הכסף של 852 מיליארד דולר בסגירת סבב ההשקעה. זהו שווי עסקה פרטית, לא שווי שוק יומי."
+    },
+    "spacex": {
+      "usd_billion": 1678,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "tesla": {
+      "usd_billion": 1358,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "tsmc": {
+      "usd_billion": 1831,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "adobe": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "advantest": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "amd": {
+      "usd_billion": 663.25,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "apollo": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "asml": {
+      "usd_billion": 522.87,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "asmpt": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "besi": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "blackrock": {
+      "usd_billion": 190.2,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "blackstone": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "blue-owl": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "broadcom": {
+      "usd_billion": 1391,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "brookfield": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "celestica": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "citi": {
+      "usd_billion": 196.05,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "cohere": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "coherent": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "coreweave": {
+      "usd_billion": 24.08,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/coreweave/marketcap/",
+        "title": "CoreWeave market capitalization, end of day November 5, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "databricks": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "dell": {
+      "usd_billion": 201.49,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "essilorluxottica": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "fluidstack": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "goldman-sachs": {
+      "usd_billion": 250.63,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "helix": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "hugging-face": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "ibm": {
+      "usd_billion": 233.54,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "inflection": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "iren": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "jane-street": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "kioxia": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "kkr": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "lumentum": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "manus": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "marvell": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "mgx": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "micron": {
+      "usd_billion": 742.65,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "midjourney": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "mistral": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "nebius": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "nscale": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "oracle": {
+      "usd_billion": 359.03,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "palantir": {
+      "usd_billion": 373.44,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "perplexity": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "reliance": {
+      "usd_billion": 189.12,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "salesforce": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "samsung": {
+      "usd_billion": 927.27,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "sap": {
+      "usd_billion": 281.08,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "sb-energy": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "scale-ai": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "screen": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "servicenow": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "sk-hynix": {
+      "usd_billion": 602.37,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "snowflake": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "softbank": {
+      "usd_billion": 143.49,
+      "kind": "market_cap",
+      "as_of": "2026-11-06",
+      "source": {
+        "url": "https://companiesmarketcap.com/softbank/marketcap/",
+        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "publisher": "CompaniesMarketCap",
+        "kind": "secondary"
+      },
+      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+    },
+    "stargate": {
+      "usd_billion": null,
+      "kind": "project",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "מיזם תשתיות, ללא שווי חברה בר השוואה."
+    },
+    "synopsys": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "terawulf": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "thinking-machines": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    },
+    "xai": {
+      "usd_billion": null,
+      "kind": "unknown",
+      "as_of": "2026-11-06",
+      "source": null,
+      "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
+    }
+  }
+}

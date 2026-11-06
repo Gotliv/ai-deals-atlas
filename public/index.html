@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#0b1019">
+  <meta name="description" content="מפת עסקאות ה-AI: השקעות, מחשוב, שבבים ושותפויות. חברות באנגלית, הסברים בעברית ומקורות לכל קשר. תמונת מצב ל-6 בנובמבר 2026.">
+  <title>AI ATLAS | מפת הקשרים של תעשיית ה-AI</title>
+  <link rel="icon" href="assets/atlas.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/font.css">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="bubbles.css">
+  <script src="vendor/d3.min.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#workspace">דילוג למפה</a>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="AI ATLAS, דף הבית" dir="ltr"><img src="assets/atlas.svg" alt="" width="32" height="32"><span>AI<span class="brand-light">ATLAS</span><small>FOLLOW THE CONNECTIONS</small></span></a>
+    <nav class="tabs" aria-label="תצוגות"><button class="tab active" data-view="map">המפה המלאה</button><button class="tab" data-view="review">חברות הסקירה · 14</button><button class="tab" data-view="ledger">כל העסקאות</button><button class="tab" data-view="coverage">מקורות וכיסוי</button></nav>
+    <div class="top-actions"><span class="edition"><i></i> נבדק ב־06.11.2026</span><button class="icon-btn" id="share" title="העתקת קישור לתצוגה" aria-label="העתקת קישור לתצוגה">↗</button><div class="theme-switch" aria-label="ערכת צבעים"><button id="theme-dark" aria-pressed="true">☾ כהה</button><button id="theme-light" aria-pressed="false">☀ בהיר</button></div></div>
+  </header>
+  <main>
+    <section class="intro">
+      <div><div class="eyebrow"><span></span> THE AI ECONOMY, CONNECTED</div><h1>מי משקיע. מי קונה. <span>מי מחובר למי.</span></h1><p>הקשרים שמניעים את תעשיית הבינה המלאכותית, מההון ועד לשבב. רחפו לגלות, לחצו להעמיק.</p></div>
+      <div class="stats" aria-label="היקף המאגר"><div><strong id="stat-companies">…</strong><span>חברות וגופים</span></div><div><strong id="stat-deals">…</strong><span>עסקאות וקשרים</span></div><div><strong id="stat-sources">…</strong><span>מקורות</span></div></div>
+    </section>
+    <section class="workspace" id="workspace" aria-label="כלי לחקר קשרי חברות">
+      <div class="filterbar">
+        <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="חיפוש חברה או עסקה…" autocomplete="off" aria-label="חיפוש חברה או עסקה"><kbd>/</kbd></label>
+        <div class="types" id="types" aria-label="סינון לפי סוג קשר"></div>
+        <label class="year-label"><span class="sr-only">שנת ההכרזה</span><select id="year" aria-label="שנת ההכרזה"><option value="all">כל השנים</option><option value="2026">2026</option><option value="2025">2025</option><option value="older">2024 ולפני</option></select></label>
+        <button id="reset" class="text-btn">איפוס</button>
+      </div>
+      <div class="main-grid">
+        <section class="visual-panel" id="map-panel" aria-label="מפה אינטראקטיבית">
+          <div class="map-toolbar"><div class="scope-caption"><b id="scope-title">כל החברות והקשרים</b><span id="scope-description">מפת הבועות של תעשיית ה-AI</span></div><span class="map-count" id="map-count" aria-live="polite"></span><label class="history"><input id="history" type="checkbox"> גם קשרים היסטוריים</label></div>
+          <div class="size-legend"><span class="bubble-key"><i></i><i></i><i></i></span><span>גודל לפי שווי חברה · קנה מידה מותאם לקריאות</span><span class="unknown-key">◌ שווי לא ידוע</span><button id="size-method">מקור ותאריך בריחוף ↗</button></div>
+          <div class="graph-wrap"><svg id="graph" aria-label="מפת חברות וקשרים. אפשר לבחור חברה באמצעות מקש Tab ואז Enter." role="group"></svg><div class="loading" id="loading"><span class="spinner"></span>טוען את הקשרים…</div><div class="graph-empty hidden" id="graph-empty"><h2>אין קשרים בסינון הזה</h2><p>אפשר לנסות חברה אחרת או לאפס את המסננים.</p><button class="primary" id="empty-reset">איפוס מסננים</button></div><div class="map-label"><b>AI ECONOMY</b><span>CAPITAL · COMPUTE · COLLABORATION</span></div><div class="zoom-tools"><button id="zoom-in" aria-label="הגדלה" title="הגדלה">+</button><button id="zoom-out" aria-label="הקטנה" title="הקטנה">−</button><button id="zoom-fit" aria-label="התאמה למסך" title="התאמה למסך">⛶</button></div><div class="graph-hint">גררו את המפה להזזה · גללו להגדלה · לחצו על קו לפירוט</div></div>
+          <footer class="map-foot"><span><i class="solid-line"></i>הסכם או קשר מתועד</span><span><i class="dashed-line"></i>הצעה או דיווח שטרם הושלם</span><button id="method-link">איך לקרוא את המפה <span>↗</span></button></footer>
+        </section>
+        <section class="ledger-panel hidden" id="ledger-panel" aria-label="כל העסקאות"><div class="panel-heading"><div><span class="eyebrow">THE DEAL LEDGER</span><h2>הפרטים מאחורי הקווים</h2></div><button id="export-csv" class="outline-btn">הורדת CSV ↓</button></div><div class="ledger-controls"><span id="ledger-count" aria-live="polite"></span><label>מיון <select id="sort"><option value="new">מהחדש לישן</option><option value="old">מהישן לחדש</option><option value="amount">סכום מדווח</option></select></label></div><div id="deal-list"></div></section>
+        <section class="coverage-panel hidden" id="coverage-panel" aria-label="מקורות ומתודולוגיה"></section>
+        <aside class="detail-panel" id="detail" aria-label="פרטי החברה או העסקה" tabindex="-1"></aside>
+      </div>
+    </section>
+    <footer class="page-foot"><span dir="ltr">AI ATLAS <b>·</b> Research snapshot, 06 NOV 2026</span><span>קשרים פומביים מתועדים. עדכון ידני, בהתאם למקורות.</span><a id="github-link" class="hidden" href="#" target="_blank" rel="noopener noreferrer">הקוד ב־GitHub ↗</a></footer>
+  </main>
+  <div id="tooltip" class="tooltip hidden" role="tooltip" dir="rtl"></div>
+  <div id="toast" class="toast hidden" role="status"></div>
+  <dialog id="share-dialog"><form method="dialog"><button class="close-dialog" aria-label="סגירה">×</button><h2>קישור לתצוגה</h2><p>הקישור שומר את החברה, הקשר והמסננים שבחרת.</p><input id="share-url" dir="ltr" readonly aria-label="קישור לשיתוף"><button class="primary">סגירה</button></form></dialog>
+</body>
+</html>
