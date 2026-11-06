@@ -278,8 +278,9 @@
     "target": "oracle",
     "type": "compute",
     "title_he": "הסכם Stargate עם Oracle בהיקף העולה על 300 מיליארד דולר",
-    "summary_he": "OpenAI אישרה כי השותפות עם Oracle, שנחתמה ביולי 2025, עולה על 300 מיליארד דולר לאורך חמש שנים. ההסכם נועד לפיתוח קיבולת נוספת של עד 4.5 גיגה-ואט במסגרת Stargate.",
+    "summary_he": "ביולי 2025 OpenAI ו-Oracle הכריזו על הסכם לפיתוח קיבולת נוספת של עד 4.5 גיגה-ואט במסגרת Stargate. בספטמבר 2025 OpenAI מסרה כי היקף השותפות עולה על 300 מיליארד דולר לאורך חמש שנים.",
     "announced_at": "2025-07-22",
+    "date_basis_he": "מועד הכרזת ההסכם. סכום השותפות פורסם מאוחר יותר, ב-23 בספטמבר 2025.",
     "status": "signed",
     "value": {
       "amount": 300000000000,
@@ -290,6 +291,13 @@
     "direction_he": "הלקוחה רוכשת שירותים מהספקית.",
     "caveat_he": "זהו היקף השותפות בין שתי החברות, לא שווי השקעת הון. אין לסכום אותו שוב עם יעד Stargate הכולל של 500 מיליארד דולר.",
     "sources": [
+      {
+        "url": "https://openai.com/index/stargate-advances-with-partnership-with-oracle/",
+        "title": "Stargate advances with 4.5 GW partnership with Oracle",
+        "publisher": "OpenAI",
+        "published_at": "2025-07-22",
+        "kind": "primary"
+      },
       {
         "url": "https://openai.com/index/five-new-stargate-sites/",
         "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI data center sites",

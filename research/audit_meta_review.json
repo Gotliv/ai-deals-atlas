@@ -1,0 +1,74 @@
+[
+  {
+    "id":"apple-anthropic-xcode-claude-agent-2026",
+    "source":"apple","target":"anthropic","type":"partnership",
+    "title_he":"שילוב Claude Agent בסביבת הפיתוח Xcode",
+    "summary_he":"Apple ו-Anthropic הודיעו כי Xcode 26.3 כוללת שילוב מובנה של Claude Agent SDK. מפתחים יכולים להפעיל את סוכן התכנות של Anthropic מתוך סביבת הפיתוח של Apple, בין היתר לצורך כתיבת קוד, בדיקת פרויקטים ותיקון שגיאות.",
+    "announced_at":"2026-02-03","status":"announced",
+    "value":{"amount":null,"currency":null,"qualifier_he":"התנאים המסחריים והיקף התמורה לא פורסמו"},
+    "direction_he":"הקו מציין שילוב מוצר טכנולוגי בין Apple ל-Anthropic, ולא העברת כסף ידועה.",
+    "caveat_he":"במועד ההכרזה הגרסה הייתה זמינה למפתחים כגרסת מועמדת לשחרור. ההודעה אינה מפרטת סכום עסקה או בלעדיות.",
+    "sources":[{"url":"https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/","title":"Xcode 26.3 unlocks the power of agentic coding","publisher":"Apple","published_at":"2026-02-03","kind":"primary"},{"url":"https://www.anthropic.com/news/apple-xcode-claude-agent-sdk","title":"Apple’s Xcode now supports the Claude Agent SDK","publisher":"Anthropic","published_at":"2026-02-03","kind":"primary"}],
+    "verified_at":"2026-11-06","audit":{"reviewed_at":"2026-11-06","note_he":"שתי החברות מאשרות את שילוב Claude Agent SDK ב-Xcode; סכום ההתקשרות לא נמסר."}
+  },
+  {
+    "id":"apple-openai-xcode-codex-2026",
+    "source":"apple","target":"openai","type":"partnership",
+    "title_he":"שילוב Codex של OpenAI בסביבת Xcode",
+    "summary_he":"Apple הכריזה ש-Xcode 26.3 תומכת בשילוב מובנה של סוכן התכנות Codex של OpenAI. מפתחים יכולים להיעזר בו מתוך Xcode במשימות לאורך תהליך פיתוח היישום, לרבות בדיקות, בנייה ותיקון שגיאות.",
+    "announced_at":"2026-02-03","status":"announced",
+    "value":{"amount":null,"currency":null,"qualifier_he":"התנאים המסחריים והיקף התמורה לא פורסמו"},
+    "direction_he":"הקו מציין שילוב מוצר טכנולוגי; לא פורסמה העברת כסף.",
+    "caveat_he":"זהו שילוב בסביבת פיתוח, בנפרד משילוב ChatGPT ב-Siri ובכלי הכתיבה. Apple ציינה גם תמיכה ב-Claude Agent ולא הכריזה על בלעדיות.",
+    "sources":[{"url":"https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/","title":"Xcode 26.3 unlocks the power of agentic coding","publisher":"Apple","published_at":"2026-02-03","kind":"primary"}],
+    "verified_at":"2026-11-06","audit":{"reviewed_at":"2026-11-06","note_he":"נבדקה הודעת Apple בנוגע לשילוב Codex ב-Xcode, בנפרד משילוב ChatGPT במכשירים."}
+  },
+  {
+    "id":"apple-nvidia-private-cloud-compute-2026",
+    "source":"apple","target":"nvidia","type":"partnership",
+    "title_he":"שיתוף פעולה עם NVIDIA להרחבת Private Cloud Compute",
+    "summary_he":"Apple דיווחה כי עבדה עם NVIDIA ו-Google על הרחבת תשתית Private Cloud Compute למרכזי הנתונים של Google Cloud. המערכת משתמשת במעבדי GPU וביכולות Confidential Computing של NVIDIA כדי להריץ עומסי Apple Intelligence מורכבים.",
+    "announced_at":"2026-06-08","status":"announced",
+    "value":{"amount":null,"currency":null,"qualifier_he":"לא פורסם סכום התקשרות נפרד בין Apple ל-NVIDIA"},
+    "direction_he":"הקו מתאר שיתוף פעולה טכנולוגי בין Apple ל-NVIDIA במסגרת פתרון הכולל גם את Google Cloud.",
+    "caveat_he":"Apple לא פירטה בהודעה מי רוכשת את המעבדים, את תנאי ההתקשרות או את היקפה הכספי. מדובר בשיתוף פעולה משולש, ולא בהוכחה לעסקת רכישה ישירה של Apple.",
+    "sources":[{"url":"https://security.apple.com/blog/expanding-pcc/","title":"Expanding Private Cloud Compute","publisher":"Apple Security Research","published_at":"2026-06-08","kind":"primary"}],
+    "verified_at":"2026-11-06","audit":{"reviewed_at":"2026-11-06","note_he":"Apple מתארת במפורש עבודה עם Google ו-NVIDIA ושימוש במעבדי NVIDIA; לא נחשפו תנאים כספיים."}
+  },
+  {
+    "id":"meta-oracle-ai-cloud-2024",
+    "source":"meta","target":"oracle","type":"compute",
+    "title_he":"Meta מתקשרת עם Oracle לשימוש בתשתיות ענן ל-AI",
+    "summary_he":"במסגרת פרסום תוצאות Oracle בדצמבר 2024, יו״ר החברה לארי אליסון הודיע כי Oracle חתמה על הסכם עם Meta לשימוש בתשתית ענן ה-AI של Oracle, לצד שיתוף פעולה בפיתוח סוכני AI המבוססים על מודלי Llama.",
+    "announced_at":"2024-12-09","status":"signed",
+    "value":{"amount":null,"currency":null,"qualifier_he":"היקף כספי ומשך לא פורסמו בהודעת Oracle"},
+    "direction_he":"Meta משתמשת בתשתית הענן של Oracle; Oracle ו-Meta תיארו גם שיתוף פעולה בפיתוח סוכני AI.",
+    "caveat_he":"Oracle לא ציינה בהודעתה את הסכום, משך החוזה או היקף המחשוב. אין לייחס להסכם סכומים שפורסמו בדיווחים על מגעים אחרים ללא אימות נוסף.",
+    "sources":[{"url":"https://investor.oracle.com/files/doc_financials/2025/q2/2q25-pressrelease-December-final.pdf","title":"Oracle fiscal 2025 second-quarter results","publisher":"Oracle","published_at":"2024-12-09","kind":"primary"}],
+    "verified_at":"2026-11-06","audit":{"reviewed_at":"2026-11-06","note_he":"הודעת התוצאות של Oracle מאשרת במפורש הסכם ענן עם Meta ללא סכום נקוב."}
+  },
+  {
+    "id":"meta-oracle-cloud-talks-reported-2025",
+    "source":"meta","target":"oracle","type":"compute",
+    "title_he":"דיווח: מגעים להרחבת שירותי הענן בהיקף של כ-20 מיליארד דולר",
+    "summary_he":"בספטמבר 2025 דיווחה Reuters, מפי גורם המעורה בפרטים, כי Oracle מנהלת מגעים עם Meta להסכם רב-שנתי בהיקף של כ-20 מיליארד דולר, שיספק למטא קיבולת נוספת לאימון ולהפעלה של מודלי AI.",
+    "announced_at":"2025-09-19","status":"reported",
+    "value":{"amount":20000000000,"currency":"USD","qualifier_he":"כ-20 מיליארד דולר לפי דיווח על מגעים, לא סכום חוזה סופי מאומת"},
+    "direction_he":"לפי הדיווח, Meta עשויה לרכוש שירותי מחשוב נוספים מ-Oracle.",
+    "caveat_he":"זהו דיווח על משא ומתן, והיקף העסקה ומעמדה אינם מאושרים בהודעת החברות. Reuters ציינה באפריל 2026 שהמגעים נמשכים. אין לייחס את הסכום להסכם אחר שהחברות חתמו עליו ב-2024 או לסכום ששולם.",
+    "sources":[{"url":"https://www.reuters.com/business/oracle-talks-with-meta-20-billion-ai-cloud-computing-deal-bloomberg-reports-2025-09-19/","title":"Oracle eyes $20 billion AI cloud computing deal with Meta, source says","publisher":"Reuters","published_at":"2025-09-19","kind":"secondary"},{"url":"https://www.investing.com/news/stock-market-news/factboxfrom-openai-to-nvidia-firms-channel-billions-into-ai-infrastructure-as-demand-booms-4605465","title":"From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms","publisher":"Reuters via Investing.com","published_at":"2026-04","kind":"secondary"}],
+    "verified_at":"2026-11-06","audit":{"reviewed_at":"2026-11-06","note_he":"אומת שמדובר בדיווחים עיתונאיים על מגעים, ללא אישור רשמי לסכום או לסגירה."}
+  },
+  {
+    "id":"oracle-meta-models-marketplace-2026",
+    "source":"oracle","target":"meta","type":"partnership",
+    "title_he":"מוצרי Meta זמינים לרכישה דרך Oracle Marketplace",
+    "summary_he":"Oracle הציגה באוקטובר 2026 את Meta Model API ואת Muse Code בין פתרונות הבינה המלאכותית הזמינים דרך Oracle Marketplace, המספקת ללקוחות מסלול לרכישת מוצרי שותפים במסגרת תהליכי הרכש של Oracle.",
+    "announced_at":"2026-10-23","status":"announced",
+    "value":{"amount":null,"currency":null,"qualifier_he":"תנאים כספיים בין Oracle ל-Meta לא פורסמו בהודעה"},
+    "direction_he":"הקו מציין את הפצת מוצרי Meta ללקוחות באמצעות שוק היישומים של Oracle, ולא בהכרח תשלום בין החברות.",
+    "caveat_he":"Oracle דיווחה על הרחבה כללית של Marketplace ועל התחייבות נפרדת של מיליארד דולר לאקוסיסטם השותפים; הסכום אינו מיוחס ל-Meta.",
+    "sources":[{"url":"https://www.oracle.com/middleeast/news/announcement/ai-world-oracle-expands-marketplace-to-unlock-new-partner-growth-opportunities-2026-10-23/","title":"Oracle Expands Marketplace to Unlock New Partner Growth Opportunities","publisher":"Oracle","published_at":"2026-10-23","kind":"primary"}],
+    "verified_at":"2026-11-06","audit":{"reviewed_at":"2026-11-06","note_he":"Oracle מונה במפורש את Meta Model API ו-Muse Code בדוגמאות הפתרונות בשוק."}
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "oracle-amazon-multicloud-2026", "source": "oracle", "target": "amazon", "type": "partnership",
+    "title_he": "Oracle ו-AWS מרחיבות את שותפות מסדי הנתונים בענן",
+    "summary_he": "באוגוסט 2026 חתמו Oracle ו-AWS על הסכם שיתוף פעולה אסטרטגי ארוך טווח להאצת העברת לקוחות ל-Oracle AI Database@AWS. השירות מאפשר להריץ מסדי נתונים של Oracle בסביבת AWS ולשלבם בשירותי אנליטיקה ובינה מלאכותית של Amazon.",
+    "announced_at": "2026-08-13", "status": "signed",
+    "value": {"amount": null, "currency": null, "qualifier_he": "סכום ההסכם לא פורסם"},
+    "direction_he": "שותפות מסחרית הדדית, והחץ אינו מציין תשלום מוגדר.",
+    "caveat_he": "שיתוף הפעולה להרחבת מסד הנתונים אינו מעיד על עסקת רכישת מחשוב בין החברות בסכום ידוע.",
+    "sources": [{"url": "https://www.oracle.com/europe/news/announcement/oracle-and-aws-deepen-strategic-collaboration-as-enterprise-adoption-of-oracle-ai-database-at-aws-accelerates-2026-08-13/", "title": "Oracle and AWS Deepen Strategic Collaboration", "publisher": "Oracle", "published_at": "2026-08-13", "kind": "primary"}],
+    "verified_at": "2026-11-06", "audit": {"reviewed_at":"2026-11-06","note_he":"נבדקה הודעת Oracle על ההסכם המורחב והתמיכה בשירותי AI של AWS."}
+  },
+  {
+    "id": "oracle-google-multicloud-2024", "source": "oracle", "target": "google", "type": "partnership",
+    "title_he": "Oracle Database פועל במרכזי הנתונים של Google Cloud",
+    "summary_he": "בספטמבר 2024 Oracle ו-Google Cloud הכריזו על זמינות מסחרית של Oracle Database@Google Cloud, המאפשר ללקוחות להפעיל שירותי מסד נתונים של Oracle במרכזי הנתונים של Google ולשלבם ב-Vertex AI ובמודלי Gemini.",
+    "announced_at": "2024-09-09", "status": "announced",
+    "value": {"amount": null, "currency": null, "qualifier_he": "שווי השותפות לא פורסם"},
+    "direction_he": "שיתוף פעולה להפצת שירותי מסדי נתונים; החץ אינו מצביע על תשלום.",
+    "caveat_he": "זמינות באזורים שונים ומגוון השירותים יכולים להשתנות, והיקף ההכנסות שכל חברה מפיקה לא פורסם.",
+    "sources": [{"url": "https://www.oracle.com/news/announcement/ocw24-oracle-and-google-cloud-announce-the-general-availability-of-oracle-database-at-google-cloud-2024-09-09/", "title": "Oracle and Google Cloud Announce the General Availability of Oracle Database@Google Cloud", "publisher": "Oracle", "published_at": "2024-09-09", "kind": "primary"},{"url":"https://cloud.google.com/blog/products/databases/oracle-ai-databasegoogle-cloud-whats-new-at-oracle-ai-world","title":"Powering the agentic enterprise with Oracle AI Database@Google Cloud","publisher":"Google Cloud","published_at":"2026-10-27","kind":"primary"}],
+    "verified_at": "2026-11-06", "audit": {"reviewed_at":"2026-11-06","note_he":"נבדקו ההודעה המקורית ועדכון Google Cloud מאוקטובר 2026."}
+  },
+  {
+    "id": "oracle-microsoft-database-azure-2023", "source": "oracle", "target": "microsoft", "type": "partnership",
+    "title_he": "Oracle Database@Azure משלב את מסדי Oracle ב-Azure",
+    "summary_he": "Oracle ו-Microsoft השיקו את Oracle Database@Azure, שירות המעניק גישה למסדי הנתונים של Oracle Cloud Infrastructure הנפרסים במרכזי הנתונים של Azure. הלקוחות יכולים לשלב נתונים ארגוניים עם שירותי הענן וה-AI של Microsoft.",
+    "announced_at": "2023-09-14", "status": "announced",
+    "value": {"amount": null, "currency": null, "qualifier_he": "שווי השותפות לא פורסם"},
+    "direction_he": "שותפות להפעלת מסדי נתונים בין עננים; החץ אינו מתאר תשלום.",
+    "caveat_he": "זהו הסכם מסדי נתונים נפרד מעסקאות שבהן Microsoft שוכרת קיבולת מחשוב מ-Oracle.",
+    "sources": [{"url":"https://investor.oracle.com/investor-news/news-details/2023/Microsoft-and-Oracle-Expand-Partnership-to-Deliver-Oracle-Database-Services-on-Oracle-Cloud-Infrastructure-in-Microsoft-Azure/default.aspx","title":"Microsoft and Oracle Expand Partnership to Deliver Oracle Database Services in Microsoft Azure","publisher":"Oracle","published_at":"2023-09-14","kind":"primary"},{"url":"https://blogs.oracle.com/database/accelerate-oracle-database-multicloud-migrations-with-system-integration-partners","title":"Accelerate Oracle Database Multicloud Migrations","publisher":"Oracle","published_at":"2026-10-26","kind":"primary"}],
+    "verified_at": "2026-11-06", "audit": {"reviewed_at":"2026-11-06","note_he":"נבדקו הודעת השותפות ועדכון Oracle לגבי פעילות השירות באוקטובר 2026."}
+  },
+  {
+    "id": "google-oracle-tpu-oci-2026", "source": "oracle", "target": "google", "type": "supply",
+    "title_he": "Google תעמיד מעבדי TPU לרשות לקוחות Oracle Cloud",
+    "summary_he": "באוקטובר 2026 הודיעו Google Cloud ו-Oracle על שותפות שתאפשר ללקוחות Oracle Cloud Infrastructure להשתמש במעבדי ה-TPU של Google לאימון ולהרצת מודלי בינה מלאכותית. פריסת הקיבולת מתוכננת להתחיל במהלך 2027.",
+    "announced_at": "2026-10-27", "status": "announced",
+    "value": {"amount": null, "currency": null, "qualifier_he": "היקף כספי וכמות שבבים לא פורסמו"},
+    "direction_he": "Oracle מספקת ללקוחותיה גישה למעבדי TPU שפותחו ב-Google; תנאי התשלום בין החברות לא פורסמו.",
+    "caveat_he": "במועד ההכרזה מדובר בפריסה עתידית, ולא בהוכחה שהקיבולת כבר זמינה ללקוחות.",
+    "sources": [{"url":"https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure","title":"Bringing Google TPUs to Oracle Cloud Infrastructure","publisher":"Google Cloud","published_at":"2026-10-27","kind":"primary"}],
+    "verified_at": "2026-11-06", "audit": {"reviewed_at":"2026-11-06","note_he":"נבדקה הכרזה משותפת של Google ו-Oracle, כולל מועד פריסה ב-2027."}
+  },
+  {
+    "id": "openai-spacex-cursor-winddown-2026", "source": "spacex", "target": "openai", "type": "partnership",
+    "title_he": "OpenAI הודיעה על סיום מתוכנן של אספקת מודלים ל-Cursor",
+    "summary_he": "לאחר ש-SpaceX רכשה את Cursor, הודיעה OpenAI באוגוסט 2026 כי בכוונתה לסיים את ההסכם לאספקת מודלים ל-Cursor, עם מועד כיבוי מוצע ב-12 בנובמבר 2026.",
+    "announced_at": "2026-08-28", "status": "announced", "indirect": true,
+    "value": {"amount": null, "currency": null, "qualifier_he": "סכום ההסכם לא פורסם"},
+    "direction_he": "Cursor, שנרכשה בידי SpaceX, התקשרה עם OpenAI לקבלת מודלים. זהו קשר דרך חברה שנרכשה ולא הסכם אספקה ישיר של SpaceX.",
+    "caveat_he": "תאריך הסיום הוא מועד מוצע שנמסר בהודעת OpenAI. נכון לתמונת המצב של 6 בנובמבר, הוא טרם הגיע ואין להסיק שההסכם כבר הסתיים.",
+    "sources": [{"url":"https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/","title":"Our decision on Cursor following its acquisition by SpaceX","publisher":"OpenAI","published_at":"2026-08-28","kind":"primary"}],
+    "verified_at": "2026-11-06", "audit": {"reviewed_at":"2026-11-06","note_he":"נבדקה הודעת OpenAI על רכישת Cursor ועל הסיום המוצע, שטרם הגיע במועד תמונת המצב."}
+  }
+]

@@ -1680,6 +1680,39 @@
       "verified_at": "2026-11-06"
     },
     {
+      "id": "review-oracle-nvidia-vera-rubin-2026",
+      "source": "oracle",
+      "target": "nvidia",
+      "type": "supply",
+      "title_he": "Oracle ו-NVIDIA מרחיבות את תשתיות Vera Rubin בענן",
+      "summary_he": "Oracle ו-NVIDIA הודיעו על תוכניות להרחיב מערכות Vera Rubin NVL72 ב-OCI Superclusters להיקף של מספר גיגה־ואטים. החברות הודיעו גם על זמינות כללית של Vera Rubin NVL72 ומעבדי Vera בענן Oracle.",
+      "announced_at": "2026-10-27",
+      "status": "announced",
+      "value": {
+        "amount": null,
+        "currency": null,
+        "qualifier_he": "שווי ההתקשרות לא פורסם"
+      },
+      "capacity_he": "תוכנית הרחבה למספר גיגה־ואטים, ללא פירוט התחייבות כספית.",
+      "direction_he": "Oracle משלבת ציוד ושירותי NVIDIA בתשתיות הענן שלה.",
+      "caveat_he": "ההיקף העתידי הוא תוכנית הרחבה ולא אישור שכל הקיבולת כבר נבנתה או נמסרה.",
+      "sources": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
+          "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale",
+          "publisher": "NVIDIA",
+          "published_at": "2026-10-27",
+          "kind": "primary"
+        }
+      ],
+      "verified_at": "2026-11-06",
+      "audit": {
+        "reviewed_at": "2026-11-06",
+        "basis": "primary-source-review",
+        "note_he": "אומת בהודעה המשותפת, תוך הבחנה בין זמינות מוצרים לתוכנית הרחבה."
+      }
+    },
+    {
       "id": "oracle-openai-apps-2026",
       "source": "oracle",
       "target": "openai",
@@ -1706,6 +1739,101 @@
         }
       ],
       "verified_at": "2026-11-06"
+    },
+    {
+      "id": "google-oracle-tpu-oci-2026",
+      "source": "oracle",
+      "target": "google",
+      "type": "supply",
+      "title_he": "Google תעמיד מעבדי TPU לרשות לקוחות Oracle Cloud",
+      "summary_he": "באוקטובר 2026 הודיעו Google Cloud ו-Oracle על שותפות שתאפשר ללקוחות Oracle Cloud Infrastructure להשתמש במעבדי ה-TPU של Google לאימון ולהרצת מודלי בינה מלאכותית. פריסת הקיבולת מתוכננת להתחיל במהלך 2027.",
+      "announced_at": "2026-10-27",
+      "status": "announced",
+      "value": {
+        "amount": null,
+        "currency": null,
+        "qualifier_he": "היקף כספי וכמות שבבים לא פורסמו"
+      },
+      "direction_he": "Oracle מספקת ללקוחותיה גישה למעבדי TPU שפותחו ב-Google; תנאי התשלום בין החברות לא פורסמו.",
+      "caveat_he": "במועד ההכרזה מדובר בפריסה עתידית, ולא בהוכחה שהקיבולת כבר זמינה ללקוחות.",
+      "sources": [
+        {
+          "url": "https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure",
+          "title": "Bringing Google TPUs to Oracle Cloud Infrastructure",
+          "publisher": "Google Cloud",
+          "published_at": "2026-10-27",
+          "kind": "primary"
+        }
+      ],
+      "verified_at": "2026-11-06",
+      "audit": {
+        "reviewed_at": "2026-11-06",
+        "note_he": "נבדקה הכרזה משותפת של Google ו-Oracle, כולל מועד פריסה ב-2027."
+      }
+    },
+    {
+      "id": "review-nvidia-meta-equity-2026",
+      "source": "nvidia",
+      "target": "meta",
+      "type": "investment",
+      "title_he": "NVIDIA הודיעה על כוונה להשקיע 3 מיליארד דולר בהנפקת Meta",
+      "summary_he": "NVIDIA הודיעה במסגרת הרחבת שיתוף הפעולה עם Meta כי תשקיע 3 מיליארד דולר בהנפקת המניות של Meta. בהודעה NVIDIA מתייחסת להשקעה כעסקה מוצעת, שהשלמתה כפופה לתנאים.",
+      "announced_at": "2026-10-26",
+      "status": "proposed",
+      "value": {
+        "amount": 3000000000,
+        "currency": "USD",
+        "qualifier_he": "סכום ההשקעה שהוכרזה, ולא הוכחה להשלמתה"
+      },
+      "direction_he": "השקעת הון מתוכננת של NVIDIA ב-Meta.",
+      "caveat_he": "המקור אינו מאשר כי ההשקעה הושלמה או נפרעה. התאריך בהודעה של NVIDIA הוא 26 באוקטובר; גרסת קשרי המשקיעים מציגה 27 באוקטובר.",
+      "sources": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "title": "NVIDIA and Meta to Expand Collaboration on Muse",
+          "publisher": "NVIDIA",
+          "published_at": "2026-10-26",
+          "kind": "primary"
+        }
+      ],
+      "verified_at": "2026-11-06",
+      "audit": {
+        "reviewed_at": "2026-11-06",
+        "basis": "primary-source-review",
+        "note_he": "הודעת NVIDIA מבחינה בין סכום ההשקעה המוצעת לבין השלמה בפועל."
+      }
+    },
+    {
+      "id": "review-meta-nvidia-muse-2026",
+      "source": "meta",
+      "target": "nvidia",
+      "type": "partnership",
+      "title_he": "Meta ו-NVIDIA מרחיבות את שיתוף הפעולה על Muse",
+      "summary_he": "החברות הודיעו כי ירחיבו את עבודתן המשותפת על Muse ומשפחת המודלים שלה כדי לשפר ביצועי אימון והסקה. Meta מתכננת גם להרחיב את השימוש בתשתיות Vera Rubin ומעבדי Vera.",
+      "announced_at": "2026-10-26",
+      "status": "announced",
+      "value": {
+        "amount": null,
+        "currency": null,
+        "qualifier_he": "היקף מסחרי של השותפות לא פורסם"
+      },
+      "direction_he": "שותפות הנדסית והרחבת תשתיות. כיוון הקו אינו מציין את ערך התשלומים.",
+      "caveat_he": "תוכניות לפריסות נוספות אינן ראיה לכך שכל המערכות כבר נמסרו. השקעת NVIDIA במניות Meta מוצגת בנפרד.",
+      "sources": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+          "title": "NVIDIA and Meta to Expand Collaboration on Muse",
+          "publisher": "NVIDIA",
+          "published_at": "2026-10-26",
+          "kind": "primary"
+        }
+      ],
+      "verified_at": "2026-11-06",
+      "audit": {
+        "reviewed_at": "2026-11-06",
+        "basis": "primary-source-review",
+        "note_he": "אומת בהודעת NVIDIA; התוכניות וההשקעה מוצגות בנפרד."
+      }
     },
     {
       "id": "hw-broadcom-anthropic-risk-support",
@@ -1761,6 +1889,37 @@
         }
       ],
       "verified_at": "2026-11-06"
+    },
+    {
+      "id": "oracle-meta-models-marketplace-2026",
+      "source": "oracle",
+      "target": "meta",
+      "type": "partnership",
+      "title_he": "מוצרי Meta זמינים לרכישה דרך Oracle Marketplace",
+      "summary_he": "Oracle הציגה באוקטובר 2026 את Meta Model API ואת Muse Code בין פתרונות הבינה המלאכותית הזמינים דרך Oracle Marketplace, המספקת ללקוחות מסלול לרכישת מוצרי שותפים במסגרת תהליכי הרכש של Oracle.",
+      "announced_at": "2026-10-23",
+      "status": "announced",
+      "value": {
+        "amount": null,
+        "currency": null,
+        "qualifier_he": "תנאים כספיים בין Oracle ל-Meta לא פורסמו בהודעה"
+      },
+      "direction_he": "הקו מציין את הפצת מוצרי Meta ללקוחות באמצעות שוק היישומים של Oracle, ולא בהכרח תשלום בין החברות.",
+      "caveat_he": "Oracle דיווחה על הרחבה כללית של Marketplace ועל התחייבות נפרדת של מיליארד דולר לאקוסיסטם השותפים; הסכום אינו מיוחס ל-Meta.",
+      "sources": [
+        {
+          "url": "https://www.oracle.com/middleeast/news/announcement/ai-world-oracle-expands-marketplace-to-unlock-new-partner-growth-opportunities-2026-10-23/",
+          "title": "Oracle Expands Marketplace to Unlock New Partner Growth Opportunities",
+          "publisher": "Oracle",
+          "published_at": "2026-10-23",
+          "kind": "primary"
+        }
+      ],
+      "verified_at": "2026-11-06",
+      "audit": {
+        "reviewed_at": "2026-11-06",
+        "note_he": "Oracle מונה במפורש את Meta Model API ו-Muse Code בדוגמאות הפתרונות בשוק."
+      }
     },
     {
       "id": "citi-nebius-facility-2026",
@@ -2499,6 +2658,38 @@
       "verified_at": "2026-11-06"
     },
     {
+      "id": "openai-spacex-cursor-winddown-2026",
+      "source": "spacex",
+      "target": "openai",
+      "type": "partnership",
+      "title_he": "OpenAI הודיעה על סיום מתוכנן של אספקת מודלים ל-Cursor",
+      "summary_he": "לאחר ש-SpaceX רכשה את Cursor, הודיעה OpenAI באוגוסט 2026 כי בכוונתה לסיים את ההסכם לאספקת מודלים ל-Cursor, עם מועד כיבוי מוצע ב-12 בנובמבר 2026.",
+      "announced_at": "2026-08-28",
+      "status": "announced",
+      "indirect": true,
+      "value": {
+        "amount": null,
+        "currency": null,
+        "qualifier_he": "סכום ההסכם לא פורסם"
+      },
+      "direction_he": "Cursor, שנרכשה בידי SpaceX, התקשרה עם OpenAI לקבלת מודלים. זהו קשר דרך חברה שנרכשה ולא הסכם אספקה ישיר של SpaceX.",
+      "caveat_he": "תאריך הסיום הוא מועד מוצע שנמסר בהודעת OpenAI. נכון לתמונת המצב של 6 בנובמבר, הוא טרם הגיע ואין להסיק שההסכם כבר הסתיים.",
+      "sources": [
+        {
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+          "title": "Our decision on Cursor following its acquisition by SpaceX",
+          "publisher": "OpenAI",
+          "published_at": "2026-08-28",
+          "kind": "primary"
+        }
+      ],
+      "verified_at": "2026-11-06",
+      "audit": {
+        "reviewed_at": "2026-11-06",
+        "note_he": "נבדקה הודעת OpenAI על רכישת Cursor ועל הסיום המוצע, שטרם הגיע במועד תמונת המצב."
+      }
+    },
+    {
       "id": "hw-marvell-tsmc-capacity",
       "source": "marvell",
       "target": "tsmc",
@@ -2726,6 +2917,37 @@
         }
       ],
       "verified_at": "2026-11-06"
+    },
+    {
+      "id": "oracle-amazon-multicloud-2026",
+      "source": "oracle",
+      "target": "amazon",
+      "type": "partnership",
+      "title_he": "Oracle ו-AWS מרחיבות את שותפות מסדי הנתונים בענן",
+      "summary_he": "באוגוסט 2026 חתמו Oracle ו-AWS על הסכם שיתוף פעולה אסטרטגי ארוך טווח להאצת העברת לקוחות ל-Oracle AI Database@AWS. השירות מאפשר להריץ מסדי נתונים של Oracle בסביבת AWS ולשלבם בשירותי אנליטיקה ובינה מלאכותית של Amazon.",
+      "announced_at": "2026-08-13",
+      "status": "signed",
+      "value": {
+        "amount": null,
+        "currency": null,
+        "qualifier_he": "סכום ההסכם לא פורסם"
+      },
+      "direction_he": "שותפות מסחרית הדדית, והחץ אינו מציין תשלום מוגדר.",
+      "caveat_he": "שיתוף הפעולה להרחבת מסד הנתונים אינו מעיד על עסקת רכישת מחשוב בין החברות בסכום ידוע.",
+      "sources": [
+        {
+          "url": "https://www.oracle.com/europe/news/announcement/oracle-and-aws-deepen-strategic-collaboration-as-enterprise-adoption-of-oracle-ai-database-at-aws-accelerates-2026-08-13/",
+          "title": "Oracle and AWS Deepen Strategic Collaboration",
+          "publisher": "Oracle",
+          "published_at": "2026-08-13",
+          "kind": "primary"
+        }
+      ],
+      "verified_at": "2026-11-06",
+      "audit": {
+        "reviewed_at": "2026-11-06",
+        "note_he": "נבדקה הודעת Oracle על ההסכם המורחב והתמיכה בשירותי AI של AWS."
+      }
     },
     {
       "id": "microsoft-coreweave-customer-2026",
@@ -3225,6 +3447,37 @@
       ],
       "verified_at": "2026-11-06",
       "indirect": true
+    },
+    {
+      "id": "apple-nvidia-private-cloud-compute-2026",
+      "source": "apple",
+      "target": "nvidia",
+      "type": "partnership",
+      "title_he": "שיתוף פעולה עם NVIDIA להרחבת Private Cloud Compute",
+      "summary_he": "Apple דיווחה כי עבדה עם NVIDIA ו-Google על הרחבת תשתית Private Cloud Compute למרכזי הנתונים של Google Cloud. המערכת משתמשת במעבדי GPU וביכולות Confidential Computing של NVIDIA כדי להריץ עומסי Apple Intelligence מורכבים.",
+      "announced_at": "2026-06-08",
+      "status": "announced",
+      "value": {
+        "amount": null,
+        "currency": null,
+        "qualifier_he": "לא פורסם סכום התקשרות נפרד בין Apple ל-NVIDIA"
+      },
+      "direction_he": "הקו מתאר שיתוף פעולה טכנולוגי בין Apple ל-NVIDIA במסגרת פתרון הכולל גם את Google Cloud.",
+      "caveat_he": "Apple לא פירטה בהודעה מי רוכשת את המעבדים, את תנאי ההתקשרות או את היקפה הכספי. מדובר בשיתוף פעולה משולש, ולא בהוכחה לעסקת רכישה ישירה של Apple.",
+      "sources": [
+        {
+          "url": "https://security.apple.com/blog/expanding-pcc/",
+          "title": "Expanding Private Cloud Compute",
+          "publisher": "Apple Security Research",
+          "published_at": "2026-06-08",
+          "kind": "primary"
+        }
+      ],
+      "verified_at": "2026-11-06",
+      "audit": {
+        "reviewed_at": "2026-11-06",
+        "note_he": "Apple מתארת במפורש עבודה עם Google ו-NVIDIA ושימוש במעבדי NVIDIA; לא נחשפו תנאים כספיים."
+      }
     },
     {
       "id": "apple-google-pcc-2026",
@@ -5437,6 +5690,75 @@
       "verified_at": "2026-11-06"
     },
     {
+      "id": "apple-openai-xcode-codex-2026",
+      "source": "apple",
+      "target": "openai",
+      "type": "partnership",
+      "title_he": "שילוב Codex של OpenAI בסביבת Xcode",
+      "summary_he": "Apple הכריזה ש-Xcode 26.3 תומכת בשילוב מובנה של סוכן התכנות Codex של OpenAI. מפתחים יכולים להיעזר בו מתוך Xcode במשימות לאורך תהליך פיתוח היישום, לרבות בדיקות, בנייה ותיקון שגיאות.",
+      "announced_at": "2026-02-03",
+      "status": "announced",
+      "value": {
+        "amount": null,
+        "currency": null,
+        "qualifier_he": "התנאים המסחריים והיקף התמורה לא פורסמו"
+      },
+      "direction_he": "הקו מציין שילוב מוצר טכנולוגי; לא פורסמה העברת כסף.",
+      "caveat_he": "זהו שילוב בסביבת פיתוח, בנפרד משילוב ChatGPT ב-Siri ובכלי הכתיבה. Apple ציינה גם תמיכה ב-Claude Agent ולא הכריזה על בלעדיות.",
+      "sources": [
+        {
+          "url": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
+          "title": "Xcode 26.3 unlocks the power of agentic coding",
+          "publisher": "Apple",
+          "published_at": "2026-02-03",
+          "kind": "primary"
+        }
+      ],
+      "verified_at": "2026-11-06",
+      "audit": {
+        "reviewed_at": "2026-11-06",
+        "note_he": "נבדקה הודעת Apple בנוגע לשילוב Codex ב-Xcode, בנפרד משילוב ChatGPT במכשירים."
+      }
+    },
+    {
+      "id": "apple-anthropic-xcode-claude-agent-2026",
+      "source": "apple",
+      "target": "anthropic",
+      "type": "partnership",
+      "title_he": "שילוב Claude Agent בסביבת הפיתוח Xcode",
+      "summary_he": "Apple ו-Anthropic הודיעו כי Xcode 26.3 כוללת שילוב מובנה של Claude Agent SDK. מפתחים יכולים להפעיל את סוכן התכנות של Anthropic מתוך סביבת הפיתוח של Apple, בין היתר לצורך כתיבת קוד, בדיקת פרויקטים ותיקון שגיאות.",
+      "announced_at": "2026-02-03",
+      "status": "announced",
+      "value": {
+        "amount": null,
+        "currency": null,
+        "qualifier_he": "התנאים המסחריים והיקף התמורה לא פורסמו"
+      },
+      "direction_he": "הקו מציין שילוב מוצר טכנולוגי בין Apple ל-Anthropic, ולא העברת כסף ידועה.",
+      "caveat_he": "במועד ההכרזה הגרסה הייתה זמינה למפתחים כגרסת מועמדת לשחרור. ההודעה אינה מפרטת סכום עסקה או בלעדיות.",
+      "sources": [
+        {
+          "url": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
+          "title": "Xcode 26.3 unlocks the power of agentic coding",
+          "publisher": "Apple",
+          "published_at": "2026-02-03",
+          "kind": "primary"
+        },
+        {
+          "url": "https://www.anthropic.com/news/apple-xcode-claude-agent-sdk",
+          "title": "Apple’s Xcode now supports the Claude Agent SDK",
+          "publisher": "Anthropic",
+          "published_at": "2026-02-03",
+          "kind": "primary"
+        }
+      ],
+      "verified_at": "2026-11-06",
+      "audit": {
+        "reviewed_at": "2026-11-06",
+        "note_he": "שתי החברות מאשרות את שילוב Claude Agent SDK ב-Xcode; סכום ההתקשרות לא נמסר."
+      }
+    },
+    {
       "id": "snowflake-openai-2026",
       "source": "snowflake",
       "target": "openai",
@@ -6373,6 +6695,44 @@
       "superseded_by": "nv-openai-investment-2026"
     },
     {
+      "id": "meta-oracle-cloud-talks-reported-2025",
+      "source": "meta",
+      "target": "oracle",
+      "type": "compute",
+      "title_he": "דיווח: מגעים להרחבת שירותי הענן בהיקף של כ-20 מיליארד דולר",
+      "summary_he": "בספטמבר 2025 דיווחה Reuters, מפי גורם המעורה בפרטים, כי Oracle מנהלת מגעים עם Meta להסכם רב-שנתי בהיקף של כ-20 מיליארד דולר, שיספק למטא קיבולת נוספת לאימון ולהפעלה של מודלי AI.",
+      "announced_at": "2025-09-19",
+      "status": "reported",
+      "value": {
+        "amount": 20000000000,
+        "currency": "USD",
+        "qualifier_he": "כ-20 מיליארד דולר לפי דיווח על מגעים, לא סכום חוזה סופי מאומת"
+      },
+      "direction_he": "לפי הדיווח, Meta עשויה לרכוש שירותי מחשוב נוספים מ-Oracle.",
+      "caveat_he": "זהו דיווח על משא ומתן, והיקף העסקה ומעמדה אינם מאושרים בהודעת החברות. Reuters ציינה באפריל 2026 שהמגעים נמשכים. אין לייחס את הסכום להסכם אחר שהחברות חתמו עליו ב-2024 או לסכום ששולם.",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/business/oracle-talks-with-meta-20-billion-ai-cloud-computing-deal-bloomberg-reports-2025-09-19/",
+          "title": "Oracle eyes $20 billion AI cloud computing deal with Meta, source says",
+          "publisher": "Reuters",
+          "published_at": "2025-09-19",
+          "kind": "secondary"
+        },
+        {
+          "url": "https://www.investing.com/news/stock-market-news/factboxfrom-openai-to-nvidia-firms-channel-billions-into-ai-infrastructure-as-demand-booms-4605465",
+          "title": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms",
+          "publisher": "Reuters via Investing.com",
+          "published_at": "2026-04",
+          "kind": "secondary"
+        }
+      ],
+      "verified_at": "2026-11-06",
+      "audit": {
+        "reviewed_at": "2026-11-06",
+        "note_he": "אומת שמדובר בדיווחים עיתונאיים על מגעים, ללא אישור רשמי לסכום או לסגירה."
+      }
+    },
+    {
       "id": "nv-intel-equity-2025",
       "source": "nvidia",
       "target": "intel",
@@ -6811,8 +7171,9 @@
       "target": "oracle",
       "type": "compute",
       "title_he": "הסכם Stargate עם Oracle בהיקף העולה על 300 מיליארד דולר",
-      "summary_he": "OpenAI אישרה כי השותפות עם Oracle, שנחתמה ביולי 2025, עולה על 300 מיליארד דולר לאורך חמש שנים. ההסכם נועד לפיתוח קיבולת נוספת של עד 4.5 גיגה-ואט במסגרת Stargate.",
+      "summary_he": "ביולי 2025 OpenAI ו-Oracle הכריזו על הסכם לפיתוח קיבולת נוספת של עד 4.5 גיגה-ואט במסגרת Stargate. בספטמבר 2025 OpenAI מסרה כי היקף השותפות עולה על 300 מיליארד דולר לאורך חמש שנים.",
       "announced_at": "2025-07-22",
+      "date_basis_he": "מועד הכרזת ההסכם. סכום השותפות פורסם מאוחר יותר, ב-23 בספטמבר 2025.",
       "status": "signed",
       "value": {
         "amount": 300000000000,
@@ -6823,6 +7184,13 @@
       "direction_he": "הלקוחה רוכשת שירותים מהספקית.",
       "caveat_he": "זהו היקף השותפות בין שתי החברות, לא שווי השקעת הון. אין לסכום אותו שוב עם יעד Stargate הכולל של 500 מיליארד דולר.",
       "sources": [
+        {
+          "url": "https://openai.com/index/stargate-advances-with-partnership-with-oracle/",
+          "title": "Stargate advances with 4.5 GW partnership with Oracle",
+          "publisher": "OpenAI",
+          "published_at": "2025-07-22",
+          "kind": "primary"
+        },
         {
           "url": "https://openai.com/index/five-new-stargate-sites/",
           "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI data center sites",
@@ -7286,6 +7654,37 @@
       "verified_at": "2026-11-06"
     },
     {
+      "id": "meta-oracle-ai-cloud-2024",
+      "source": "meta",
+      "target": "oracle",
+      "type": "compute",
+      "title_he": "Meta מתקשרת עם Oracle לשימוש בתשתיות ענן ל-AI",
+      "summary_he": "במסגרת פרסום תוצאות Oracle בדצמבר 2024, יו״ר החברה לארי אליסון הודיע כי Oracle חתמה על הסכם עם Meta לשימוש בתשתית ענן ה-AI של Oracle, לצד שיתוף פעולה בפיתוח סוכני AI המבוססים על מודלי Llama.",
+      "announced_at": "2024-12-09",
+      "status": "signed",
+      "value": {
+        "amount": null,
+        "currency": null,
+        "qualifier_he": "היקף כספי ומשך לא פורסמו בהודעת Oracle"
+      },
+      "direction_he": "Meta משתמשת בתשתית הענן של Oracle; Oracle ו-Meta תיארו גם שיתוף פעולה בפיתוח סוכני AI.",
+      "caveat_he": "Oracle לא ציינה בהודעתה את הסכום, משך החוזה או היקף המחשוב. אין לייחס להסכם סכומים שפורסמו בדיווחים על מגעים אחרים ללא אימות נוסף.",
+      "sources": [
+        {
+          "url": "https://investor.oracle.com/files/doc_financials/2025/q2/2q25-pressrelease-December-final.pdf",
+          "title": "Oracle fiscal 2025 second-quarter results",
+          "publisher": "Oracle",
+          "published_at": "2024-12-09",
+          "kind": "primary"
+        }
+      ],
+      "verified_at": "2026-11-06",
+      "audit": {
+        "reviewed_at": "2026-11-06",
+        "note_he": "הודעת התוצאות של Oracle מאשרת במפורש הסכם ענן עם Meta ללא סכום נקוב."
+      }
+    },
+    {
       "id": "hw-marvell-amazon-eda",
       "source": "marvell",
       "target": "amazon",
@@ -7456,6 +7855,44 @@
         }
       ],
       "verified_at": "2026-11-06"
+    },
+    {
+      "id": "oracle-google-multicloud-2024",
+      "source": "oracle",
+      "target": "google",
+      "type": "partnership",
+      "title_he": "Oracle Database פועל במרכזי הנתונים של Google Cloud",
+      "summary_he": "בספטמבר 2024 Oracle ו-Google Cloud הכריזו על זמינות מסחרית של Oracle Database@Google Cloud, המאפשר ללקוחות להפעיל שירותי מסד נתונים של Oracle במרכזי הנתונים של Google ולשלבם ב-Vertex AI ובמודלי Gemini.",
+      "announced_at": "2024-09-09",
+      "status": "announced",
+      "value": {
+        "amount": null,
+        "currency": null,
+        "qualifier_he": "שווי השותפות לא פורסם"
+      },
+      "direction_he": "שיתוף פעולה להפצת שירותי מסדי נתונים; החץ אינו מצביע על תשלום.",
+      "caveat_he": "זמינות באזורים שונים ומגוון השירותים יכולים להשתנות, והיקף ההכנסות שכל חברה מפיקה לא פורסם.",
+      "sources": [
+        {
+          "url": "https://www.oracle.com/news/announcement/ocw24-oracle-and-google-cloud-announce-the-general-availability-of-oracle-database-at-google-cloud-2024-09-09/",
+          "title": "Oracle and Google Cloud Announce the General Availability of Oracle Database@Google Cloud",
+          "publisher": "Oracle",
+          "published_at": "2024-09-09",
+          "kind": "primary"
+        },
+        {
+          "url": "https://cloud.google.com/blog/products/databases/oracle-ai-databasegoogle-cloud-whats-new-at-oracle-ai-world",
+          "title": "Powering the agentic enterprise with Oracle AI Database@Google Cloud",
+          "publisher": "Google Cloud",
+          "published_at": "2026-10-27",
+          "kind": "primary"
+        }
+      ],
+      "verified_at": "2026-11-06",
+      "audit": {
+        "reviewed_at": "2026-11-06",
+        "note_he": "נבדקו ההודעה המקורית ועדכון Google Cloud מאוקטובר 2026."
+      }
     },
     {
       "id": "apple-openai-integration-2024",
@@ -7685,6 +8122,38 @@
       "verified_at": "2026-11-06"
     },
     {
+      "id": "review-microsoft-intel-18a-2024",
+      "source": "microsoft",
+      "target": "intel",
+      "type": "supply",
+      "title_he": "Microsoft בחרה בתהליך Intel 18A לייצור שבב מתוכנן",
+      "summary_he": "בפברואר 2024 מסרה Intel כי Microsoft בחרה תכנון שבב שהיא מתכננת לייצר בטכנולוגיית Intel 18A. מנכ״ל Microsoft אישר את התוכנית בהכרזה.",
+      "announced_at": "2024-02-21",
+      "status": "announced",
+      "value": {
+        "amount": null,
+        "currency": null,
+        "qualifier_he": "היקף ההתקשרות עם Microsoft לא פורסם"
+      },
+      "direction_he": "Microsoft היא הלקוחה המתוכננת של שירותי הייצור של Intel Foundry.",
+      "caveat_he": "ההכרזה אינה מזהה את השבב או את היקף ההזמנה, ואינה מוכיחה שהייצור המסחרי הושלם. נתון ההזמנות המצטבר של Intel אינו שייך כולו ל-Microsoft.",
+      "sources": [
+        {
+          "url": "https://www.intel.com/content/www/us/en/newsroom/news/foundry-news-roadmaps-updates.html",
+          "title": "Intel Launches World's First Systems Foundry Designed for the AI Era",
+          "publisher": "Intel",
+          "published_at": "2024-02-21",
+          "kind": "primary"
+        }
+      ],
+      "verified_at": "2026-11-06",
+      "audit": {
+        "reviewed_at": "2026-11-06",
+        "basis": "primary-source-review",
+        "note_he": "נבדקה הכרזת Intel הכוללת את דברי מנכ״ל Microsoft."
+      }
+    },
+    {
       "id": "amazon-anthropic-investment-original-2024",
       "source": "amazon",
       "target": "anthropic",
@@ -7745,6 +8214,44 @@
         }
       ],
       "verified_at": "2026-11-06"
+    },
+    {
+      "id": "oracle-microsoft-database-azure-2023",
+      "source": "oracle",
+      "target": "microsoft",
+      "type": "partnership",
+      "title_he": "Oracle Database@Azure משלב את מסדי Oracle ב-Azure",
+      "summary_he": "Oracle ו-Microsoft השיקו את Oracle Database@Azure, שירות המעניק גישה למסדי הנתונים של Oracle Cloud Infrastructure הנפרסים במרכזי הנתונים של Azure. הלקוחות יכולים לשלב נתונים ארגוניים עם שירותי הענן וה-AI של Microsoft.",
+      "announced_at": "2023-09-14",
+      "status": "announced",
+      "value": {
+        "amount": null,
+        "currency": null,
+        "qualifier_he": "שווי השותפות לא פורסם"
+      },
+      "direction_he": "שותפות להפעלת מסדי נתונים בין עננים; החץ אינו מתאר תשלום.",
+      "caveat_he": "זהו הסכם מסדי נתונים נפרד מעסקאות שבהן Microsoft שוכרת קיבולת מחשוב מ-Oracle.",
+      "sources": [
+        {
+          "url": "https://investor.oracle.com/investor-news/news-details/2023/Microsoft-and-Oracle-Expand-Partnership-to-Deliver-Oracle-Database-Services-on-Oracle-Cloud-Infrastructure-in-Microsoft-Azure/default.aspx",
+          "title": "Microsoft and Oracle Expand Partnership to Deliver Oracle Database Services in Microsoft Azure",
+          "publisher": "Oracle",
+          "published_at": "2023-09-14",
+          "kind": "primary"
+        },
+        {
+          "url": "https://blogs.oracle.com/database/accelerate-oracle-database-multicloud-migrations-with-system-integration-partners",
+          "title": "Accelerate Oracle Database Multicloud Migrations",
+          "publisher": "Oracle",
+          "published_at": "2026-10-26",
+          "kind": "primary"
+        }
+      ],
+      "verified_at": "2026-11-06",
+      "audit": {
+        "reviewed_at": "2026-11-06",
+        "note_he": "נבדקו הודעת השותפות ועדכון Oracle לגבי פעילות השירות באוקטובר 2026."
+      }
     },
     {
       "id": "google-anthropic-notes-historical-2023-2025",

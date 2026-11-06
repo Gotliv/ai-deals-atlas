@@ -1,0 +1,55 @@
+[
+  {
+    "id":"review-nvidia-meta-equity-2026",
+    "source":"nvidia","target":"meta","type":"investment",
+    "title_he":"NVIDIA הודיעה על כוונה להשקיע 3 מיליארד דולר בהנפקת Meta",
+    "summary_he":"NVIDIA הודיעה במסגרת הרחבת שיתוף הפעולה עם Meta כי תשקיע 3 מיליארד דולר בהנפקת המניות של Meta. בהודעה NVIDIA מתייחסת להשקעה כעסקה מוצעת, שהשלמתה כפופה לתנאים.",
+    "announced_at":"2026-10-26","status":"proposed",
+    "value":{"amount":3000000000,"currency":"USD","qualifier_he":"סכום ההשקעה שהוכרזה, ולא הוכחה להשלמתה"},
+    "direction_he":"השקעת הון מתוכננת של NVIDIA ב-Meta.",
+    "caveat_he":"המקור אינו מאשר כי ההשקעה הושלמה או נפרעה. התאריך בהודעה של NVIDIA הוא 26 באוקטובר; גרסת קשרי המשקיעים מציגה 27 באוקטובר.",
+    "sources":[{"url":"https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth","title":"NVIDIA and Meta to Expand Collaboration on Muse","publisher":"NVIDIA","published_at":"2026-10-26","kind":"primary"}],
+    "verified_at":"2026-11-06",
+    "audit":{"reviewed_at":"2026-11-06","basis":"primary-source-review","note_he":"הודעת NVIDIA מבחינה בין סכום ההשקעה המוצעת לבין השלמה בפועל."}
+  },
+  {
+    "id":"review-meta-nvidia-muse-2026",
+    "source":"meta","target":"nvidia","type":"partnership",
+    "title_he":"Meta ו-NVIDIA מרחיבות את שיתוף הפעולה על Muse",
+    "summary_he":"החברות הודיעו כי ירחיבו את עבודתן המשותפת על Muse ומשפחת המודלים שלה כדי לשפר ביצועי אימון והסקה. Meta מתכננת גם להרחיב את השימוש בתשתיות Vera Rubin ומעבדי Vera.",
+    "announced_at":"2026-10-26","status":"announced",
+    "value":{"amount":null,"currency":null,"qualifier_he":"היקף מסחרי של השותפות לא פורסם"},
+    "direction_he":"שותפות הנדסית והרחבת תשתיות. כיוון הקו אינו מציין את ערך התשלומים.",
+    "caveat_he":"תוכניות לפריסות נוספות אינן ראיה לכך שכל המערכות כבר נמסרו. השקעת NVIDIA במניות Meta מוצגת בנפרד.",
+    "sources":[{"url":"https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth","title":"NVIDIA and Meta to Expand Collaboration on Muse","publisher":"NVIDIA","published_at":"2026-10-26","kind":"primary"}],
+    "verified_at":"2026-11-06",
+    "audit":{"reviewed_at":"2026-11-06","basis":"primary-source-review","note_he":"אומת בהודעת NVIDIA; התוכניות וההשקעה מוצגות בנפרד."}
+  },
+  {
+    "id":"review-oracle-nvidia-vera-rubin-2026",
+    "source":"oracle","target":"nvidia","type":"supply",
+    "title_he":"Oracle ו-NVIDIA מרחיבות את תשתיות Vera Rubin בענן",
+    "summary_he":"Oracle ו-NVIDIA הודיעו על תוכניות להרחיב מערכות Vera Rubin NVL72 ב-OCI Superclusters להיקף של מספר גיגה־ואטים. החברות הודיעו גם על זמינות כללית של Vera Rubin NVL72 ומעבדי Vera בענן Oracle.",
+    "announced_at":"2026-10-27","status":"announced",
+    "value":{"amount":null,"currency":null,"qualifier_he":"שווי ההתקשרות לא פורסם"},
+    "capacity_he":"תוכנית הרחבה למספר גיגה־ואטים, ללא פירוט התחייבות כספית.",
+    "direction_he":"Oracle משלבת ציוד ושירותי NVIDIA בתשתיות הענן שלה.",
+    "caveat_he":"ההיקף העתידי הוא תוכנית הרחבה ולא אישור שכל הקיבולת כבר נבנתה או נמסרה.",
+    "sources":[{"url":"https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure","title":"NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale","publisher":"NVIDIA","published_at":"2026-10-27","kind":"primary"}],
+    "verified_at":"2026-11-06",
+    "audit":{"reviewed_at":"2026-11-06","basis":"primary-source-review","note_he":"אומת בהודעה המשותפת, תוך הבחנה בין זמינות מוצרים לתוכנית הרחבה."}
+  },
+  {
+    "id":"review-microsoft-intel-18a-2024",
+    "source":"microsoft","target":"intel","type":"supply",
+    "title_he":"Microsoft בחרה בתהליך Intel 18A לייצור שבב מתוכנן",
+    "summary_he":"בפברואר 2024 מסרה Intel כי Microsoft בחרה תכנון שבב שהיא מתכננת לייצר בטכנולוגיית Intel 18A. מנכ״ל Microsoft אישר את התוכנית בהכרזה.",
+    "announced_at":"2024-02-21","status":"announced",
+    "value":{"amount":null,"currency":null,"qualifier_he":"היקף ההתקשרות עם Microsoft לא פורסם"},
+    "direction_he":"Microsoft היא הלקוחה המתוכננת של שירותי הייצור של Intel Foundry.",
+    "caveat_he":"ההכרזה אינה מזהה את השבב או את היקף ההזמנה, ואינה מוכיחה שהייצור המסחרי הושלם. נתון ההזמנות המצטבר של Intel אינו שייך כולו ל-Microsoft.",
+    "sources":[{"url":"https://www.intel.com/content/www/us/en/newsroom/news/foundry-news-roadmaps-updates.html","title":"Intel Launches World's First Systems Foundry Designed for the AI Era","publisher":"Intel","published_at":"2024-02-21","kind":"primary"}],
+    "verified_at":"2026-11-06",
+    "audit":{"reviewed_at":"2026-11-06","basis":"primary-source-review","note_he":"נבדקה הכרזת Intel הכוללת את דברי מנכ״ל Microsoft."}
+  }
+]
