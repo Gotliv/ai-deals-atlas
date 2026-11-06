@@ -153,11 +153,11 @@
   },
   {
     "id": "hws-xai-oracle-cloud",
-    "source": "xai",
+    "source": "spacex",
     "target": "oracle",
     "type": "compute",
     "title_he": "Oracle אישרה הסכם ענן עם xAI",
-    "summary_he": "Oracle דיווחה במרץ 2025 שחתמה על הסכמי ענן עם כמה חברות טכנולוגיה, ובהן xAI. המקור מאשר קשר מסחרי בין הצדדים אך אינו מפרט את שווי ההסכם של xAI או את משכו.",
+    "summary_he": "Oracle דיווחה במרץ 2025 שחתמה על הסכם ענן עם xAI, שנרכשה בידי SpaceX בפברואר 2026. המקור אינו מפרט את שווי ההסכם או את משכו.",
     "announced_at": "2025-03-10",
     "status": "signed",
     "value": {
@@ -182,10 +182,10 @@
   {
     "id": "hws-oracle-xai-grok-distribution",
     "source": "oracle",
-    "target": "xai",
+    "target": "spacex",
     "type": "partnership",
     "title_he": "Grok 4.7 זמין ללקוחות הענן של Oracle",
-    "summary_he": "Oracle הודיעה בספטמבר 2026 על זמינות Grok 4.7 לפי דרישה בשירות OCI Generative AI. זהו קשר הפצה וגישה מסחרי למודלי xAI באמצעות פלטפורמת הענן של Oracle.",
+    "summary_he": "Oracle הודיעה בספטמבר 2026 על זמינות Grok 4.7 לפי דרישה בשירות OCI Generative AI. זהו קשר הפצה למודלי xAI, שנרכשה בידי SpaceX בפברואר 2026.",
     "announced_at": "2026-09-25",
     "status": "completed",
     "value": {

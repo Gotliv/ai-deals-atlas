@@ -1,0 +1,30 @@
+[
+  {
+    "id": "microsoft-spacex-xai-grok-foundry",
+    "source": "microsoft", "target": "spacex", "type": "partnership",
+    "title_he": "Microsoft מציעה את מודלי Grok של SpaceX AI",
+    "summary_he": "Microsoft מציעה את מודלי Grok של SpaceX AI ללקוחות Microsoft Foundry. השילוב החל במאי 2025 עם xAI, שנרכשה בידי SpaceX בפברואר 2026.",
+    "announced_at": "2025-05-19", "status": "completed",
+    "value": {"amount": null, "currency": null, "qualifier_he": "שווי ההסכם לא פורסם"},
+    "direction_he": "הפצת מודלי בינה מלאכותית באמצעות פלטפורמת הענן",
+    "caveat_he": "הזמינות של Grok אינה מעידה כשלעצמה על השקעה או על חוזה להשכרת כוח מחשוב מ-SpaceX ל-Microsoft.",
+    "sources": [
+      {"url": "https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/", "title": "Microsoft Build 2025", "publisher": "Microsoft", "published_at": "2025-05-19", "kind": "primary"},
+      {"url": "https://learn.microsoft.com/en-us/azure/foundry/foundry-models/concepts/models-sold-directly-by-azure", "title": "Foundry Models sold by Azure", "publisher": "Microsoft", "published_at": null, "kind": "primary"}
+    ], "verified_at": "2026-11-06"
+  },
+  {
+    "id": "tesla-tsmc-ai-chip-supply",
+    "source": "tesla", "target": "tsmc", "type": "supply",
+    "title_he": "TSMC מספקת שבבים ל-Tesla ומתוכננת לייצר AI5",
+    "summary_he": "Tesla דיווחה על הסכמי אספקת שבבים עם TSMC באריזונה. אילון מאסק אמר כי גרסאות של שבב AI5 מתוכננות לייצור ב-TSMC וב-Samsung.",
+    "announced_at": "2026-01-28", "status": "announced",
+    "value": {"amount": null, "currency": null, "qualifier_he": "שווי ההסכם לא פורסם"},
+    "direction_he": "Tesla רוכשת שבבים המיוצרים בידי TSMC",
+    "caveat_he": "הודעה על תוכניות ייצור אינה מאשרת שהחל ייצור AI5 בהיקף מסחרי. אין לייחס להסכם זה את שווי ההסכם הנפרד עם Samsung.",
+    "sources": [
+      {"url": "https://earningscalls.dev/transcripts/tesla-inc_tsla_earnings_call_transcript_2026-01-28", "title": "Tesla Q4 2025 earnings call transcript", "publisher": "Tesla earnings call transcript", "published_at": "2026-01-28", "kind": "primary"},
+      {"url": "https://www.tradingview.com/news/reuters.com%2C2025%3Anewsml_L8N3WG2ZI%3A0-musk-says-slightly-different-versions-of-the-tesla-ai5-chip-will-be-made-at-tsmc-and-samsung/", "title": "Musk says Tesla AI5 will be made at TSMC and Samsung", "publisher": "Reuters", "published_at": "2025-11-04", "kind": "secondary"}
+    ], "verified_at": "2026-11-06"
+  }
+]
