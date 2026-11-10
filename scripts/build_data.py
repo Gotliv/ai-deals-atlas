@@ -112,7 +112,7 @@ def main():
         companies.append(dict(id=id,name=n,name_he=he,sector=sector,domain=domain,description_he=desc,logo=f'assets/logos/{id}.svg',core=id in CORE,requested=id in REQUESTED,node_type='project' if id=='stargate' else 'company',size=sizes['companies'].get(id,{'usd_billion':None,'kind':'unknown'})))
     companies.sort(key=lambda c:(not c['requested'],c['name'].lower()))
     records.sort(key=lambda d:(d['announced_at'],d['id']),reverse=True)
-    data={'meta':{'title':'AI ATLAS','as_of':'2026-11-06','verified_at':'2026-11-06','language':'he','timezone':'Asia/Jerusalem','repository_url':'https://github.com/Gotliv/ai-deals-atlas','update_mode':'manually reviewed research snapshot','coverage_he':'קשרים פומביים שנמצאו ונבדקו; אין התחייבות למיצוי כלל ההסכמים. היעדר קשר במפה אינו הוכחה להיעדר קשר במציאות.','amounts_he':'אין לסכום השקעות, ערבויות, התחייבויות, אופציות והרחבות חופפות.','schema_version':'1.0'},'companies':companies,'deals':records}
+    data={'meta':{'title':'AI ATLAS','as_of':'2026-11-10','verified_at':'2026-11-06','language':'he','timezone':'Asia/Jerusalem','repository_url':'https://github.com/Gotliv/ai-deals-atlas','update_mode':'manually reviewed research snapshot; selected updates on 2026-11-10','coverage_he':'קשרים פומביים שנמצאו ונבדקו; אין התחייבות למיצוי כלל ההסכמים. היעדר קשר במפה אינו הוכחה להיעדר קשר במציאות.','amounts_he':'אין לסכום השקעות, ערבויות, התחייבויות, אופציות והרחבות חופפות.','schema_version':'1.0'},'companies':companies,'deals':records}
     out=ROOT/'public/data/atlas.json'
     out.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps({'deals':len(records),'companies':len(companies),'sources':len({s['url'] for d in records for s in d['sources']}),'output':str(out)}))

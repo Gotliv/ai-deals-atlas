@@ -1,12 +1,12 @@
 {
   "meta": {
     "title": "AI ATLAS",
-    "as_of": "2026-11-06",
+    "as_of": "2026-11-10",
     "verified_at": "2026-11-06",
     "language": "he",
     "timezone": "Asia/Jerusalem",
     "repository_url": "https://github.com/Gotliv/ai-deals-atlas",
-    "update_mode": "manually reviewed research snapshot",
+    "update_mode": "manually reviewed research snapshot; selected updates on 2026-11-10",
     "coverage_he": "קשרים פומביים שנמצאו ונבדקו; אין התחייבות למיצוי כלל ההסכמים. היעדר קשר במפה אינו הוכחה להיעדר קשר במציאות.",
     "amounts_he": "אין לסכום השקעות, ערבויות, התחייבויות, אופציות והרחבות חופפות.",
     "schema_version": "1.0"
@@ -24,16 +24,16 @@
       "requested": true,
       "node_type": "company",
       "size": {
-        "usd_billion": 2813,
+        "usd_billion": 2929,
         "kind": "market_cap",
-        "as_of": "2026-11-06",
+        "as_of": "2026-11-10",
         "source": {
-          "url": "https://companiesmarketcap.com/",
-          "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+          "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+          "title": "Technology companies market capitalization, snapshot 10 November 2026",
           "publisher": "CompaniesMarketCap",
           "kind": "secondary"
         },
-        "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+        "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
       }
     },
     {
@@ -72,16 +72,16 @@
       "requested": true,
       "node_type": "company",
       "size": {
-        "usd_billion": 5001,
+        "usd_billion": 5059,
         "kind": "market_cap",
-        "as_of": "2026-11-06",
+        "as_of": "2026-11-10",
         "source": {
-          "url": "https://companiesmarketcap.com/",
-          "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+          "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+          "title": "Technology companies market capitalization, snapshot 10 November 2026",
           "publisher": "CompaniesMarketCap",
           "kind": "secondary"
         },
-        "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+        "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
       }
     },
     {
@@ -96,16 +96,16 @@
       "requested": true,
       "node_type": "company",
       "size": {
-        "usd_billion": 253.35,
+        "usd_billion": 297.31,
         "kind": "market_cap",
-        "as_of": "2026-11-06",
+        "as_of": "2026-11-10",
         "source": {
-          "url": "https://companiesmarketcap.com/",
-          "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+          "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+          "title": "Technology companies market capitalization, snapshot 10 November 2026",
           "publisher": "CompaniesMarketCap",
           "kind": "secondary"
         },
-        "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+        "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
       }
     },
     {
@@ -120,16 +120,16 @@
       "requested": true,
       "node_type": "company",
       "size": {
-        "usd_billion": 3463,
+        "usd_billion": 3523,
         "kind": "market_cap",
-        "as_of": "2026-11-06",
+        "as_of": "2026-11-10",
         "source": {
-          "url": "https://companiesmarketcap.com/",
-          "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+          "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+          "title": "Technology companies market capitalization, snapshot 10 November 2026",
           "publisher": "CompaniesMarketCap",
           "kind": "secondary"
         },
-        "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+        "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
       }
     },
     {
@@ -144,16 +144,16 @@
       "requested": true,
       "node_type": "company",
       "size": {
-        "usd_billion": 277.7,
+        "usd_billion": 309.97,
         "kind": "market_cap",
-        "as_of": "2026-11-06",
+        "as_of": "2026-11-10",
         "source": {
-          "url": "https://companiesmarketcap.com/",
-          "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+          "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+          "title": "Technology companies market capitalization, snapshot 10 November 2026",
           "publisher": "CompaniesMarketCap",
           "kind": "secondary"
         },
-        "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+        "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
       }
     },
     {
@@ -168,16 +168,16 @@
       "requested": true,
       "node_type": "company",
       "size": {
-        "usd_billion": 1547,
+        "usd_billion": 1642,
         "kind": "market_cap",
-        "as_of": "2026-11-06",
+        "as_of": "2026-11-10",
         "source": {
-          "url": "https://companiesmarketcap.com/",
-          "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+          "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+          "title": "Technology companies market capitalization, snapshot 10 November 2026",
           "publisher": "CompaniesMarketCap",
           "kind": "secondary"
         },
-        "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+        "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
       }
     },
     {
@@ -192,16 +192,16 @@
       "requested": true,
       "node_type": "company",
       "size": {
-        "usd_billion": 3979,
+        "usd_billion": 4030,
         "kind": "market_cap",
-        "as_of": "2026-11-06",
+        "as_of": "2026-11-10",
         "source": {
-          "url": "https://companiesmarketcap.com/",
-          "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+          "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+          "title": "Technology companies market capitalization, snapshot 10 November 2026",
           "publisher": "CompaniesMarketCap",
           "kind": "secondary"
         },
-        "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+        "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
       }
     },
     {
@@ -216,16 +216,16 @@
       "requested": true,
       "node_type": "company",
       "size": {
-        "usd_billion": 4385,
+        "usd_billion": 4115,
         "kind": "market_cap",
-        "as_of": "2026-11-06",
+        "as_of": "2026-11-10",
         "source": {
-          "url": "https://companiesmarketcap.com/",
-          "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+          "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+          "title": "Technology companies market capitalization, snapshot 10 November 2026",
           "publisher": "CompaniesMarketCap",
           "kind": "secondary"
         },
-        "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+        "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
       }
     },
     {
@@ -264,16 +264,16 @@
       "requested": true,
       "node_type": "company",
       "size": {
-        "usd_billion": 359.03,
+        "usd_billion": 370.39,
         "kind": "market_cap",
-        "as_of": "2026-11-06",
+        "as_of": "2026-11-10",
         "source": {
-          "url": "https://companiesmarketcap.com/",
-          "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+          "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+          "title": "Technology companies market capitalization, snapshot 10 November 2026",
           "publisher": "CompaniesMarketCap",
           "kind": "secondary"
         },
-        "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+        "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
       }
     },
     {
@@ -288,16 +288,16 @@
       "requested": true,
       "node_type": "company",
       "size": {
-        "usd_billion": 1678,
+        "usd_billion": 1934,
         "kind": "market_cap",
-        "as_of": "2026-11-06",
+        "as_of": "2026-11-10",
         "source": {
-          "url": "https://companiesmarketcap.com/",
-          "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+          "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+          "title": "Technology companies market capitalization, snapshot 10 November 2026",
           "publisher": "CompaniesMarketCap",
           "kind": "secondary"
         },
-        "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+        "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
       }
     },
     {
@@ -312,16 +312,16 @@
       "requested": true,
       "node_type": "company",
       "size": {
-        "usd_billion": 1358,
+        "usd_billion": 1484,
         "kind": "market_cap",
-        "as_of": "2026-11-06",
+        "as_of": "2026-11-10",
         "source": {
-          "url": "https://companiesmarketcap.com/",
-          "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+          "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+          "title": "Technology companies market capitalization, snapshot 10 November 2026",
           "publisher": "CompaniesMarketCap",
           "kind": "secondary"
         },
-        "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+        "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
       }
     },
     {
@@ -336,16 +336,16 @@
       "requested": true,
       "node_type": "company",
       "size": {
-        "usd_billion": 1831,
+        "usd_billion": 2055,
         "kind": "market_cap",
-        "as_of": "2026-11-06",
+        "as_of": "2026-11-10",
         "source": {
-          "url": "https://companiesmarketcap.com/",
-          "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+          "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+          "title": "Technology companies market capitalization, snapshot 10 November 2026",
           "publisher": "CompaniesMarketCap",
           "kind": "secondary"
         },
-        "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+        "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
       }
     },
     {
@@ -1513,6 +1513,175 @@
     }
   ],
   "deals": [
+    {
+      "id": "tsmc-openai-approved-20261110",
+      "source": "tsmc",
+      "target": "openai",
+      "type": "investment",
+      "title_he": "דירקטוריון TSMC אישר השקעה של עד 500 מיליון דולר ב-OpenAI",
+      "summary_he": "ב-10 בנובמבר אישר דירקטוריון TSMC רכישת מניות בכורה של OpenAI בהיקף שלא יעלה על 500 מיליון דולר.",
+      "announced_at": "2026-11-10",
+      "status": "announced",
+      "value": {
+        "amount": 500000000,
+        "currency": "USD",
+        "qualifier_he": "תקרת השקעה שאושרה, לא סכום שבוצע בהכרח"
+      },
+      "direction_he": "השקעה מאושרת של TSMC ב-OpenAI",
+      "caveat_he": "אישור הדירקטוריון אינו אישור שהרכישה הושלמה.",
+      "sources": [
+        {
+          "url": "https://www.stocktitan.net/sec-filings/TSM/6-k-taiwan-semiconductor-manufacturing-co-ltd-current-report-foreign--58703626e072.html",
+          "title": "TSMC Board of Directors Meeting Resolutions, Form 6-K",
+          "publisher": "TSMC / SEC",
+          "published_at": "2026-11-10",
+          "kind": "primary"
+        }
+      ],
+      "verified_at": "2026-11-10"
+    },
+    {
+      "id": "tsmc-anthropic-approved-20261110",
+      "source": "tsmc",
+      "target": "anthropic",
+      "type": "investment",
+      "title_he": "TSMC אישרה השקעה של עד 500 מיליון דולר ב-Anthropic",
+      "summary_he": "TSMC אישרה השקעה של עד 500 מיליון דולר במניות Anthropic במחיר ההנפקה. בתשקיף Anthropic מופיעה TSMC Partners בהקצאה פרטית המותנית בהשלמת ההנפקה.",
+      "announced_at": "2026-11-10",
+      "status": "announced",
+      "value": {
+        "amount": 500000000,
+        "currency": "USD",
+        "qualifier_he": "תקרת השקעה מאושרת, מותנית בהנפקה"
+      },
+      "direction_he": "השקעה מאושרת של TSMC ב-Anthropic",
+      "caveat_he": "אין לסכום בנפרד את אישור הדירקטוריון וההקצאה הפרטית כאילו היו שתי השקעות; העסקה טרם הושלמה.",
+      "sources": [
+        {
+          "url": "https://www.stocktitan.net/sec-filings/TSM/6-k-taiwan-semiconductor-manufacturing-co-ltd-current-report-foreign--58703626e072.html",
+          "title": "TSMC Board of Directors Meeting Resolutions",
+          "publisher": "TSMC / SEC",
+          "published_at": "2026-11-10",
+          "kind": "primary"
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm",
+          "title": "Anthropic registration statement amendment",
+          "publisher": "Anthropic / SEC",
+          "published_at": "2026-11-10",
+          "kind": "primary"
+        }
+      ],
+      "verified_at": "2026-11-10"
+    },
+    {
+      "id": "nvidia-anthropic-ipo-placement-20261110",
+      "source": "nvidia",
+      "target": "anthropic",
+      "type": "investment",
+      "title_he": "NVIDIA התחייבה להשתתף בהקצאה פרטית של Anthropic",
+      "summary_he": "לפי תשקיף Anthropic, NVIDIA התחייבה לרכוש מניות בכ-10 מיליארד דולר במחיר ההנפקה, בכפוף להשלמת ההנפקה ותנאים נוספים.",
+      "announced_at": "2026-11-10",
+      "status": "signed",
+      "value": {
+        "amount": 10000000000,
+        "currency": "USD",
+        "qualifier_he": "הקצאה פרטית מותנית בהנפקה"
+      },
+      "direction_he": "NVIDIA מתחייבת לרכוש מניות Anthropic",
+      "caveat_he": "אין לסכום אוטומטית עם התחייבויות קודמות של NVIDIA, שעשויות לחפוף; ההשקעה טרם הושלמה.",
+      "sources": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm",
+          "title": "Anthropic S-1/A, concurrent private placement",
+          "publisher": "Anthropic / SEC",
+          "published_at": "2026-11-10",
+          "kind": "primary"
+        }
+      ],
+      "verified_at": "2026-11-10"
+    },
+    {
+      "id": "microsoft-anthropic-ipo-placement-20261110",
+      "source": "microsoft",
+      "target": "anthropic",
+      "type": "investment",
+      "title_he": "Microsoft התחייבה להשתתף בהקצאה פרטית של Anthropic",
+      "summary_he": "לפי תשקיף Anthropic, Microsoft התחייבה לרכוש מניות בכמיליארד דולר במחיר ההנפקה, בכפוף להשלמת ההנפקה ותנאים נוספים.",
+      "announced_at": "2026-11-10",
+      "status": "signed",
+      "value": {
+        "amount": 1000000000,
+        "currency": "USD",
+        "qualifier_he": "הקצאה פרטית מותנית בהנפקה"
+      },
+      "direction_he": "Microsoft מתחייבת לרכוש מניות Anthropic",
+      "caveat_he": "אין לסכום אוטומטית עם התחייבויות קודמות של Microsoft, שעשויות לחפוף; ההשקעה טרם הושלמה.",
+      "sources": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm",
+          "title": "Anthropic S-1/A, concurrent private placement",
+          "publisher": "Anthropic / SEC",
+          "published_at": "2026-11-10",
+          "kind": "primary"
+        }
+      ],
+      "verified_at": "2026-11-10"
+    },
+    {
+      "id": "google-anthropic-ipo-placement-20261110",
+      "source": "google",
+      "target": "anthropic",
+      "type": "investment",
+      "title_he": "Google תרכוש מניות Anthropic בכ-10 מיליארד דולר בהנפקה פרטית מותנית",
+      "summary_he": "לפי תשקיף Anthropic, Google התחייבה לרכוש מניות בהקצאה פרטית בהיקף של כ-10 מיליארד דולר במחיר ההנפקה, בכפוף להשלמת ההנפקה ותנאים נוספים.",
+      "announced_at": "2026-11-10",
+      "status": "signed",
+      "value": {
+        "amount": 10000000000,
+        "currency": "USD",
+        "qualifier_he": "השקעה מותנית שתתבצע לאחר השלמת ההנפקה"
+      },
+      "direction_he": "Google מתחייבת לרכוש מניות Anthropic",
+      "caveat_he": "הסכום חופף לחלק ממסגרת המימון הקיימת של Google; אין לסכום אותו שוב כהתחייבות עצמאית.",
+      "sources": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm",
+          "title": "Anthropic S-1/A, concurrent private placement",
+          "publisher": "Anthropic / SEC",
+          "published_at": "2026-11-10",
+          "kind": "primary"
+        }
+      ],
+      "verified_at": "2026-11-10"
+    },
+    {
+      "id": "microsoft-oracle-ai-capacity-winddown-20261106",
+      "source": "microsoft",
+      "target": "oracle",
+      "type": "compute",
+      "title_he": "Microsoft צמצמה לפי דיווח את קיבולת ה-AI ששכרה מ-Oracle",
+      "summary_he": "Oracle הכריזה ב-2023 ש-Microsoft תשתמש בתשתית ה-AI שלה עבור Bing. ב-6 בנובמבר 2026 Reuters דיווחה, בהסתמך על Bloomberg, ש-Microsoft לא חידשה את החוזה וצמצמה את השימוש בקיבולת המושכרת.",
+      "announced_at": "2026-11-06",
+      "status": "reported",
+      "value": {
+        "amount": null,
+        "currency": null,
+        "qualifier_he": "תנאי העסקה לא פורסמו"
+      },
+      "direction_he": "Microsoft שכרה קיבולת מחשוב מ-Oracle",
+      "caveat_he": "הצמצום דווח על ידי Bloomberg ולא אומת כהודעה משותפת. אין להסיק שבוטלה שותפות מסדי הנתונים הנפרדת בין החברות.",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+          "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+          "publisher": "Reuters / Bloomberg",
+          "published_at": "2026-11-06",
+          "kind": "secondary"
+        }
+      ],
+      "verified_at": "2026-11-10"
+    },
     {
       "id": "google-terawulf-justified-backstop-nov2026",
       "source": "google",
@@ -5319,7 +5488,7 @@
       "target": "anthropic",
       "type": "financing",
       "title_he": "מסגרת Google ל-Anthropic: עד 20 מיליארד דולר נוספים",
-      "summary_he": "המסגרת הנותרת מאפשרת הנפקת אג״ח או מניות עד סוף 2030, בכפוף לתנאים. בסוף ספטמבר 2026 טרם נמשכה ממנה יתרה.",
+      "summary_he": "בסוף ספטמבר עמדה המסגרת הנותרת על עד 20 מיליארד דולר. לפי תשקיף מ-10 בנובמבר, השקעה מתוכננת של 10 מיליארד דולר בהקצאה פרטית בהנפקה תפחית את היתרה ל-10 מיליארד דולר, אם העסקה תושלם.",
       "announced_at": "2026-03",
       "status": "signed",
       "value": {
@@ -5329,17 +5498,17 @@
       },
       "capacity_he": "",
       "direction_he": "החץ מציין את הצדדים לקשר ואינו מייצג תשלום ידוע.",
-      "caveat_he": "יתרה עתידית, ולא השקעה שהושלמה.",
+      "caveat_he": "יתרה עתידית מותנית, ולא השקעה שהושלמה. אין לסכום את ההקצאה הפרטית המותנית בנפרד ממסגרת זו.",
       "sources": [
         {
-          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
-          "title": "Anthropic S-1/A",
+          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm",
+          "title": "Anthropic S-1/A, November 10",
           "publisher": "Anthropic / SEC",
-          "published_at": "2026-11-02",
+          "published_at": "2026-11-10",
           "kind": "primary"
         }
       ],
-      "verified_at": "2026-11-06"
+      "verified_at": "2026-11-10"
     },
     {
       "id": "broadcom-anthropic-financing-npa-2026",

@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-10",
   "methodology_he": "גודל הבועה מבוסס על שווי שוק בדולרים לחברה ציבורית, או על שווי לאחר הכסף בסבב פרטי שפורסם ואומת. אלה בסיסי תמחור שונים ותאריכי השווי מוצגים בנפרד. הנתונים הם תמונת מצב ידנית, ולא מחירי זמן אמת. לגוף ללא שווי פומבי מאומת מוצגת בועת ברירת מחדל שאינה אומדן שווי.",
   "companies": {
     "amazon": {
-      "usd_billion": 2813,
+      "usd_billion": 2929,
       "kind": "market_cap",
-      "as_of": "2026-11-06",
+      "as_of": "2026-11-10",
       "source": {
-        "url": "https://companiesmarketcap.com/",
-        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+        "title": "Technology companies market capitalization, snapshot 10 November 2026",
         "publisher": "CompaniesMarketCap",
         "kind": "secondary"
       },
-      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+      "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
     },
     "anthropic": {
       "usd_billion": 965,
@@ -27,88 +27,88 @@
       "note_he": "שווי לאחר הכסף בסבב H. דיווח על יעד שווי עתידי בהנפקה אינו מחליף שווי עסקה שהושלמה."
     },
     "apple": {
-      "usd_billion": 5001,
+      "usd_billion": 5059,
       "kind": "market_cap",
-      "as_of": "2026-11-06",
+      "as_of": "2026-11-10",
       "source": {
-        "url": "https://companiesmarketcap.com/",
-        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+        "title": "Technology companies market capitalization, snapshot 10 November 2026",
         "publisher": "CompaniesMarketCap",
         "kind": "secondary"
       },
-      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+      "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
     },
     "applied-materials": {
-      "usd_billion": 253.35,
+      "usd_billion": 297.31,
       "kind": "market_cap",
-      "as_of": "2026-11-06",
+      "as_of": "2026-11-10",
       "source": {
-        "url": "https://companiesmarketcap.com/",
-        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+        "title": "Technology companies market capitalization, snapshot 10 November 2026",
         "publisher": "CompaniesMarketCap",
         "kind": "secondary"
       },
-      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+      "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
     },
     "google": {
-      "usd_billion": 3463,
+      "usd_billion": 3523,
       "kind": "market_cap",
-      "as_of": "2026-11-06",
+      "as_of": "2026-11-10",
       "source": {
-        "url": "https://companiesmarketcap.com/",
-        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+        "title": "Technology companies market capitalization, snapshot 10 November 2026",
         "publisher": "CompaniesMarketCap",
         "kind": "secondary"
       },
-      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+      "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
     },
     "intel": {
-      "usd_billion": 277.7,
+      "usd_billion": 309.97,
       "kind": "market_cap",
-      "as_of": "2026-11-06",
+      "as_of": "2026-11-10",
       "source": {
-        "url": "https://companiesmarketcap.com/",
-        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+        "title": "Technology companies market capitalization, snapshot 10 November 2026",
         "publisher": "CompaniesMarketCap",
         "kind": "secondary"
       },
-      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+      "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
     },
     "meta": {
-      "usd_billion": 1547,
+      "usd_billion": 1642,
       "kind": "market_cap",
-      "as_of": "2026-11-06",
+      "as_of": "2026-11-10",
       "source": {
-        "url": "https://companiesmarketcap.com/",
-        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+        "title": "Technology companies market capitalization, snapshot 10 November 2026",
         "publisher": "CompaniesMarketCap",
         "kind": "secondary"
       },
-      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+      "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
     },
     "microsoft": {
-      "usd_billion": 3979,
+      "usd_billion": 4030,
       "kind": "market_cap",
-      "as_of": "2026-11-06",
+      "as_of": "2026-11-10",
       "source": {
-        "url": "https://companiesmarketcap.com/",
-        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+        "title": "Technology companies market capitalization, snapshot 10 November 2026",
         "publisher": "CompaniesMarketCap",
         "kind": "secondary"
       },
-      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+      "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
     },
     "nvidia": {
-      "usd_billion": 4385,
+      "usd_billion": 4115,
       "kind": "market_cap",
-      "as_of": "2026-11-06",
+      "as_of": "2026-11-10",
       "source": {
-        "url": "https://companiesmarketcap.com/",
-        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+        "title": "Technology companies market capitalization, snapshot 10 November 2026",
         "publisher": "CompaniesMarketCap",
         "kind": "secondary"
       },
-      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+      "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
     },
     "openai": {
       "usd_billion": 852,
@@ -123,40 +123,40 @@
       "note_he": "שווי לאחר הכסף של 852 מיליארד דולר בסגירת סבב ההשקעה. זהו שווי עסקה פרטית, לא שווי שוק יומי."
     },
     "spacex": {
-      "usd_billion": 1678,
+      "usd_billion": 1934,
       "kind": "market_cap",
-      "as_of": "2026-11-06",
+      "as_of": "2026-11-10",
       "source": {
-        "url": "https://companiesmarketcap.com/",
-        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+        "title": "Technology companies market capitalization, snapshot 10 November 2026",
         "publisher": "CompaniesMarketCap",
         "kind": "secondary"
       },
-      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+      "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
     },
     "tesla": {
-      "usd_billion": 1358,
+      "usd_billion": 1484,
       "kind": "market_cap",
-      "as_of": "2026-11-06",
+      "as_of": "2026-11-10",
       "source": {
-        "url": "https://companiesmarketcap.com/",
-        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+        "title": "Technology companies market capitalization, snapshot 10 November 2026",
         "publisher": "CompaniesMarketCap",
         "kind": "secondary"
       },
-      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+      "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
     },
     "tsmc": {
-      "usd_billion": 1831,
+      "usd_billion": 2055,
       "kind": "market_cap",
-      "as_of": "2026-11-06",
+      "as_of": "2026-11-10",
       "source": {
-        "url": "https://companiesmarketcap.com/",
-        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+        "title": "Technology companies market capitalization, snapshot 10 November 2026",
         "publisher": "CompaniesMarketCap",
         "kind": "secondary"
       },
-      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+      "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
     },
     "adobe": {
       "usd_billion": null,
@@ -482,16 +482,16 @@
       "note_he": "לא הוזן שווי פומבי מאומת. גודל הבועה אינו אומדן שווי."
     },
     "oracle": {
-      "usd_billion": 359.03,
+      "usd_billion": 370.39,
       "kind": "market_cap",
-      "as_of": "2026-11-06",
+      "as_of": "2026-11-10",
       "source": {
-        "url": "https://companiesmarketcap.com/",
-        "title": "Companies ranked by Market Cap, snapshot checked November 6, 2026",
+        "url": "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/",
+        "title": "Technology companies market capitalization, snapshot 10 November 2026",
         "publisher": "CompaniesMarketCap",
         "kind": "secondary"
       },
-      "note_he": "שווי השוק בדולר ארה״ב שהוצג במקור בעת הבדיקה ב־6 בנובמבר 2026. נתוני מסחר ושערי המרה עשויים להיות מעוכבים. אין זה שווי של פעילות ה־AI לבדה."
+      "note_he": "צילום מצב מ-10 בנובמבר 2026 במהלך יום המסחר בארה״ב, סמוך ל-18:09 שעון ישראל. הנתונים עשויים להיות מעוכבים ולהשתנות. שווי השוק מתייחס לחברה כולה ולא לפעילות AI בלבד."
     },
     "palantir": {
       "usd_billion": 373.44,

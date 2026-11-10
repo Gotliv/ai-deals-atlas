@@ -762,7 +762,7 @@
     "target": "anthropic",
     "type": "financing",
     "title_he": "מסגרת Google ל-Anthropic: עד 20 מיליארד דולר נוספים",
-    "summary_he": "המסגרת הנותרת מאפשרת הנפקת אג״ח או מניות עד סוף 2030, בכפוף לתנאים. בסוף ספטמבר 2026 טרם נמשכה ממנה יתרה.",
+    "summary_he": "בסוף ספטמבר עמדה המסגרת הנותרת על עד 20 מיליארד דולר. לפי תשקיף מ-10 בנובמבר, השקעה מתוכננת של 10 מיליארד דולר בהקצאה פרטית בהנפקה תפחית את היתרה ל-10 מיליארד דולר, אם העסקה תושלם.",
     "announced_at": "2026-03",
     "status": "signed",
     "value": {
@@ -772,17 +772,17 @@
     },
     "capacity_he": "",
     "direction_he": "החץ מציין את הצדדים לקשר ואינו מייצג תשלום ידוע.",
-    "caveat_he": "יתרה עתידית, ולא השקעה שהושלמה.",
+    "caveat_he": "יתרה עתידית מותנית, ולא השקעה שהושלמה. אין לסכום את ההקצאה הפרטית המותנית בנפרד ממסגרת זו.",
     "sources": [
       {
-        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
-        "title": "Anthropic S-1/A",
+        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm",
+        "title": "Anthropic S-1/A, November 10",
         "publisher": "Anthropic / SEC",
-        "published_at": "2026-11-02",
+        "published_at": "2026-11-10",
         "kind": "primary"
       }
     ],
-    "verified_at": "2026-11-06"
+    "verified_at": "2026-11-10"
   },
   {
     "id": "anthropic-google-compute-current-2026",

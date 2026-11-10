@@ -17,9 +17,9 @@ for d in deals:
     assert d['source'] in ids and d['target'] in ids and d['source']!=d['target'],d['id']
     assert d['type'] in types and d['status'] in statuses,d['id']
     assert re.fullmatch(r'\d{4}(-\d{2})?(-\d{2})?',d['announced_at']),d['id']
-    assert d['announced_at']<='2026-11-06',d['id']
+    assert d['announced_at']<='2026-11-10',d['id']
     date.fromisoformat(d['announced_at']+{4:'-01-01',7:'-01',10:''}[len(d['announced_at'])])
-    assert d['verified_at']=='2026-11-06',d['id']
+    assert d['verified_at']<='2026-11-10',d['id']
     for field in ['title_he','summary_he','direction_he']:
         assert re.search('[א-ת]',d[field]),(d['id'],field)
         assert '\u2014' not in d[field],d['id']
@@ -31,7 +31,7 @@ for d in deals:
         assert s['url'].startswith('https://'),d['id']
         assert s['title'] and s['publisher'],d['id']
         assert s['kind'] in {'primary','secondary'},d['id']
-        assert not s['published_at'] or s['published_at']<='2026-11-06',(d['id'],s)
+        assert not s['published_at'] or s['published_at']<='2026-11-10',(d['id'],s)
 for c in companies:
     assert (ROOT/'public'/c['logo']).exists(),f'Missing logo {c["id"]}'
     assert any(d['source']==c['id'] or d['target']==c['id'] for d in deals)
@@ -39,7 +39,7 @@ for c in companies:
     if size.get('usd_billion') is not None:
         assert size['usd_billion']>0,c['id']
         assert size['kind'] in {'market_cap','private_valuation'},c['id']
-        assert size['as_of']<='2026-11-06',c['id']
+        assert size['as_of']<='2026-11-10',c['id']
         assert size['source']['url'].startswith('https://'),c['id']
 # These distinguish the corrected dataset from common misleading diagrams.
 assert byid['microsoft-mistral-investment-2024']['value']=={'amount':15000000,'currency':'EUR','qualifier_he':byid['microsoft-mistral-investment-2024']['value']['qualifier_he']}
